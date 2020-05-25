@@ -4663,6 +4663,7 @@
         "webUrl": "https://www.theguardian.com/profile/redwan-ahmed",
         "apiUrl": "https://content.guardianapis.com/profile/redwan-ahmed",
         "references": [],
+        "bio": "<p>Redwan Ahmed is a&nbsp;freelance journalist covering Bangladesh</p>",
         "firstName": "Redwan",
         "lastName": "Ahmed"
       },
@@ -6783,7 +6784,7 @@
       "firstPublicationDate": "2020-05-11T09:00:03Z",
       "isInappropriateForSponsorship": "false",
       "isPremoderated": "false",
-      "lastModified": "2020-05-11T09:15:38Z",
+      "lastModified": "2020-05-21T19:22:56Z",
       "productionOffice": "US",
       "publication": "theguardian.com",
       "shortUrl": "https://gu.com/p/dzbxg",
@@ -6810,6 +6811,42 @@
         "apiUrl": "https://content.guardianapis.com/us-news/series/cancer-in-the-coronavirus-crisis-my-weekly-diary",
         "references": [],
         "description": "<p><em>Heather Chaney, 49, is a stay-at-home mom from Bellevue, Washington. She was diagnosed with cervical cancer in mid-February 2020, just weeks before the coronavirus outbreak overwhelmed the state. Follow her treatment journey in her weekly diary column</em></p>"
+      },
+      {
+        "id": "society/cancer",
+        "type": "keyword",
+        "sectionId": "society",
+        "sectionName": "Society",
+        "webTitle": "Cancer",
+        "webUrl": "https://www.theguardian.com/society/cancer",
+        "apiUrl": "https://content.guardianapis.com/society/cancer",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/features",
+        "type": "tone",
+        "webTitle": "Features",
+        "webUrl": "https://www.theguardian.com/tone/features",
+        "apiUrl": "https://content.guardianapis.com/tone/features",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
       },
       {
         "id": "us-news/us-news",
@@ -6839,42 +6876,6 @@
         "webTitle": "Health",
         "webUrl": "https://www.theguardian.com/society/health",
         "apiUrl": "https://content.guardianapis.com/society/health",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "society/cancer",
-        "type": "keyword",
-        "sectionId": "society",
-        "sectionName": "Society",
-        "webTitle": "Cancer",
-        "webUrl": "https://www.theguardian.com/society/cancer",
-        "apiUrl": "https://content.guardianapis.com/society/cancer",
-        "references": []
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/news",
-        "type": "tone",
-        "webTitle": "News",
-        "webUrl": "https://www.theguardian.com/tone/news",
-        "apiUrl": "https://content.guardianapis.com/tone/news",
         "references": []
       },
       {
@@ -9047,11 +9048,12 @@
         "webUrl": "https://www.theguardian.com/profile/paulmacinnes",
         "apiUrl": "https://content.guardianapis.com/profile/paulmacinnes",
         "references": [],
-        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture.&nbsp;</p>",
+        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture</p>",
         "bylineImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul-Macinnes.jpg",
         "bylineLargeImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul_MacInnes,_L.png",
         "firstName": "Paul",
-        "lastName": "MacInnes"
+        "lastName": "MacInnes",
+        "twitterHandle": "PaulMac"
       },
       {
         "id": "tracking/commissioningdesk/digital-backbench",
@@ -9423,6 +9425,162 @@
     "pillarName": "News"
   },
   {
+    "id": "global-development/commentisfree/2020/may/11/women-are-on-the-covid-19-frontline-we-must-give-them-the-support-they-need",
+    "type": "article",
+    "sectionId": "global-development",
+    "sectionName": "Global development",
+    "webPublicationDate": "2020-05-11T12:15:06Z",
+    "webTitle": "Women are on the Covid-19 frontline \u2013 we must give them the support they need | Mark Lowcock and Natalia Kanem",
+    "webUrl": "https://www.theguardian.com/global-development/commentisfree/2020/may/11/women-are-on-the-covid-19-frontline-we-must-give-them-the-support-they-need",
+    "apiUrl": "https://content.guardianapis.com/global-development/commentisfree/2020/may/11/women-are-on-the-covid-19-frontline-we-must-give-them-the-support-they-need",
+    "fields": {
+      "headline": "Women are on the Covid-19 frontline \u2013 we must give them the support they need",
+      "standfirst": "<p>An effective response to the pandemic means tackling the violence and inequality faced by women</p><ul><li><a href=\"https://www.theguardian.com/world/series/coronavirus-live/latest\">Coronavirus \u2013 latest global updates</a></li><li><a href=\"https://www.theguardian.com/world/coronavirus-outbreak\">See all our coronavirus coverage</a></li></ul>",
+      "trailText": "An effective response to the pandemic means tackling the violence and inequality faced by women",
+      "byline": "Mark Lowcock and Natalia Kanem",
+      "main": "<figure class=\"element element-image\" data-media-id=\"62377c8eb18aabfc2d06d7a201e1eadeb6c83508\"> <img src=\"https://media.guim.co.uk/62377c8eb18aabfc2d06d7a201e1eadeb6c83508/0_125_5760_3456/1000.jpg\" alt=\"In both hospitals and homes, women are on the frontline in tackling coronavirus.\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">In both hospitals and homes, women are on the frontline in tackling coronavirus.</span> <span class=\"element-image__credit\">Photograph: Murdo MacLeod/The Guardian</span> </figcaption> </figure>",
+      "body": "<p>After a week in which people in some parts of the world have been given cause for optimism that they may have passed the peak of the pandemic, we have seen how extraordinary actions of individuals can change the trajectory for a whole nation.</p> <p>Retired doctors putting themselves back on the frontline, nurses making their own face masks, parents voluntarily separated from their children so they can care for the sick.</p> <p>More often than not, these are women. Women perform <a href=\"https://www.ilo.org/global/publications/books/WCMS_633135/lang--en/index.htm\">76% of the total hours of unpaid care work globally</a>. They have the majority of caregiving roles in homes and in communities. They will also carry more of the weight of caring for the sick and helping to stem the spread of the virus. Women do this essential work in spite of obstacles and inequalities.</p> <p>That\u2019s why our updated <a href=\"https://reliefweb.int/report/world/updated-covid-19-global-humanitarian-response-plan\">Global Humanitarian Response Plan</a> to counteract coronavirus, published on 7 May, has women at its heart. We know from experience that investing in women and girls produces dividends for all. We see that again with Covid-19.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/global-development/2020/may/08/separation-by-sex-gendered-lockdown-fuelling-hate-on-streets-of-bogota\">'Separation by sex': gendered lockdown fuelling hate crime on streets of Bogot\u00e1</a> </p> </aside>  <p>In hospitals and in homes, women are on the frontline. Local actions translate into global gains. If there is one thing we have learned about this pandemic, it\u2019s that the world is in this together and we can only overcome it if we act as one.</p> <p>We must equip women with what they need. Let\u2019s enable them to stay safe and supported. It\u2019s the right thing to do but also the smart thing to do so they can continue to save and improve lives.</p> <p>As health systems become stretched, many people with Covid-19 will need to be cared for at home. This will add to women\u2019s workload, and put them at greater risk of becoming infected.</p> <p>As the world fights the pandemic, we have another epidemic to overcome \u2013 the violence perpetrated against women, and the inequalities that leave them more likely to be living in poverty and without access to essential services.</p> <p>We know lockdowns and quarantines are essential to suppressing Covid-19. Yet they can trap women with abusive partners. Over recent weeks, there has been a dramatic jump in reported incidences of domestic violence in many countries. In some countries, the number of women calling support services has doubled.</p> <p>Humanitarian settings already stressed by years of war and poverty will not be any different, except that often there are few places to report the abuse or to seek shelter so that women and their children can stay safe.</p> <p>If we are serious about eradicating this virus, we must promote and protect the health and rights of women, for their own wellbeing and so that they can continue to promote and protect the health of others.</p> <p>That is why the UN\u2019s global humanitarian response plan to fight Covid-19 sets out specific actions to achieve this in the most vulnerable settings.</p> <p>This plan is already helping install handwashing facilities that are safe for women and girls to access; delivering medical equipment and supplies, including to address women\u2019s health; and getting aid workers and supplies to where they are needed most.</p> <p>The plan recognises the disproportionate impact of the pandemic on women and girls. It also recognises their power to stop the virus. the United Nations Population Fund will use resources from the appeal to prioritise the needs of women and girls \u2013 including working with women\u2019s groups on the ground to create safe spaces.</p> <p>All this is possible because of the generosity of donors. Much more is needed. We count on donors to continue funding the Covid-19 humanitarian response plan while sustaining support for existing humanitarian and refugee response plans.</p> <p>And we urge all governments to make the prevention and redress of violence against women a key part of their national response plans for Covid-19.</p> <p>Every day, women are overcoming obstacles and inequalities to treat and care for those infected with the virus, working hard to contain the virus, and helping their families and communities protect themselves.</p> <p>We owe it to these women to give them the tools and services they need, and the justice and equality that is their right \u2013 in hospitals, in homes, and in their communities.</p> <p>We are determined to do everything we can to counter this deadly virus, and that means addressing the inequalities that will otherwise hold all of us back.</p> <p>\u2022 Mark Lowcock is UN under secretary general for humanitarian affairs. Dr Natalia Kanem is executive director of the United Nations Population Fund</p>",
+      "wordcount": "742",
+      "firstPublicationDate": "2020-05-11T12:15:06Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-05-19T19:09:59Z",
+      "productionOffice": "UK",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dzb4x",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/62377c8eb18aabfc2d06d7a201e1eadeb6c83508/0_125_5760_3456/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "After a week in which people in some parts of the world have been given cause for optimism that they may have passed the peak of the pandemic, we have seen how extraordinary actions of individuals can change the trajectory for a whole nation. Retired doctors putting themselves back on the frontline, nurses making their own face masks, parents voluntarily separated from their children so they can care for the sick. More often than not, these are women. Women perform 76% of the total hours of unpaid care work globally. They have the majority of caregiving roles in homes and in communities. They will also carry more of the weight of caring for the sick and helping to stem the spread of the virus. Women do this essential work in spite of obstacles and inequalities. That\u2019s why our updated Global Humanitarian Response Plan to counteract coronavirus, published on 7 May, has women at its heart. We know from experience that investing in women and girls produces dividends for all. We see that again with Covid-19. In hospitals and in homes, women are on the frontline. Local actions translate into global gains. If there is one thing we have learned about this pandemic, it\u2019s that the world is in this together and we can only overcome it if we act as one. We must equip women with what they need. Let\u2019s enable them to stay safe and supported. It\u2019s the right thing to do but also the smart thing to do so they can continue to save and improve lives. As health systems become stretched, many people with Covid-19 will need to be cared for at home. This will add to women\u2019s workload, and put them at greater risk of becoming infected. As the world fights the pandemic, we have another epidemic to overcome \u2013 the violence perpetrated against women, and the inequalities that leave them more likely to be living in poverty and without access to essential services. We know lockdowns and quarantines are essential to suppressing Covid-19. Yet they can trap women with abusive partners. Over recent weeks, there has been a dramatic jump in reported incidences of domestic violence in many countries. In some countries, the number of women calling support services has doubled. Humanitarian settings already stressed by years of war and poverty will not be any different, except that often there are few places to report the abuse or to seek shelter so that women and their children can stay safe. If we are serious about eradicating this virus, we must promote and protect the health and rights of women, for their own wellbeing and so that they can continue to promote and protect the health of others. That is why the UN\u2019s global humanitarian response plan to fight Covid-19 sets out specific actions to achieve this in the most vulnerable settings. This plan is already helping install handwashing facilities that are safe for women and girls to access; delivering medical equipment and supplies, including to address women\u2019s health; and getting aid workers and supplies to where they are needed most. The plan recognises the disproportionate impact of the pandemic on women and girls. It also recognises their power to stop the virus. the United Nations Population Fund will use resources from the appeal to prioritise the needs of women and girls \u2013 including working with women\u2019s groups on the ground to create safe spaces. All this is possible because of the generosity of donors. Much more is needed. We count on donors to continue funding the Covid-19 humanitarian response plan while sustaining support for existing humanitarian and refugee response plans. And we urge all governments to make the prevention and redress of violence against women a key part of their national response plans for Covid-19. Every day, women are overcoming obstacles and inequalities to treat and care for those infected with the virus, working hard to contain the virus, and helping their families and communities protect themselves. We owe it to these women to give them the tools and services they need, and the justice and equality that is their right \u2013 in hospitals, in homes, and in their communities. We are determined to do everything we can to counter this deadly virus, and that means addressing the inequalities that will otherwise hold all of us back. \u2022 Mark Lowcock is UN under secretary general for humanitarian affairs. Dr Natalia Kanem is executive director of the United Nations Population Fund",
+      "charCount": "4398",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "Mark Lowcock and Natalia Kanem"
+    },
+    "tags": [
+      {
+        "id": "global-development/global-development",
+        "type": "keyword",
+        "sectionId": "global-development",
+        "sectionName": "Global development",
+        "webTitle": "Global development",
+        "webUrl": "https://www.theguardian.com/global-development/global-development",
+        "apiUrl": "https://content.guardianapis.com/global-development/global-development",
+        "references": []
+      },
+      {
+        "id": "lifeandstyle/women",
+        "type": "keyword",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webTitle": "Women",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/women",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/women",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "society/domestic-violence",
+        "type": "keyword",
+        "sectionId": "society",
+        "sectionName": "Society",
+        "webTitle": "Domestic violence",
+        "webUrl": "https://www.theguardian.com/society/domestic-violence",
+        "apiUrl": "https://content.guardianapis.com/society/domestic-violence",
+        "references": []
+      },
+      {
+        "id": "world/unitednations",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "United Nations",
+        "webUrl": "https://www.theguardian.com/world/unitednations",
+        "apiUrl": "https://content.guardianapis.com/world/unitednations",
+        "references": []
+      },
+      {
+        "id": "commentisfree/commentisfree",
+        "type": "blog",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webTitle": "Opinion",
+        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
+        "references": []
+      },
+      {
+        "id": "science/infectiousdiseases",
+        "type": "keyword",
+        "sectionId": "science",
+        "sectionName": "Science",
+        "webTitle": "Infectious diseases",
+        "webUrl": "https://www.theguardian.com/science/infectiousdiseases",
+        "apiUrl": "https://content.guardianapis.com/science/infectiousdiseases",
+        "references": []
+      },
+      {
+        "id": "society/society",
+        "type": "keyword",
+        "sectionId": "society",
+        "sectionName": "Society",
+        "webTitle": "Society",
+        "webUrl": "https://www.theguardian.com/society/society",
+        "apiUrl": "https://content.guardianapis.com/society/society",
+        "references": []
+      },
+      {
+        "id": "world/world",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "World news",
+        "webUrl": "https://www.theguardian.com/world/world",
+        "apiUrl": "https://content.guardianapis.com/world/world",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/comment",
+        "type": "tone",
+        "webTitle": "Comment",
+        "webUrl": "https://www.theguardian.com/tone/comment",
+        "apiUrl": "https://content.guardianapis.com/tone/comment",
+        "references": []
+      },
+      {
+        "id": "tracking/commissioningdesk/global-development",
+        "type": "tracking",
+        "webTitle": "UK Global Development",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/global-development",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/global-development",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
     "id": "us-news/2020/may/11/make-non-medical-coronavirus-face-mask-no-sewing-required",
     "type": "article",
     "sectionId": "us-news",
@@ -9437,12 +9595,12 @@
       "trailText": "Make your own using a T-shirt or handkerchief",
       "byline": "Danielle Renwick",
       "main": "<figure class=\"element element-atom\"> \n <gu-atom data-atom-id=\"5d25beb5-14fb-47b4-bd06-0714dbfabc04\" data-atom-type=\"media\"> \n  <div>\n   <iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube-nocookie.com/embed/cqLnDhHSJDU?showinfo=0&amp;rel=0\"></iframe>\n  </div>\n </gu-atom> \n</figure>",
-      "body": "<p>The US Centers for Disease Control <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html\">recommends</a> that all Americans wear face masks in public to reduce transmission of Covid-19. Because there are widespread shortages of medical-grade face masks, and leaders and experts agree those should be reserved for healthcare providers, many people are making face masks at home.</p> \n<p>Jeremy Howard, a University of San Francisco researcher and the co-founder of <a href=\"https://masks4all.co/\">Masks 4 All</a>, explains how to create your own, with no sewing required.</p> \n<figure class=\"element element-video\" data-canonical-url=\"https://www.youtube.com/watch?v=hVEVve-3QeM\"> \n <iframe height=\"259\" width=\"460\" src=\"https://www.youtube-nocookie.com/embed/hVEVve-3QeM?wmode=opaque&amp;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe> \n</figure> \n<h2><strong>Version one \u2013 the T-shirt facemask:</strong></h2> \n<figure class=\"element element-image\" data-media-id=\"c402f48a3edaf4b2ad58e69bb976b8f5b151015e\"> \n <img src=\"https://uploads.guim.co.uk/2020/04/06/EUevOqEX0Ako6DE.jpg\" alt=\"t-shirt\" width=\"2048\" height=\"1538\" class=\"gu-image\"> \n</figure> \n<ol> \n <li><p>Start with an old T-shirt, preferably 100% cotton \u2013 anything will do, as long as it\u2019s not too thin \u2013 and outline the pattern of the mask. The bottom line should go just beneath the armpits of the shirt. Make sure the part that goes on your face is large enough to cover your nose and mouth.</p></li> \n <li><p>Cut along the lines through both sides of the shirt so that your mask has two layers.</p></li> \n <li><p>Place a safety pin along the bottom and insert a piece of paper towel or coffee filter in between the two layers of the T-shirt. This acts as an additional filter, and rests on top of the safety pin.</p></li> \n <li><p>Secure the mask around the front of your face, covering your nose and mouth. Tie the top straps under the back of your head and the bottom straps at the top of your head. That will ensure a nice fit underneath your chin. By covering your mouth, you have now protected those around you, and the better the fit, the more you\u2019re going to also protect yourself.</p></li> \n</ol> \n<h2><strong>Version two \u2013 the handkerchief face mask:</strong></h2> \n<figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/2016/03/comics-master-2016/embed/embed.html?srcs-mobile=https://media.guim.co.uk/7e5e68c530c859dd8fb4bb14637d9231b440f4ec/0_0_800_2450/653..jpg&amp;ratios-mobile=306.7484662576687&amp;srcs-desktop=https://media.guim.co.uk/1234b55722b7a1d05e91b96bc112965984015623/0_0_1670_1474/1670..jpg&amp;ratios-desktop=88.57142857142857&amp;credit=Center%20for%20Disease%20Control%20and%20Prevention&amp;background=&amp;vpadding=\" data-alt=\"Mask instructions CDC -- mobile and desktop\"> \n <a href=\"https://interactive.guim.co.uk/2016/03/comics-master-2016/embed/embed.html?srcs-mobile=https://media.guim.co.uk/7e5e68c530c859dd8fb4bb14637d9231b440f4ec/0_0_800_2450/653..jpg&amp;ratios-mobile=306.7484662576687&amp;srcs-desktop=https://media.guim.co.uk/1234b55722b7a1d05e91b96bc112965984015623/0_0_1670_1474/1670..jpg&amp;ratios-desktop=88.57142857142857&amp;credit=Center%20for%20Disease%20Control%20and%20Prevention&amp;background=&amp;vpadding=\">Mask instructions CDC -- mobile and desktop</a> \n</figure> \n<ol> \n <li><p>Start with a handkerchief and two hair ties. Rubber bands are okay as well, although they will be less comfortable.</p></li> \n <li><p>Fold the handkerchief in half, along a horizontal axis, and make a nice crease.</p></li> \n <li><p>Place piece of paper towel or coffee filter at the center of the handkerchief. Fold the top down and the bottom up, so that the coffee filter or paper towel rests in the fold.</p></li> \n <li><p>Place your first elastic about one-third of the way in from the edge of the handkerchief. Place the second elastic one-third of the way in from the other side. The two elastics should be about one hand-width apart.</p></li> \n <li><p>Fold the left side in toward the center and then fold the right side in toward the center, tucking the right side into the left-side flap.</p></li> \n</ol> \n<h2><strong>Using and taking care of your mask:</strong></h2> \n<ul> \n <li><p>Don\u2019t wear it at home, and don\u2019t wear it in the car, unless you\u2019re with people outside your regular family group. Don\u2019t wear it more than necessary \u2013 just wear it when you\u2019re in a public place, like a supermarket, where you might be within 6ft of people. It may not be necessary in a park or on a quiet street with few pedestrians, when you\u2019re moving around.</p></li> \n <li><p>Don\u2019t remove the mask until you\u2019re at home or in a place where you can wash your hands and avoid coming within 6ft of other people. When you do remove the mask, avoid touching the front of it in case you breathed in infected droplets that could now be there.</p></li> \n <li><p>Remove and dispose of the paper towel insert. Place the rest of the mask in soapy water, soak it for two minutes, then wash and rinse. Any kind of soap \u2013 dish soap, laundry detergent, hand soap \u2013 will do. Then wash your hands, and disinfect with bleach or alcohol anything you touched after taking off the mask. Never reuse a mask without washing it first.</p></li> \n <li><p>Next time you wear the mask, remember to replace the paper-towel insert.</p></li> \n <li><p>If you have symptoms \u2013 a stuffy nose, a cough, a fever \u2013 stay inside.</p></li> \n</ul> \n<figure class=\"element element-video\" data-canonical-url=\"https://www.youtube.com/watch?v=VgHrnS6n4iA\"> \n <iframe height=\"259\" width=\"460\" src=\"https://www.youtube-nocookie.com/embed/VgHrnS6n4iA?wmode=opaque&amp;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe> \n</figure>",
-      "wordcount": "608",
+      "body": "<p>The US Centers for Disease Control <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html\">recommends</a> that all Americans wear face masks in public to reduce transmission of Covid-19. The agency maintains that \u201cit is critical to emphasize that maintaining 6-feet social distancing remains important to slowing the spread of the virus,\u201d and advises that simple cloth coverings can prevent people who may be infected without knowing it from transmitting the virus to others.</p> \n<p>Jeremy Howard, a University of San Francisco researcher and the co-founder of <a href=\"https://masks4all.co/\">Masks 4 All</a>, explains how to create your own, with no sewing required.</p> \n<figure class=\"element element-video\" data-canonical-url=\"https://www.youtube.com/watch?v=hVEVve-3QeM\"> \n <iframe height=\"259\" width=\"460\" src=\"https://www.youtube-nocookie.com/embed/hVEVve-3QeM?wmode=opaque&amp;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe> \n</figure> \n<h2><strong>Version one \u2013 the T-shirt facemask:</strong></h2> \n<figure class=\"element element-image\" data-media-id=\"c402f48a3edaf4b2ad58e69bb976b8f5b151015e\"> \n <img src=\"https://uploads.guim.co.uk/2020/04/06/EUevOqEX0Ako6DE.jpg\" alt=\"t-shirt\" width=\"2048\" height=\"1538\" class=\"gu-image\"> \n</figure> \n<ol> \n <li><p>Start with an old T-shirt, preferably 100% cotton \u2013 anything will do, as long as it\u2019s not too thin \u2013 and outline the pattern of the mask. The bottom line should go just beneath the armpits of the shirt. Make sure the part that goes on your face is large enough to cover your nose and mouth.</p></li> \n <li><p>Cut along the lines through both sides of the shirt so that your mask has two layers.</p></li> \n <li><p>Place a safety pin along the bottom and insert a piece of paper towel or coffee filter in between the two layers of the T-shirt. This acts as an additional filter, and rests on top of the safety pin.</p></li> \n <li><p>Secure the mask around the front of your face, covering your nose and mouth. Tie the top straps under the back of your head and the bottom straps at the top of your head. That will ensure a nice fit underneath your chin. By covering your mouth, you have now protected those around you, and the better the fit, the more you\u2019re going to also protect yourself.</p></li> \n</ol> \n<h2><strong>Version two \u2013 the handkerchief face mask:</strong></h2> \n<figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/2016/03/comics-master-2016/embed/embed.html?srcs-mobile=https://media.guim.co.uk/7e5e68c530c859dd8fb4bb14637d9231b440f4ec/0_0_800_2450/653..jpg&amp;ratios-mobile=306.7484662576687&amp;srcs-desktop=https://media.guim.co.uk/1234b55722b7a1d05e91b96bc112965984015623/0_0_1670_1474/1670..jpg&amp;ratios-desktop=88.57142857142857&amp;credit=Center%20for%20Disease%20Control%20and%20Prevention&amp;background=&amp;vpadding=\" data-alt=\"Mask instructions CDC -- mobile and desktop\"> \n <a href=\"https://interactive.guim.co.uk/2016/03/comics-master-2016/embed/embed.html?srcs-mobile=https://media.guim.co.uk/7e5e68c530c859dd8fb4bb14637d9231b440f4ec/0_0_800_2450/653..jpg&amp;ratios-mobile=306.7484662576687&amp;srcs-desktop=https://media.guim.co.uk/1234b55722b7a1d05e91b96bc112965984015623/0_0_1670_1474/1670..jpg&amp;ratios-desktop=88.57142857142857&amp;credit=Center%20for%20Disease%20Control%20and%20Prevention&amp;background=&amp;vpadding=\">Mask instructions CDC -- mobile and desktop</a> \n</figure> \n<ol> \n <li><p>Start with a handkerchief and two hair ties. Rubber bands are okay as well, although they will be less comfortable.</p></li> \n <li><p>Fold the handkerchief in half, along a horizontal axis, and make a nice crease.</p></li> \n <li><p>Place piece of paper towel or coffee filter at the center of the handkerchief. Fold the top down and the bottom up, so that the coffee filter or paper towel rests in the fold.</p></li> \n <li><p>Place your first elastic about one-third of the way in from the edge of the handkerchief. Place the second elastic one-third of the way in from the other side. The two elastics should be about one hand-width apart.</p></li> \n <li><p>Fold the left side in toward the center and then fold the right side in toward the center, tucking the right side into the left-side flap.</p></li> \n</ol> \n<h2><strong>Using and taking care of your mask:</strong></h2> \n<ul> \n <li><p>Don\u2019t wear it at home, and don\u2019t wear it in the car, unless you\u2019re with people outside your regular family group. Don\u2019t wear it more than necessary \u2013 just wear it when you\u2019re in a public place, like a supermarket, where you might be within 6ft of people. It may not be necessary in a park or on a quiet street with few pedestrians, when you\u2019re moving around.</p></li> \n <li><p>Don\u2019t remove the mask until you\u2019re at home or in a place where you can wash your hands and avoid coming within 6ft of other people. When you do remove the mask, avoid touching the front of it in case you breathed in infected droplets that could now be there.</p></li> \n <li><p>Remove and dispose of the paper towel insert. Place the rest of the mask in soapy water, soak it for two minutes, then wash and rinse. Any kind of soap \u2013 dish soap, laundry detergent, hand soap \u2013 will do. Then wash your hands, and disinfect with bleach or alcohol anything you touched after taking off the mask. Never reuse a mask without washing it first.</p></li> \n <li><p>Next time you wear the mask, remember to replace the paper-towel insert.</p></li> \n <li><p>If you have symptoms \u2013 a stuffy nose, a cough, a fever \u2013 stay inside.</p></li> \n</ul> \n<figure class=\"element element-video\" data-canonical-url=\"https://www.youtube.com/watch?v=VgHrnS6n4iA\"> \n <iframe height=\"259\" width=\"460\" src=\"https://www.youtube-nocookie.com/embed/VgHrnS6n4iA?wmode=opaque&amp;feature=oembed\" frameborder=\"0\" allowfullscreen></iframe> \n</figure>",
+      "wordcount": "624",
       "firstPublicationDate": "2020-05-11T12:19:25Z",
       "isInappropriateForSponsorship": "false",
       "isPremoderated": "false",
-      "lastModified": "2020-05-13T16:53:30Z",
+      "lastModified": "2020-05-20T15:56:14Z",
       "productionOffice": "US",
       "publication": "theguardian.com",
       "shortUrl": "https://gu.com/p/dzbp7",
@@ -9452,8 +9610,8 @@
       "legallySensitive": "false",
       "lang": "en",
       "isLive": "true",
-      "bodyText": "The US Centers for Disease Control recommends that all Americans wear face masks in public to reduce transmission of Covid-19. Because there are widespread shortages of medical-grade face masks, and leaders and experts agree those should be reserved for healthcare providers, many people are making face masks at home. Jeremy Howard, a University of San Francisco researcher and the co-founder of Masks 4 All, explains how to create your own, with no sewing required. Version one \u2013 the T-shirt facemask: Start with an old T-shirt, preferably 100% cotton \u2013 anything will do, as long as it\u2019s not too thin \u2013 and outline the pattern of the mask. The bottom line should go just beneath the armpits of the shirt. Make sure the part that goes on your face is large enough to cover your nose and mouth. Cut along the lines through both sides of the shirt so that your mask has two layers. Place a safety pin along the bottom and insert a piece of paper towel or coffee filter in between the two layers of the T-shirt. This acts as an additional filter, and rests on top of the safety pin. Secure the mask around the front of your face, covering your nose and mouth. Tie the top straps under the back of your head and the bottom straps at the top of your head. That will ensure a nice fit underneath your chin. By covering your mouth, you have now protected those around you, and the better the fit, the more you\u2019re going to also protect yourself. Version two \u2013 the handkerchief face mask: Start with a handkerchief and two hair ties. Rubber bands are okay as well, although they will be less comfortable. Fold the handkerchief in half, along a horizontal axis, and make a nice crease. Place piece of paper towel or coffee filter at the center of the handkerchief. Fold the top down and the bottom up, so that the coffee filter or paper towel rests in the fold. Place your first elastic about one-third of the way in from the edge of the handkerchief. Place the second elastic one-third of the way in from the other side. The two elastics should be about one hand-width apart. Fold the left side in toward the center and then fold the right side in toward the center, tucking the right side into the left-side flap. Using and taking care of your mask: Don\u2019t wear it at home, and don\u2019t wear it in the car, unless you\u2019re with people outside your regular family group. Don\u2019t wear it more than necessary \u2013 just wear it when you\u2019re in a public place, like a supermarket, where you might be within 6ft of people. It may not be necessary in a park or on a quiet street with few pedestrians, when you\u2019re moving around. Don\u2019t remove the mask until you\u2019re at home or in a place where you can wash your hands and avoid coming within 6ft of other people. When you do remove the mask, avoid touching the front of it in case you breathed in infected droplets that could now be there. Remove and dispose of the paper towel insert. Place the rest of the mask in soapy water, soak it for two minutes, then wash and rinse. Any kind of soap \u2013 dish soap, laundry detergent, hand soap \u2013 will do. Then wash your hands, and disinfect with bleach or alcohol anything you touched after taking off the mask. Never reuse a mask without washing it first. Next time you wear the mask, remember to replace the paper-towel insert. If you have symptoms \u2013 a stuffy nose, a cough, a fever \u2013 stay inside.",
-      "charCount": "3360",
+      "bodyText": "The US Centers for Disease Control recommends that all Americans wear face masks in public to reduce transmission of Covid-19. The agency maintains that \u201cit is critical to emphasize that maintaining 6-feet social distancing remains important to slowing the spread of the virus,\u201d and advises that simple cloth coverings can prevent people who may be infected without knowing it from transmitting the virus to others. Jeremy Howard, a University of San Francisco researcher and the co-founder of Masks 4 All, explains how to create your own, with no sewing required. Version one \u2013 the T-shirt facemask: Start with an old T-shirt, preferably 100% cotton \u2013 anything will do, as long as it\u2019s not too thin \u2013 and outline the pattern of the mask. The bottom line should go just beneath the armpits of the shirt. Make sure the part that goes on your face is large enough to cover your nose and mouth. Cut along the lines through both sides of the shirt so that your mask has two layers. Place a safety pin along the bottom and insert a piece of paper towel or coffee filter in between the two layers of the T-shirt. This acts as an additional filter, and rests on top of the safety pin. Secure the mask around the front of your face, covering your nose and mouth. Tie the top straps under the back of your head and the bottom straps at the top of your head. That will ensure a nice fit underneath your chin. By covering your mouth, you have now protected those around you, and the better the fit, the more you\u2019re going to also protect yourself. Version two \u2013 the handkerchief face mask: Start with a handkerchief and two hair ties. Rubber bands are okay as well, although they will be less comfortable. Fold the handkerchief in half, along a horizontal axis, and make a nice crease. Place piece of paper towel or coffee filter at the center of the handkerchief. Fold the top down and the bottom up, so that the coffee filter or paper towel rests in the fold. Place your first elastic about one-third of the way in from the edge of the handkerchief. Place the second elastic one-third of the way in from the other side. The two elastics should be about one hand-width apart. Fold the left side in toward the center and then fold the right side in toward the center, tucking the right side into the left-side flap. Using and taking care of your mask: Don\u2019t wear it at home, and don\u2019t wear it in the car, unless you\u2019re with people outside your regular family group. Don\u2019t wear it more than necessary \u2013 just wear it when you\u2019re in a public place, like a supermarket, where you might be within 6ft of people. It may not be necessary in a park or on a quiet street with few pedestrians, when you\u2019re moving around. Don\u2019t remove the mask until you\u2019re at home or in a place where you can wash your hands and avoid coming within 6ft of other people. When you do remove the mask, avoid touching the front of it in case you breathed in infected droplets that could now be there. Remove and dispose of the paper towel insert. Place the rest of the mask in soapy water, soak it for two minutes, then wash and rinse. Any kind of soap \u2013 dish soap, laundry detergent, hand soap \u2013 will do. Then wash your hands, and disinfect with bleach or alcohol anything you touched after taking off the mask. Never reuse a mask without washing it first. Next time you wear the mask, remember to replace the paper-towel insert. If you have symptoms \u2013 a stuffy nose, a cough, a fever \u2013 stay inside.",
+      "charCount": "3457",
       "shouldHideReaderRevenue": "false",
       "showAffiliateLinks": "false",
       "bylineHtml": "<a href=\"profile/danielle-renwick\">Danielle Renwick</a>"
@@ -18006,6 +18164,149 @@
     "pillarName": "News"
   },
   {
+    "id": "business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
+    "type": "article",
+    "sectionId": "business",
+    "sectionName": "Business",
+    "webPublicationDate": "2020-05-11T17:30:48Z",
+    "webTitle": "We have a long way to go to get Australia's economy back on track | Greg Jericho",
+    "webUrl": "https://www.theguardian.com/business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
+    "apiUrl": "https://content.guardianapis.com/business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
+    "fields": {
+      "headline": "We have a long way to go to get Australia's economy back on track",
+      "standfirst": "<p>Even with strong growth, the economy is not expected to be the size it was at the end of last year until March 2022</p><ul><li><a href=\"https://www.theguardian.com/newsletters/2020/mar/28/sign-up-for-guardian-australias-daily-coronavirus-email?CMP=cvau_sfl\">Sign up for Guardian Australia\u2019s daily coronavirus email</a></li><li><a href=\"https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl\">Download the free Guardian app to get the most important news notifications</a></li><li><a href=\"https://www.theguardian.com/australia-news/datablog/ng-interactive/2020/may/07/coronavirus-cases-australia-numbers-map-how-many-new-today-stats-statistics-graph-hotspots-by-postcode-covid-19-deaths-death-toll?CMP=cvau_sfl\">Coronavirus Australia maps and cases: live numbers and statistics</a></li></ul>",
+      "trailText": "Even with strong growth, the economy is not expected to be the size it was at the end of last year until March 2022",
+      "byline": "Greg Jericho",
+      "main": "<figure class=\"element element-image\" data-media-id=\"9b57582565bf19e0675288c9b4887d338e9ad836\"> <img src=\"https://media.guim.co.uk/9b57582565bf19e0675288c9b4887d338e9ad836/0_183_5134_3082/1000.jpg\" alt=\"The Australian Reserve Bank Building , Martin Place, Sydney, Australia. 13 March 2020\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">\u2018The Reserve Bank\u2019s prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%\u2019.</span> <span class=\"element-image__credit\">Photograph: Jessica Hromas/The Guardian</span> </figcaption> </figure>",
+      "body": "<p>The economics data continues to be dire, but as we look forward, it is worth remembering that the return to \u201cnormal\u201d growth is not the only aspect at play. What is often forgotten when looking at recessions is not the time taken to \u201csnap back\u201d but the ongoing loss to production and jobs that sometimes is never regained.</p> <p>Early February was not a good time to be making economic forecasts. I speak from some experience, because <a href=\"https://www.theguardian.com/business/grogonomics/2020/feb/04/bushfires-and-the-coronavirus-will-hit-australias-economy-but-they-wont-knock-it-out\">on 4 February</a> I wrote that \u201ctalk of a recession is a bit premature\u201d. So it gives me some small comfort to note that the Reserve Bank\u2019s statement on monetary policy on 6 February also saw little sign of the recession ahead.</p> <p>But how do times change! Fast forward to last Friday and the bank\u2019s latest statement saw massive plunges in its economic forecasts.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/may/11/society-must-not-snap-back-to-insecure-work-and-poverty-after-coronavirus-crisis-albanese-says\">Society must not \u2018snap back\u2019 to insecure work and poverty after coronavirus crisis, Albanese says</a> </p> </aside>  <p>In <a href=\"https://www.rba.gov.au/publications/smp/2020/feb/economic-outlook.html\">February it noted</a> \u201cThe forecasts have also been revised a little lower in the near term to account for some effect from the recent bushfires and the coronavirus outbreak in China; beyond the near term, forecasts for growth are largely unchanged.\u201d</p> <p>Ah, the sweet optimism of three months ago.</p> <p>Now, <a href=\"https://www.rba.gov.au/publications/smp/2020/may/economic-outlook.html\">the RBA says</a> \u201cthe Australian economy is expected to record a contraction in GDP of around 10 per cent over the first half of 2020; total hours worked are expected to decline by around 20 per cent and the unemployment rate is forecast to rise to around 10 per cent in the June quarter.\u201d</p> <p>The prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%:</p>  <figure class=\"element element-embed\" data-alt=\"Unemployment rate - RBA estimates\">  <iframe title=\"Unemployment rate - RBA estimates\" aria-label=\"chart\" id=\"datawrapper-chart-oHAG9\" src=\"https://datawrapper.dwcdn.net/oHAG9/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>When the RBA predicts GDP growth and other measures it rather nicely provides its <a href=\"https://www.rba.gov.au/publications/smp/2020/feb/images/graph-5.01.svg\">70% and 90% confidence intervals</a>.</p> <p>In February, the RBA was 90% confident that annual GDP in June would be between 0.25% and 3.5%. That is a large range \u2013 the economic equivalent of a barn door, and yet they missed \u2013 and missed by a lot:</p>  <figure class=\"element element-embed\" data-alt=\"RBA estimates of annual GDP growth\">  <iframe title=\"RBA estimates of annual GDP growth\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-x251g\" src=\"https://datawrapper.dwcdn.net/x251g/3/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>With this miss should also come some level of wariness when looking at its forecast for growth over the next two years.</p> <p>It hopes that the 12 months to June next year will see the economy grow by 7%, and for growth not to fall below 5% until midway through 2022. Given the economy has not grown above 5% this century, that is a heck of a rebound.</p> <p>But the associated unemployment figures show how huge is the task before us.</p> <p>The RBA has forecast unemployment to rise and fall in line with the long-term relationship between GDP growth and annual changes in the unemployment rate:</p>  <figure class=\"element element-embed\" data-alt=\"Annual GDP growth v change in unemployment: 1970-2022\">  <iframe title=\"Annual GDP growth v change in unemployment: 1970-2022\" aria-label=\"chart\" id=\"datawrapper-chart-FHmCy\" src=\"https://datawrapper.dwcdn.net/FHmCy/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>The problem is unemployment rises faster than it falls.</p> <p>Historically, if GDP falls 6% in a year, unemployment will rise about 4%pts; conversely if the economy grows by 6%, unemployment will only fall by around 1.5%pts.</p> <p>That\u2019s why even with the RBA estimating strong growth after this year, it still has unemployment around 1.3% points above where it is now \u2013 a difference of about 180,000 people out of work.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/commentisfree/2020/may/11/after-the-nightmare-of-coronavirus-lets-manufacture-a-better-australian-dream\">After the nightmare of coronavirus, let's manufacture a better Australian dream | Van Badham</a> </p> </aside>  <p>This is because when the economy goes backwards you need to not just get growth back to where it was, but you need to regain that lost production. We mostly talk about the growth of the economy, but we should not forget the actual amount is important.</p> <p>After the 1990s recession, it took around eight years for Australia\u2019s economy to get back on terms with where it had been heading:</p>  <figure class=\"element element-embed\" data-alt=\"Australia's GDP - before and after 1990s recession\">  <iframe title=\"Australia's GDP - before and after 1990s recession\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-0law3\" src=\"https://datawrapper.dwcdn.net/0law3/1/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>That shaded area in the graph is lost potential growth \u2013 lost profit and household income.</p> <p>You can see how massive this issue can be when we look at the UK before and after the GFC:</p>  <figure class=\"element element-embed\" data-alt=\"United Kingdom GDP\">  <iframe title=\"United Kingdom GDP\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-ulJ8I\" src=\"https://datawrapper.dwcdn.net/ulJ8I/4/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>The GFC in 2009 knocked the size of UK\u2019s economy back to 2005 levels \u2013 essentially setting it back four years. And over the past decade it has not only been unable to recapture that lost time, it has fallen further behind.</p> <p>Last year, the UK economy reached a level that it would have been expected to achieve in 2013 had it continued along the 1993-2007 trend \u2013 essentially it was six years behind schedule.</p> <p>And then came the coronavirus, which the IMF estimates will knock it back to 2015 levels \u2013 or where the UK was once on track to reach in 2010.</p> <p>That means the UK, due to the GFC, Brexit and now the coronavirus, is around a decade behind where in 2007 you would have predicted it would be.</p> <p>That\u2019s why when we look at the RBA\u2019s estimates, it is well to note that even with the estimated strong growth, the economy is not expected to recover to the size it was at the end of last year until March 2022:</p>  <figure class=\"element element-embed\" data-alt=\"Australia's quarterly GDP - RBA estimates\">  <iframe title=\"Australia's quarterly GDP - RBA estimates\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-cnn2m\" src=\"https://datawrapper.dwcdn.net/cnn2m/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>If things go bad, that won\u2019t happen until well into 2023 \u2013 or more than three years behind.</p> <p>And even with the baseline we are still well behind where we were tracking \u2013 and unlikely to get back on the pre-virus trend until after 2023.</p> <p>All of which make it seem rather odd to hear talk of winding back stimulus measures.</p> <p>We have a long way to go \u2013 not just to return economic growth to where it was, but to get the size of the economy \u2013 and with it the jobs and income \u2013 back.</p> <p>And given the level of uncertainty with the virus, such a return is very much not guaranteed<a href=\"xhttps://www.theguardian.com/au\">.</a></p> <p>\u2022 Greg Jericho writes on economics for Guardian Australia</p>",
+      "wordcount": "896",
+      "commentCloseDate": "2020-05-14T17:30:48Z",
+      "commentable": "true",
+      "firstPublicationDate": "2020-05-11T17:30:48Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-05-11T17:32:47Z",
+      "productionOffice": "AUS",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dznvt",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/9b57582565bf19e0675288c9b4887d338e9ad836/0_183_5134_3082/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "The economics data continues to be dire, but as we look forward, it is worth remembering that the return to \u201cnormal\u201d growth is not the only aspect at play. What is often forgotten when looking at recessions is not the time taken to \u201csnap back\u201d but the ongoing loss to production and jobs that sometimes is never regained. Early February was not a good time to be making economic forecasts. I speak from some experience, because on 4 February I wrote that \u201ctalk of a recession is a bit premature\u201d. So it gives me some small comfort to note that the Reserve Bank\u2019s statement on monetary policy on 6 February also saw little sign of the recession ahead. But how do times change! Fast forward to last Friday and the bank\u2019s latest statement saw massive plunges in its economic forecasts. In February it noted \u201cThe forecasts have also been revised a little lower in the near term to account for some effect from the recent bushfires and the coronavirus outbreak in China; beyond the near term, forecasts for growth are largely unchanged.\u201d Ah, the sweet optimism of three months ago. Now, the RBA says \u201cthe Australian economy is expected to record a contraction in GDP of around 10 per cent over the first half of 2020; total hours worked are expected to decline by around 20 per cent and the unemployment rate is forecast to rise to around 10 per cent in the June quarter.\u201d The prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%: When the RBA predicts GDP growth and other measures it rather nicely provides its 70% and 90% confidence intervals. In February, the RBA was 90% confident that annual GDP in June would be between 0.25% and 3.5%. That is a large range \u2013 the economic equivalent of a barn door, and yet they missed \u2013 and missed by a lot: With this miss should also come some level of wariness when looking at its forecast for growth over the next two years. It hopes that the 12 months to June next year will see the economy grow by 7%, and for growth not to fall below 5% until midway through 2022. Given the economy has not grown above 5% this century, that is a heck of a rebound. But the associated unemployment figures show how huge is the task before us. The RBA has forecast unemployment to rise and fall in line with the long-term relationship between GDP growth and annual changes in the unemployment rate: The problem is unemployment rises faster than it falls. Historically, if GDP falls 6% in a year, unemployment will rise about 4%pts; conversely if the economy grows by 6%, unemployment will only fall by around 1.5%pts. That\u2019s why even with the RBA estimating strong growth after this year, it still has unemployment around 1.3% points above where it is now \u2013 a difference of about 180,000 people out of work. This is because when the economy goes backwards you need to not just get growth back to where it was, but you need to regain that lost production. We mostly talk about the growth of the economy, but we should not forget the actual amount is important. After the 1990s recession, it took around eight years for Australia\u2019s economy to get back on terms with where it had been heading: That shaded area in the graph is lost potential growth \u2013 lost profit and household income. You can see how massive this issue can be when we look at the UK before and after the GFC: The GFC in 2009 knocked the size of UK\u2019s economy back to 2005 levels \u2013 essentially setting it back four years. And over the past decade it has not only been unable to recapture that lost time, it has fallen further behind. Last year, the UK economy reached a level that it would have been expected to achieve in 2013 had it continued along the 1993-2007 trend \u2013 essentially it was six years behind schedule. And then came the coronavirus, which the IMF estimates will knock it back to 2015 levels \u2013 or where the UK was once on track to reach in 2010. That means the UK, due to the GFC, Brexit and now the coronavirus, is around a decade behind where in 2007 you would have predicted it would be. That\u2019s why when we look at the RBA\u2019s estimates, it is well to note that even with the estimated strong growth, the economy is not expected to recover to the size it was at the end of last year until March 2022: If things go bad, that won\u2019t happen until well into 2023 \u2013 or more than three years behind. And even with the baseline we are still well behind where we were tracking \u2013 and unlikely to get back on the pre-virus trend until after 2023. All of which make it seem rather odd to hear talk of winding back stimulus measures. We have a long way to go \u2013 not just to return economic growth to where it was, but to get the size of the economy \u2013 and with it the jobs and income \u2013 back. And given the level of uncertainty with the virus, such a return is very much not guaranteed. \u2022 Greg Jericho writes on economics for Guardian Australia",
+      "charCount": "4898",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/greg-jericho\">Greg Jericho</a>"
+    },
+    "tags": [
+      {
+        "id": "business/grogonomics",
+        "type": "blog",
+        "sectionId": "business",
+        "sectionName": "Business",
+        "webTitle": "Grogonomics",
+        "webUrl": "https://www.theguardian.com/business/grogonomics",
+        "apiUrl": "https://content.guardianapis.com/business/grogonomics",
+        "references": []
+      },
+      {
+        "id": "commentisfree/commentisfree",
+        "type": "blog",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webTitle": "Opinion",
+        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
+        "references": []
+      },
+      {
+        "id": "business/australia-economy",
+        "type": "keyword",
+        "sectionId": "business",
+        "sectionName": "Business",
+        "webTitle": "Australian economy",
+        "webUrl": "https://www.theguardian.com/business/australia-economy",
+        "apiUrl": "https://content.guardianapis.com/business/australia-economy",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "australia-news/australia-news",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australia news",
+        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
+        "references": []
+      },
+      {
+        "id": "australia-news/reserve-bank-of-australia",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Reserve Bank of Australia",
+        "webUrl": "https://www.theguardian.com/australia-news/reserve-bank-of-australia",
+        "apiUrl": "https://content.guardianapis.com/australia-news/reserve-bank-of-australia",
+        "references": [],
+        "description": "Latest news on the Reserve Bank of Australia from the Guardian"
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/comment",
+        "type": "tone",
+        "webTitle": "Comment",
+        "webUrl": "https://www.theguardian.com/tone/comment",
+        "apiUrl": "https://content.guardianapis.com/tone/comment",
+        "references": []
+      },
+      {
+        "id": "profile/greg-jericho",
+        "type": "contributor",
+        "webTitle": "Greg Jericho",
+        "webUrl": "https://www.theguardian.com/profile/greg-jericho",
+        "apiUrl": "https://content.guardianapis.com/profile/greg-jericho",
+        "references": [],
+        "bio": "<p>Greg writes on economics for Guardian Australia and is the author of the celebrated Grogs Gamut blog. He is a former public servant and author of the book The Rise of the Fifth Estate: Social Media and Blogging in Australian Politics</p>",
+        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2014/7/21/1405973562987/Greg-Jericho.jpg",
+        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/06/Greg-Jericho,-R.png",
+        "firstName": "jericho",
+        "lastName": "greg",
+        "twitterHandle": "GrogsGamut"
+      },
+      {
+        "id": "tracking/commissioningdesk/australia-opinion",
+        "type": "tracking",
+        "webTitle": "Australia Opinion",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-opinion",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-opinion",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
     "id": "sport/2020/may/12/rugby-australia-is-on-a-final-warning-drastic-measures-must-be-taken-to-ensure-survival",
     "type": "article",
     "sectionId": "sport",
@@ -18235,149 +18536,6 @@
         "webTitle": "Australia News",
         "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
         "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
-        "references": []
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/news",
-    "pillarName": "News"
-  },
-  {
-    "id": "business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
-    "type": "article",
-    "sectionId": "business",
-    "sectionName": "Business",
-    "webPublicationDate": "2020-05-11T17:30:48Z",
-    "webTitle": "We have a long way to go to get Australia's economy back on track | Greg Jericho",
-    "webUrl": "https://www.theguardian.com/business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
-    "apiUrl": "https://content.guardianapis.com/business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track",
-    "fields": {
-      "headline": "We have a long way to go to get Australia's economy back on track",
-      "standfirst": "<p>Even with strong growth, the economy is not expected to be the size it was at the end of last year until March 2022</p><ul><li><a href=\"https://www.theguardian.com/newsletters/2020/mar/28/sign-up-for-guardian-australias-daily-coronavirus-email?CMP=cvau_sfl\">Sign up for Guardian Australia\u2019s daily coronavirus email</a></li><li><a href=\"https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl\">Download the free Guardian app to get the most important news notifications</a></li><li><a href=\"https://www.theguardian.com/australia-news/datablog/ng-interactive/2020/may/07/coronavirus-cases-australia-numbers-map-how-many-new-today-stats-statistics-graph-hotspots-by-postcode-covid-19-deaths-death-toll?CMP=cvau_sfl\">Coronavirus Australia maps and cases: live numbers and statistics</a></li></ul>",
-      "trailText": "Even with strong growth, the economy is not expected to be the size it was at the end of last year until March 2022",
-      "byline": "Greg Jericho",
-      "main": "<figure class=\"element element-image\" data-media-id=\"9b57582565bf19e0675288c9b4887d338e9ad836\"> <img src=\"https://media.guim.co.uk/9b57582565bf19e0675288c9b4887d338e9ad836/0_183_5134_3082/1000.jpg\" alt=\"The Australian Reserve Bank Building , Martin Place, Sydney, Australia. 13 March 2020\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">\u2018The Reserve Bank\u2019s prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%\u2019.</span> <span class=\"element-image__credit\">Photograph: Jessica Hromas/The Guardian</span> </figcaption> </figure>",
-      "body": "<p>The economics data continues to be dire, but as we look forward, it is worth remembering that the return to \u201cnormal\u201d growth is not the only aspect at play. What is often forgotten when looking at recessions is not the time taken to \u201csnap back\u201d but the ongoing loss to production and jobs that sometimes is never regained.</p> <p>Early February was not a good time to be making economic forecasts. I speak from some experience, because <a href=\"https://www.theguardian.com/business/grogonomics/2020/feb/04/bushfires-and-the-coronavirus-will-hit-australias-economy-but-they-wont-knock-it-out\">on 4 February</a> I wrote that \u201ctalk of a recession is a bit premature\u201d. So it gives me some small comfort to note that the Reserve Bank\u2019s statement on monetary policy on 6 February also saw little sign of the recession ahead.</p> <p>But how do times change! Fast forward to last Friday and the bank\u2019s latest statement saw massive plunges in its economic forecasts.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/may/11/society-must-not-snap-back-to-insecure-work-and-poverty-after-coronavirus-crisis-albanese-says\">Society must not \u2018snap back\u2019 to insecure work and poverty after coronavirus crisis, Albanese says</a> </p> </aside>  <p>In <a href=\"https://www.rba.gov.au/publications/smp/2020/feb/economic-outlook.html\">February it noted</a> \u201cThe forecasts have also been revised a little lower in the near term to account for some effect from the recent bushfires and the coronavirus outbreak in China; beyond the near term, forecasts for growth are largely unchanged.\u201d</p> <p>Ah, the sweet optimism of three months ago.</p> <p>Now, <a href=\"https://www.rba.gov.au/publications/smp/2020/may/economic-outlook.html\">the RBA says</a> \u201cthe Australian economy is expected to record a contraction in GDP of around 10 per cent over the first half of 2020; total hours worked are expected to decline by around 20 per cent and the unemployment rate is forecast to rise to around 10 per cent in the June quarter.\u201d</p> <p>The prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%:</p>  <figure class=\"element element-embed\" data-alt=\"Unemployment rate - RBA estimates\">  <iframe title=\"Unemployment rate - RBA estimates\" aria-label=\"chart\" id=\"datawrapper-chart-oHAG9\" src=\"https://datawrapper.dwcdn.net/oHAG9/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>When the RBA predicts GDP growth and other measures it rather nicely provides its <a href=\"https://www.rba.gov.au/publications/smp/2020/feb/images/graph-5.01.svg\">70% and 90% confidence intervals</a>.</p> <p>In February, the RBA was 90% confident that annual GDP in June would be between 0.25% and 3.5%. That is a large range \u2013 the economic equivalent of a barn door, and yet they missed \u2013 and missed by a lot:</p>  <figure class=\"element element-embed\" data-alt=\"RBA estimates of annual GDP growth\">  <iframe title=\"RBA estimates of annual GDP growth\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-x251g\" src=\"https://datawrapper.dwcdn.net/x251g/3/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>With this miss should also come some level of wariness when looking at its forecast for growth over the next two years.</p> <p>It hopes that the 12 months to June next year will see the economy grow by 7%, and for growth not to fall below 5% until midway through 2022. Given the economy has not grown above 5% this century, that is a heck of a rebound.</p> <p>But the associated unemployment figures show how huge is the task before us.</p> <p>The RBA has forecast unemployment to rise and fall in line with the long-term relationship between GDP growth and annual changes in the unemployment rate:</p>  <figure class=\"element element-embed\" data-alt=\"Annual GDP growth v change in unemployment: 1970-2022\">  <iframe title=\"Annual GDP growth v change in unemployment: 1970-2022\" aria-label=\"chart\" id=\"datawrapper-chart-FHmCy\" src=\"https://datawrapper.dwcdn.net/FHmCy/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>The problem is unemployment rises faster than it falls.</p> <p>Historically, if GDP falls 6% in a year, unemployment will rise about 4%pts; conversely if the economy grows by 6%, unemployment will only fall by around 1.5%pts.</p> <p>That\u2019s why even with the RBA estimating strong growth after this year, it still has unemployment around 1.3% points above where it is now \u2013 a difference of about 180,000 people out of work.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/commentisfree/2020/may/11/after-the-nightmare-of-coronavirus-lets-manufacture-a-better-australian-dream\">After the nightmare of coronavirus, let's manufacture a better Australian dream | Van Badham</a> </p> </aside>  <p>This is because when the economy goes backwards you need to not just get growth back to where it was, but you need to regain that lost production. We mostly talk about the growth of the economy, but we should not forget the actual amount is important.</p> <p>After the 1990s recession, it took around eight years for Australia\u2019s economy to get back on terms with where it had been heading:</p>  <figure class=\"element element-embed\" data-alt=\"Australia's GDP - before and after 1990s recession\">  <iframe title=\"Australia's GDP - before and after 1990s recession\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-0law3\" src=\"https://datawrapper.dwcdn.net/0law3/1/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>That shaded area in the graph is lost potential growth \u2013 lost profit and household income.</p> <p>You can see how massive this issue can be when we look at the UK before and after the GFC:</p>  <figure class=\"element element-embed\" data-alt=\"United Kingdom GDP\">  <iframe title=\"United Kingdom GDP\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-ulJ8I\" src=\"https://datawrapper.dwcdn.net/ulJ8I/4/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>The GFC in 2009 knocked the size of UK\u2019s economy back to 2005 levels \u2013 essentially setting it back four years. And over the past decade it has not only been unable to recapture that lost time, it has fallen further behind.</p> <p>Last year, the UK economy reached a level that it would have been expected to achieve in 2013 had it continued along the 1993-2007 trend \u2013 essentially it was six years behind schedule.</p> <p>And then came the coronavirus, which the IMF estimates will knock it back to 2015 levels \u2013 or where the UK was once on track to reach in 2010.</p> <p>That means the UK, due to the GFC, Brexit and now the coronavirus, is around a decade behind where in 2007 you would have predicted it would be.</p> <p>That\u2019s why when we look at the RBA\u2019s estimates, it is well to note that even with the estimated strong growth, the economy is not expected to recover to the size it was at the end of last year until March 2022:</p>  <figure class=\"element element-embed\" data-alt=\"Australia's quarterly GDP - RBA estimates\">  <iframe title=\"Australia's quarterly GDP - RBA estimates\" aria-label=\"Interactive line chart\" id=\"datawrapper-chart-cnn2m\" src=\"https://datawrapper.dwcdn.net/cnn2m/2/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"640\" height=\"400\"></iframe> </figure>  <p>If things go bad, that won\u2019t happen until well into 2023 \u2013 or more than three years behind.</p> <p>And even with the baseline we are still well behind where we were tracking \u2013 and unlikely to get back on the pre-virus trend until after 2023.</p> <p>All of which make it seem rather odd to hear talk of winding back stimulus measures.</p> <p>We have a long way to go \u2013 not just to return economic growth to where it was, but to get the size of the economy \u2013 and with it the jobs and income \u2013 back.</p> <p>And given the level of uncertainty with the virus, such a return is very much not guaranteed<a href=\"xhttps://www.theguardian.com/au\">.</a></p> <p>\u2022 Greg Jericho writes on economics for Guardian Australia</p>",
-      "wordcount": "896",
-      "commentCloseDate": "2020-05-14T17:30:48Z",
-      "commentable": "true",
-      "firstPublicationDate": "2020-05-11T17:30:48Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-05-11T17:32:47Z",
-      "productionOffice": "AUS",
-      "publication": "theguardian.com",
-      "shortUrl": "https://gu.com/p/dznvt",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/9b57582565bf19e0675288c9b4887d338e9ad836/0_183_5134_3082/500.jpg",
-      "legallySensitive": "false",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "The economics data continues to be dire, but as we look forward, it is worth remembering that the return to \u201cnormal\u201d growth is not the only aspect at play. What is often forgotten when looking at recessions is not the time taken to \u201csnap back\u201d but the ongoing loss to production and jobs that sometimes is never regained. Early February was not a good time to be making economic forecasts. I speak from some experience, because on 4 February I wrote that \u201ctalk of a recession is a bit premature\u201d. So it gives me some small comfort to note that the Reserve Bank\u2019s statement on monetary policy on 6 February also saw little sign of the recession ahead. But how do times change! Fast forward to last Friday and the bank\u2019s latest statement saw massive plunges in its economic forecasts. In February it noted \u201cThe forecasts have also been revised a little lower in the near term to account for some effect from the recent bushfires and the coronavirus outbreak in China; beyond the near term, forecasts for growth are largely unchanged.\u201d Ah, the sweet optimism of three months ago. Now, the RBA says \u201cthe Australian economy is expected to record a contraction in GDP of around 10 per cent over the first half of 2020; total hours worked are expected to decline by around 20 per cent and the unemployment rate is forecast to rise to around 10 per cent in the June quarter.\u201d The prediction for unemployment has gone from being as low as 4.75% to now hoping within two years it can fall back to 6.5%: When the RBA predicts GDP growth and other measures it rather nicely provides its 70% and 90% confidence intervals. In February, the RBA was 90% confident that annual GDP in June would be between 0.25% and 3.5%. That is a large range \u2013 the economic equivalent of a barn door, and yet they missed \u2013 and missed by a lot: With this miss should also come some level of wariness when looking at its forecast for growth over the next two years. It hopes that the 12 months to June next year will see the economy grow by 7%, and for growth not to fall below 5% until midway through 2022. Given the economy has not grown above 5% this century, that is a heck of a rebound. But the associated unemployment figures show how huge is the task before us. The RBA has forecast unemployment to rise and fall in line with the long-term relationship between GDP growth and annual changes in the unemployment rate: The problem is unemployment rises faster than it falls. Historically, if GDP falls 6% in a year, unemployment will rise about 4%pts; conversely if the economy grows by 6%, unemployment will only fall by around 1.5%pts. That\u2019s why even with the RBA estimating strong growth after this year, it still has unemployment around 1.3% points above where it is now \u2013 a difference of about 180,000 people out of work. This is because when the economy goes backwards you need to not just get growth back to where it was, but you need to regain that lost production. We mostly talk about the growth of the economy, but we should not forget the actual amount is important. After the 1990s recession, it took around eight years for Australia\u2019s economy to get back on terms with where it had been heading: That shaded area in the graph is lost potential growth \u2013 lost profit and household income. You can see how massive this issue can be when we look at the UK before and after the GFC: The GFC in 2009 knocked the size of UK\u2019s economy back to 2005 levels \u2013 essentially setting it back four years. And over the past decade it has not only been unable to recapture that lost time, it has fallen further behind. Last year, the UK economy reached a level that it would have been expected to achieve in 2013 had it continued along the 1993-2007 trend \u2013 essentially it was six years behind schedule. And then came the coronavirus, which the IMF estimates will knock it back to 2015 levels \u2013 or where the UK was once on track to reach in 2010. That means the UK, due to the GFC, Brexit and now the coronavirus, is around a decade behind where in 2007 you would have predicted it would be. That\u2019s why when we look at the RBA\u2019s estimates, it is well to note that even with the estimated strong growth, the economy is not expected to recover to the size it was at the end of last year until March 2022: If things go bad, that won\u2019t happen until well into 2023 \u2013 or more than three years behind. And even with the baseline we are still well behind where we were tracking \u2013 and unlikely to get back on the pre-virus trend until after 2023. All of which make it seem rather odd to hear talk of winding back stimulus measures. We have a long way to go \u2013 not just to return economic growth to where it was, but to get the size of the economy \u2013 and with it the jobs and income \u2013 back. And given the level of uncertainty with the virus, such a return is very much not guaranteed. \u2022 Greg Jericho writes on economics for Guardian Australia",
-      "charCount": "4898",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/greg-jericho\">Greg Jericho</a>"
-    },
-    "tags": [
-      {
-        "id": "business/grogonomics",
-        "type": "blog",
-        "sectionId": "business",
-        "sectionName": "Business",
-        "webTitle": "Grogonomics",
-        "webUrl": "https://www.theguardian.com/business/grogonomics",
-        "apiUrl": "https://content.guardianapis.com/business/grogonomics",
-        "references": []
-      },
-      {
-        "id": "commentisfree/commentisfree",
-        "type": "blog",
-        "sectionId": "commentisfree",
-        "sectionName": "Opinion",
-        "webTitle": "Opinion",
-        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
-        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
-        "references": []
-      },
-      {
-        "id": "business/australia-economy",
-        "type": "keyword",
-        "sectionId": "business",
-        "sectionName": "Business",
-        "webTitle": "Australian economy",
-        "webUrl": "https://www.theguardian.com/business/australia-economy",
-        "apiUrl": "https://content.guardianapis.com/business/australia-economy",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "australia-news/australia-news",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australia news",
-        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
-        "references": []
-      },
-      {
-        "id": "australia-news/reserve-bank-of-australia",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Reserve Bank of Australia",
-        "webUrl": "https://www.theguardian.com/australia-news/reserve-bank-of-australia",
-        "apiUrl": "https://content.guardianapis.com/australia-news/reserve-bank-of-australia",
-        "references": [],
-        "description": "Latest news on the Reserve Bank of Australia from the Guardian"
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/comment",
-        "type": "tone",
-        "webTitle": "Comment",
-        "webUrl": "https://www.theguardian.com/tone/comment",
-        "apiUrl": "https://content.guardianapis.com/tone/comment",
-        "references": []
-      },
-      {
-        "id": "profile/greg-jericho",
-        "type": "contributor",
-        "webTitle": "Greg Jericho",
-        "webUrl": "https://www.theguardian.com/profile/greg-jericho",
-        "apiUrl": "https://content.guardianapis.com/profile/greg-jericho",
-        "references": [],
-        "bio": "<p>Greg writes on economics for Guardian Australia and is the author of the celebrated Grogs Gamut blog. He is a former public servant and author of the book The Rise of the Fifth Estate: Social Media and Blogging in Australian Politics</p>",
-        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2014/7/21/1405973562987/Greg-Jericho.jpg",
-        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/06/Greg-Jericho,-R.png",
-        "firstName": "jericho",
-        "lastName": "greg",
-        "twitterHandle": "GrogsGamut"
-      },
-      {
-        "id": "tracking/commissioningdesk/australia-opinion",
-        "type": "tracking",
-        "webTitle": "Australia Opinion",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-opinion",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-opinion",
         "references": []
       }
     ],
@@ -21684,19 +21842,19 @@
     "webUrl": "https://www.theguardian.com/music/2020/may/11/classical-concerts-to-watch-at-home-our-critics-picks-week-eight",
     "apiUrl": "https://content.guardianapis.com/music/2020/may/11/classical-concerts-to-watch-at-home-our-critics-picks-week-eight",
     "fields": {
-      "headline": "Opera and classical concerts to watch at home: our critics' picks, week eight",
-      "standfirst": "<p>Our critics pick a daily highlight from <a href=\"https://www.theguardian.com/music/2020/mar/16/classical-music-opera-livestream-at-home-coronavirus\">the treasure trove of online music</a>. This week we bring you lushness from Ren\u00e9e Fleming and a torrid thriller from Korngold</p><p>Browse our picks from:<br></p><ul><li>week <strong><a href=\"https://www.theguardian.com/music/2020/may/04/opera-and-classical-concerts-to-watch-at-home-our-critics-picks-week-seven\">seven</a></strong></li><li>week<a href=\"https://www.theguardian.com/music/2020/apr/27/opera-and-classical-concerts-to-watch-at-home-our-critics-picks-week-six\"> <strong>six</strong></a></li><li>week <strong><a href=\"https://www.theguardian.com/music/2020/apr/20/opera-and-classical-concerts-to-watch-at-home-our-critics-picks-week-five\">five</a><br></strong></li><li>week<strong> <a href=\"https://www.theguardian.com/music/2020/apr/13/opera-and-classical-concerts-to-watch-at-home-critics-picks-week-four\">four</a><br></strong></li><li>week <strong><a href=\"https://www.theguardian.com/music/2020/apr/06/opera-and-classical-concerts-to-watch-at-home--critics-picks-week-three\">three</a><br></strong></li><li>week <strong><a href=\"https://www.theguardian.com/music/2020/mar/30/free-opera-and-classical-for-watching-at-home-our-critics-picks-week-two\">two</a><br></strong></li><li>week <strong><a href=\"https://www.theguardian.com/music/2020/mar/23/opera-and-classical-your-home-watching-guide-critics-picks\">one</a></strong></li></ul><ul><br></ul>",
+      "headline": "Opera and classical concerts to watch at home: our critics' picks \u2013 week eight",
+      "standfirst": "<p>Our critics pick a daily highlight from <a href=\"https://www.theguardian.com/music/2020/mar/16/classical-music-opera-livestream-at-home-coronavirus\">the treasure trove of online music</a>. This week we bring you lushness from Ren\u00e9e Fleming and a torrid thriller from Korngold</p><ul><li><a href=\"https://www.theguardian.com/music/2020/may/04/opera-and-classical-concerts-to-watch-at-home-our-critics-picks-week-seven\">Our picks from week seven</a>:<strong> </strong>slo-mo P\u00e4rt, a glorious Figaro and Beethoven\u2019s tenth</li></ul>",
       "trailText": "Our critics pick a daily highlight from the treasure trove of online music. This week we bring you lushness from Ren\u00e9e Fleming and a torrid thriller from Erich Korngold",
-      "byline": "Rian Evans, Andrew Clements, Tim Ashley, Flora Willson",
+      "byline": "Rian Evans, Andrew Clements, Tim Ashley and Flora Willson",
       "main": "<figure class=\"element element-image\" data-media-id=\"a9a18b69522aa45c95633c6a0ba3c796dd99287c\"> <img src=\"https://media.guim.co.uk/a9a18b69522aa45c95633c6a0ba3c796dd99287c/0_0_2560_1536/1000.jpg\" alt=\"Korngold: Violanta, Schreker: Der Schmied von Gent, Gothenburg Symphony Orchestra: Rouvali, New York Philharmonic/Masur/Fleming opera comp 11th May\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\"><em>Clockwise from top left:</em> Korngold\u2019s Violanta, Schreker\u2019s Der Schmied von Gent, Ren\u00e9e Fleming with the New York Philharmonic, Mathias Rouvali and the Gothenburg Symphony Orchestra.</span> <span class=\"element-image__credit\">Composite: PR</span> </figcaption> </figure>",
-      "body": "<h2><strong><a href=\"http://operavision.eu/en/library/performances/operas/der-schmied-von-gent-opera-ballet-vlaanderen\">Schreker: Der Schmied von Gent</a></strong></h2> <p><a href=\"http://operavision.eu/en/library/performances/operas/der-schmied-von-gent-opera-ballet-vlaanderen\">This Opera Ballet Vlaanderen extravanganza</a> is Bruegel gone psychedelic. Staged at the opera house in Ghent, where the original 16th-century story is set, its citizens oppressed under Spanish occupation, Franz Schreker\u2019s 1932 \u201cmagic opera\u201d tells of Smee the Blacksmith\u2019s (\u201cDer Schmied\u201d) Faustian pact. He negotiates untold wealth not with the devil but his mistress, Astarte, she of the diabolic eyes; Satan himself towers monstrously over proceedings, his palace a riff on Ghent\u2019s medieval Gravensteen castle. So far so local, but Ersan Mondtag, in his opera directing debut, boldly draws a parallel with Belgium\u2019s later colonial history, suggesting that, in time, the oppressed become the oppressors. The music stops altogether for Patrice Lumumba\u2019s speech proclaiming Congolese independence, and Smee \u2013 sung by the brilliant Leigh Melrose \u2013 ends up as King Leopold II, desperate to get into heaven. Schreker\u2019s score is eclectic, his own libretto often comic. Mondtag makes it zany and outrageous, but his indictment of empire-building and its atrocities is searing. It inevitably invokes, too, the Nazi era, which spelled the end of Schreker\u2019s hitherto illustrious career. (<em>Available until 6 November) </em><strong>Rian Evans</strong></p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/music/2020/mar/16/classical-music-opera-livestream-at-home-coronavirus\">Lockdown listening: classical music and opera to stream at home</a> </p> </aside>  <figure class=\"element element-image\" data-media-id=\"1bbb245b9594894d8bd9f8a7ed8f62f4a2147ea6\"> <img src=\"https://media.guim.co.uk/1bbb245b9594894d8bd9f8a7ed8f62f4a2147ea6/0_92_1400_840/1000.jpg\" alt=\"Verdi\u2019s Don Carlos, at Op\u00e9ra Royal de Wallonie-Li\u00e8ge\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Hear the work roughly as Verdi first imagined it ... Op\u00e9ra Royal de Wallonie\u2019s Don Carlos.</span> <span class=\"element-image__credit\">Photograph: PR</span> </figcaption> </figure>  <h2>Verdi: <a href=\"https://www.france.tv/spectacles-et-culture/opera-et-musique-classique/1233003-don-carlos-de-verdi-a-l-opera-royal-de-wallonie.html\">Don Carlos (Op\u00e9ra Royal de Wallonie)</a></h2> <p>Staged last February to mark the Li\u00e8ge opera house\u2019s bicentenary, this fine Don Carlos takes <a href=\"https://www.theguardian.com/music/giuseppe-verdi\">Verdi</a>\u2019s original 1866 French score as its starting point (albeit minus the Act III ballet), giving us a rare opportunity to hear the work roughly as Verdi first imagined it (cuts were imposed for the Paris premiere and revisions subsequently undertaken). Stefano Mazzonis de Pralafera\u2019s production is fairly straightforward, the only quirk being the omnipresence of the mysterious Monk (Patrick Bolleire), as a silent observer of the tragedy unfolding round him. Paolo Arrivabeni\u2019s conducting sometimes lacks urgency, but playing and singing are both excellent, Gregory Kunde and Yolanda Auyanet are particularly impressive as Carlos and \u00c9lisabeth. The outstanding performances, though, come from <a href=\"https://www.youtube.com/watch?v=VdaVvu7yhgo\">Ildebrando D\u2019Arcangelo</a>\u2019s tragic Philippe II, Lionel Lhote\u2019s humane, reflective Rodrigue and Kate Aldrich\u2019s powerhouse Eboli. <strong>Tim Ashley</strong></p> <h2><a href=\"https://www.youtube.com/watch?v=eqZbJlueE3o\">New York Philharmonic/Masur/Fleming</a></h2> <p>The <a href=\"https://nyphil.org/playson\">NY Phil Plays On</a> portal is a rapidly expanding treasure trove of the venerable orchestra\u2019s recorded appearances both recent and \u201chistorical\u201d. Among the newest additions is a glorious 1997 performance under <a href=\"https://www.theguardian.com/music/2015/dec/20/kurt-masur\">Kurt Masur</a> of Mozart\u2019s Exsultate, jubilate K165 and three Strauss orchestral songs with soprano <a href=\"https://www.theguardian.com/music/2019/jun/17/renee-fleming-placido-domingo-frightening-biggest-breaks\">Ren\u00e9e Fleming</a>. In the best possible way, this is music-making from \u201canother lifetime\u201d (as Fleming describes it in her specially recorded introduction). She\u2019s at her vocal peak and in her ideal repertory: hold-your-breath lushness and gleaming ornamentation in Mozart; crushed-velvet low notes and unbeatable storytelling (with all the late-Romantic peaks and troughs you could want from the orchestra) in Strauss. The audience goes wild at the end \u2013 and no wonder. <strong>Flora Willson</strong></p> <h2><a href=\"https://www.gso.se/en/gsoplay/video/sibelius-skogsraet-saga-sv/\">Gothenburg SO: Rouvali conducts Sibelius</a></h2> <p>A vicarious escape from the confines of lockdown into the joyously uncluttered landscapes of Finland is provided by <a href=\"https://www.harrisonparrott.com/artists/santtu-matias-rouvali\">Santtu-Mathias Rouvali\u2019s </a><a href=\"https://www.gso.se/en/gsoplay/video/sibelius-skogsraet-saga-sv/\">performances of two of Sibelius\u2019s earliest tone poems</a>. Rouvali, who next year becomes principal conductor of the Philharmonia in London, and has been the Gothenburg Symphony\u2019s chief since 2017, pairs the well-known En Saga with The Wood Nymph, based upon a poem by Viktor Rydberg, which was composed three years later, in 1895. Perhaps because it lacked the conciseness of En Saga, The Wood Nymph received only a handful of performances over the next century, until it was rehabilitated and recorded by <a href=\"https://www.harrisonparrott.com/artists/osmo-vanska\">Osmo V\u00e4nsk\u00e4</a> and the Lahti Symphony in 1996. Rouvali\u2019s parents were members of that Lahti orchestra: the young conductor must have grown up listening to V\u00e4nsk\u00e4\u2019s crisp, no-nonsense Sibelius interpretations. Something certainly seems to have rubbed off \u2013 Rouvali\u2019s approach to these works is equally unfussy, with nothing added unnecessarily, and textures that are clean and hard-edged; the playing of the GSO, too, is totally secure. <strong>Andrew Clements</strong></p>  <figure class=\"element element-image\" data-media-id=\"6c2ec0f3bbc63e94762aac26c35f3c5aada20c68\"> <img src=\"https://media.guim.co.uk/6c2ec0f3bbc63e94762aac26c35f3c5aada20c68/0_108_1620_972/1000.jpg\" alt=\"Korngold\u2019s Violanta, production by TEATRO REGIO TORINO\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">A chic, if lethal, game of sex and death ... Korngold\u2019s Violanta in Turin.</span> <span class=\"element-image__credit\">Photograph: PR</span> </figcaption> </figure>  <h2>Korngold: <a href=\"https://operavision.eu/en/library/performances/operas/violanta-teatro-regio-torino\">Violanta (Teatro Regio, Turin)</a></h2> <p>The 17-year-old <a href=\"https://www.theguardian.com/music/2004/mar/12/classicalmusicandopera1\">Korngold</a>\u2019s torrid thriller gets plush treatment in Pier Luigi Pizzi\u2019s Turin staging, filmed in January this year, which dispenses with the original Renaissance setting and reimagines the opera as a chic if lethal game of sex and death played out among the 1920s smart set. Indebted to Strauss and early Schoenberg, the score, handsomely conducted by Pinchas Steinberg, is gorgeous to the point of excess. Ultimately, though, this is a big dramatic soprano vehicle, and <a href=\"http://www.annemariekremer.nl/welcome.html\">Annemarie Kremer</a> is splendid as the eponymous heroine, determined to wreak vengeance on her sister\u2019s seducer Alfonso (<a href=\"https://www.youtube.com/watch?v=5xOvkkKsVXM\">Norman Reinhardt</a>, suitably glamorous) only to find herself increasingly attracted to him. Michael Kupfer-Radecky, meanwhile, plays her uptight husband, Simone, who, we soon realise, has murder on his mind. It\u2019s way over the top, all of it, but utterly compulsive. <strong>Tim Ashley</strong></p>",
-      "wordcount": "764",
+      "body": "<h2><strong><a href=\"http://operavision.eu/en/library/performances/operas/der-schmied-von-gent-opera-ballet-vlaanderen\">Schreker: Der Schmied von Gent</a></strong></h2> <p><a href=\"http://operavision.eu/en/library/performances/operas/der-schmied-von-gent-opera-ballet-vlaanderen\">This Opera Ballet Vlaanderen extravanganza</a> is Bruegel gone psychedelic. Staged at the opera house in Ghent, where the original 16th-century story is set, its citizens oppressed under Spanish occupation, Franz Schreker\u2019s 1932 \u201cmagic opera\u201d tells of Smee the Blacksmith\u2019s (\u201cDer Schmied\u201d) Faustian pact. He negotiates untold wealth not with the devil but his mistress, Astarte, she of the diabolic eyes; Satan himself towers monstrously over proceedings, his palace a riff on Ghent\u2019s medieval Gravensteen castle. So far so local, but Ersan Mondtag, in his opera directing debut, boldly draws a parallel with Belgium\u2019s later colonial history, suggesting that, in time, the oppressed become the oppressors. The music stops altogether for Patrice Lumumba\u2019s speech proclaiming Congolese independence, and Smee \u2013 sung by the brilliant Leigh Melrose \u2013 ends up as King Leopold II, desperate to get into heaven. Schreker\u2019s score is eclectic, his own libretto often comic. Mondtag makes it zany and outrageous, but his indictment of empire-building and its atrocities is searing. It inevitably invokes, too, the Nazi era, which spelled the end of Schreker\u2019s hitherto illustrious career. (<em>Available until 6 November) </em><strong>Rian Evans</strong></p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/music/2020/mar/16/classical-music-opera-livestream-at-home-coronavirus\">Lockdown listening: classical music and opera to stream at home</a> </p> </aside>  <figure class=\"element element-image\" data-media-id=\"1bbb245b9594894d8bd9f8a7ed8f62f4a2147ea6\"> <img src=\"https://media.guim.co.uk/1bbb245b9594894d8bd9f8a7ed8f62f4a2147ea6/0_92_1400_840/1000.jpg\" alt=\"Verdi\u2019s Don Carlos, at Op\u00e9ra Royal de Wallonie-Li\u00e8ge\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Hear the work roughly as Verdi first imagined it ... Op\u00e9ra Royal de Wallonie\u2019s Don Carlos.</span> <span class=\"element-image__credit\">Photograph: PR</span> </figcaption> </figure>  <h2>Verdi: <a href=\"https://www.france.tv/spectacles-et-culture/opera-et-musique-classique/1233003-don-carlos-de-verdi-a-l-opera-royal-de-wallonie.html\">Don Carlos (Op\u00e9ra Royal de Wallonie)</a></h2> <p>Staged last February to mark the Li\u00e8ge opera house\u2019s bicentenary, this fine Don Carlos takes <a href=\"https://www.theguardian.com/music/giuseppe-verdi\">Verdi</a>\u2019s original 1866 French score as its starting point (albeit minus the Act III ballet), giving us a rare opportunity to hear the work roughly as Verdi first imagined it (cuts were imposed for the Paris premiere and revisions subsequently undertaken). Stefano Mazzonis de Pralafera\u2019s production is fairly straightforward, the only quirk being the omnipresence of the mysterious Monk (Patrick Bolleire), as a silent observer of the tragedy unfolding round him. Paolo Arrivabeni\u2019s conducting sometimes lacks urgency, but playing and singing are both excellent, Gregory Kunde and Yolanda Auyanet are particularly impressive as Carlos and \u00c9lisabeth. The outstanding performances, though, come from <a href=\"https://www.youtube.com/watch?v=VdaVvu7yhgo\">Ildebrando D\u2019Arcangelo</a>\u2019s tragic Philippe II, Lionel Lhote\u2019s humane, reflective Rodrigue and Kate Aldrich\u2019s powerhouse Eboli. <strong>Tim Ashley</strong></p> <h2><a href=\"https://www.youtube.com/watch?v=eqZbJlueE3o\">New York Philharmonic/Masur/Fleming</a></h2> <p>The <a href=\"https://nyphil.org/playson\">NY Phil Plays On</a> portal is a rapidly expanding treasure trove of the venerable orchestra\u2019s recorded appearances both recent and \u201chistorical\u201d. Among the newest additions is a glorious 1997 performance under <a href=\"https://www.theguardian.com/music/2015/dec/20/kurt-masur\">Kurt Masur</a> of Mozart\u2019s Exsultate, jubilate K165 and three Strauss orchestral songs with soprano <a href=\"https://www.theguardian.com/music/2019/jun/17/renee-fleming-placido-domingo-frightening-biggest-breaks\">Ren\u00e9e Fleming</a>. In the best possible way, this is music-making from \u201canother lifetime\u201d (as Fleming describes it in her specially recorded introduction). She\u2019s at her vocal peak and in her ideal repertory: hold-your-breath lushness and gleaming ornamentation in Mozart; crushed-velvet low notes and unbeatable storytelling (with all the late-Romantic peaks and troughs you could want from the orchestra) in Strauss. The audience goes wild at the end \u2013 and no wonder. <strong>Flora Willson</strong></p> <h2><a href=\"https://www.gso.se/en/gsoplay/video/sibelius-skogsraet-saga-sv/\">Gothenburg SO: Rouvali conducts Sibelius</a></h2> <p>A vicarious escape from the confines of lockdown into the joyously uncluttered landscapes of Finland is provided by <a href=\"https://www.harrisonparrott.com/artists/santtu-matias-rouvali\">Santtu-Mathias Rouvali\u2019s </a><a href=\"https://www.gso.se/en/gsoplay/video/sibelius-skogsraet-saga-sv/\">performances of two of Sibelius\u2019s earliest tone poems</a>. Rouvali, who next year becomes principal conductor of the Philharmonia in London, and has been the Gothenburg Symphony\u2019s chief since 2017, pairs the well-known En Saga with The Wood Nymph, based upon a poem by Viktor Rydberg, which was composed three years later, in 1895. Perhaps because it lacked the conciseness of En Saga, The Wood Nymph received only a handful of performances over the next century, until it was rehabilitated and recorded by <a href=\"https://www.harrisonparrott.com/artists/osmo-vanska\">Osmo V\u00e4nsk\u00e4</a> and the Lahti Symphony in 1996. Rouvali\u2019s parents were members of that Lahti orchestra: the young conductor must have grown up listening to V\u00e4nsk\u00e4\u2019s crisp, no-nonsense Sibelius interpretations. Something certainly seems to have rubbed off \u2013 Rouvali\u2019s approach to these works is equally unfussy, with nothing added unnecessarily, and textures that are clean and hard-edged; the playing of the GSO, too, is totally secure. <strong>Andrew Clements</strong></p>  <figure class=\"element element-image\" data-media-id=\"6c2ec0f3bbc63e94762aac26c35f3c5aada20c68\"> <img src=\"https://media.guim.co.uk/6c2ec0f3bbc63e94762aac26c35f3c5aada20c68/0_108_1620_972/1000.jpg\" alt=\"Korngold\u2019s Violanta, production by TEATRO REGIO TORINO\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">A chic, if lethal, game of sex and death ... Korngold\u2019s Violanta in Turin.</span> <span class=\"element-image__credit\">Photograph: PR</span> </figcaption> </figure>  <h2>Korngold: <a href=\"https://operavision.eu/en/library/performances/operas/violanta-teatro-regio-torino\">Violanta (Teatro Regio, Turin)</a></h2> <p>The 17-year-old <a href=\"https://www.theguardian.com/music/2004/mar/12/classicalmusicandopera1\">Korngold</a>\u2019s torrid thriller gets plush treatment in Pier Luigi Pizzi\u2019s Turin staging, filmed in January this year, which dispenses with the original Renaissance setting and reimagines the opera as a chic if lethal game of sex and death played out among the 1920s smart set. Indebted to Strauss and early Schoenberg, the score, handsomely conducted by Pinchas Steinberg, is gorgeous to the point of excess. Ultimately, though, this is a big dramatic soprano vehicle, and <a href=\"http://www.annemariekremer.nl/welcome.html\">Annemarie Kremer</a> is splendid as the eponymous heroine, determined to wreak vengeance on her sister\u2019s seducer Alfonso (<a href=\"https://www.youtube.com/watch?v=5xOvkkKsVXM\">Norman Reinhardt</a>, suitably glamorous) only to find herself increasingly attracted to him. Michael Kupfer-Radecky, meanwhile, plays her uptight husband, Simone, who, we soon realise, has murder on his mind. It\u2019s way over the top, all of it, but utterly compulsive. <strong>Tim Ashley</strong></p> <ul> <li><p><strong><a href=\"https://www.theguardian.com/music/2020/mar/16/classical-music-opera-livestream-at-home-coronavirus\">Lockdown listening: classical music and opera to stream at home</a></strong></p></li> </ul>",
+      "wordcount": "774",
       "commentCloseDate": "2020-05-14T19:15:00Z",
       "commentable": "true",
       "firstPublicationDate": "2020-05-11T19:21:38Z",
       "isInappropriateForSponsorship": "false",
       "isPremoderated": "false",
-      "lastModified": "2020-05-12T15:45:37Z",
+      "lastModified": "2020-05-24T11:14:45Z",
       "productionOffice": "UK",
       "publication": "theguardian.com",
       "shortUrl": "https://gu.com/p/dzjcm",
@@ -21706,11 +21864,11 @@
       "legallySensitive": "false",
       "lang": "en",
       "isLive": "true",
-      "bodyText": "Schreker: Der Schmied von Gent This Opera Ballet Vlaanderen extravanganza is Bruegel gone psychedelic. Staged at the opera house in Ghent, where the original 16th-century story is set, its citizens oppressed under Spanish occupation, Franz Schreker\u2019s 1932 \u201cmagic opera\u201d tells of Smee the Blacksmith\u2019s (\u201cDer Schmied\u201d) Faustian pact. He negotiates untold wealth not with the devil but his mistress, Astarte, she of the diabolic eyes; Satan himself towers monstrously over proceedings, his palace a riff on Ghent\u2019s medieval Gravensteen castle. So far so local, but Ersan Mondtag, in his opera directing debut, boldly draws a parallel with Belgium\u2019s later colonial history, suggesting that, in time, the oppressed become the oppressors. The music stops altogether for Patrice Lumumba\u2019s speech proclaiming Congolese independence, and Smee \u2013 sung by the brilliant Leigh Melrose \u2013 ends up as King Leopold II, desperate to get into heaven. Schreker\u2019s score is eclectic, his own libretto often comic. Mondtag makes it zany and outrageous, but his indictment of empire-building and its atrocities is searing. It inevitably invokes, too, the Nazi era, which spelled the end of Schreker\u2019s hitherto illustrious career. (Available until 6 November) Rian Evans Verdi: Don Carlos (Op\u00e9ra Royal de Wallonie) Staged last February to mark the Li\u00e8ge opera house\u2019s bicentenary, this fine Don Carlos takes Verdi\u2019s original 1866 French score as its starting point (albeit minus the Act III ballet), giving us a rare opportunity to hear the work roughly as Verdi first imagined it (cuts were imposed for the Paris premiere and revisions subsequently undertaken). Stefano Mazzonis de Pralafera\u2019s production is fairly straightforward, the only quirk being the omnipresence of the mysterious Monk (Patrick Bolleire), as a silent observer of the tragedy unfolding round him. Paolo Arrivabeni\u2019s conducting sometimes lacks urgency, but playing and singing are both excellent, Gregory Kunde and Yolanda Auyanet are particularly impressive as Carlos and \u00c9lisabeth. The outstanding performances, though, come from Ildebrando D\u2019Arcangelo\u2019s tragic Philippe II, Lionel Lhote\u2019s humane, reflective Rodrigue and Kate Aldrich\u2019s powerhouse Eboli. Tim Ashley New York Philharmonic/Masur/Fleming The NY Phil Plays On portal is a rapidly expanding treasure trove of the venerable orchestra\u2019s recorded appearances both recent and \u201chistorical\u201d. Among the newest additions is a glorious 1997 performance under Kurt Masur of Mozart\u2019s Exsultate, jubilate K165 and three Strauss orchestral songs with soprano Ren\u00e9e Fleming. In the best possible way, this is music-making from \u201canother lifetime\u201d (as Fleming describes it in her specially recorded introduction). She\u2019s at her vocal peak and in her ideal repertory: hold-your-breath lushness and gleaming ornamentation in Mozart; crushed-velvet low notes and unbeatable storytelling (with all the late-Romantic peaks and troughs you could want from the orchestra) in Strauss. The audience goes wild at the end \u2013 and no wonder. Flora Willson Gothenburg SO: Rouvali conducts Sibelius A vicarious escape from the confines of lockdown into the joyously uncluttered landscapes of Finland is provided by Santtu-Mathias Rouvali\u2019s performances of two of Sibelius\u2019s earliest tone poems. Rouvali, who next year becomes principal conductor of the Philharmonia in London, and has been the Gothenburg Symphony\u2019s chief since 2017, pairs the well-known En Saga with The Wood Nymph, based upon a poem by Viktor Rydberg, which was composed three years later, in 1895. Perhaps because it lacked the conciseness of En Saga, The Wood Nymph received only a handful of performances over the next century, until it was rehabilitated and recorded by Osmo V\u00e4nsk\u00e4 and the Lahti Symphony in 1996. Rouvali\u2019s parents were members of that Lahti orchestra: the young conductor must have grown up listening to V\u00e4nsk\u00e4\u2019s crisp, no-nonsense Sibelius interpretations. Something certainly seems to have rubbed off \u2013 Rouvali\u2019s approach to these works is equally unfussy, with nothing added unnecessarily, and textures that are clean and hard-edged; the playing of the GSO, too, is totally secure. Andrew Clements Korngold: Violanta (Teatro Regio, Turin) The 17-year-old Korngold\u2019s torrid thriller gets plush treatment in Pier Luigi Pizzi\u2019s Turin staging, filmed in January this year, which dispenses with the original Renaissance setting and reimagines the opera as a chic if lethal game of sex and death played out among the 1920s smart set. Indebted to Strauss and early Schoenberg, the score, handsomely conducted by Pinchas Steinberg, is gorgeous to the point of excess. Ultimately, though, this is a big dramatic soprano vehicle, and Annemarie Kremer is splendid as the eponymous heroine, determined to wreak vengeance on her sister\u2019s seducer Alfonso (Norman Reinhardt, suitably glamorous) only to find herself increasingly attracted to him. Michael Kupfer-Radecky, meanwhile, plays her uptight husband, Simone, who, we soon realise, has murder on his mind. It\u2019s way over the top, all of it, but utterly compulsive. Tim Ashley",
-      "charCount": "5089",
+      "bodyText": "Schreker: Der Schmied von Gent This Opera Ballet Vlaanderen extravanganza is Bruegel gone psychedelic. Staged at the opera house in Ghent, where the original 16th-century story is set, its citizens oppressed under Spanish occupation, Franz Schreker\u2019s 1932 \u201cmagic opera\u201d tells of Smee the Blacksmith\u2019s (\u201cDer Schmied\u201d) Faustian pact. He negotiates untold wealth not with the devil but his mistress, Astarte, she of the diabolic eyes; Satan himself towers monstrously over proceedings, his palace a riff on Ghent\u2019s medieval Gravensteen castle. So far so local, but Ersan Mondtag, in his opera directing debut, boldly draws a parallel with Belgium\u2019s later colonial history, suggesting that, in time, the oppressed become the oppressors. The music stops altogether for Patrice Lumumba\u2019s speech proclaiming Congolese independence, and Smee \u2013 sung by the brilliant Leigh Melrose \u2013 ends up as King Leopold II, desperate to get into heaven. Schreker\u2019s score is eclectic, his own libretto often comic. Mondtag makes it zany and outrageous, but his indictment of empire-building and its atrocities is searing. It inevitably invokes, too, the Nazi era, which spelled the end of Schreker\u2019s hitherto illustrious career. (Available until 6 November) Rian Evans Verdi: Don Carlos (Op\u00e9ra Royal de Wallonie) Staged last February to mark the Li\u00e8ge opera house\u2019s bicentenary, this fine Don Carlos takes Verdi\u2019s original 1866 French score as its starting point (albeit minus the Act III ballet), giving us a rare opportunity to hear the work roughly as Verdi first imagined it (cuts were imposed for the Paris premiere and revisions subsequently undertaken). Stefano Mazzonis de Pralafera\u2019s production is fairly straightforward, the only quirk being the omnipresence of the mysterious Monk (Patrick Bolleire), as a silent observer of the tragedy unfolding round him. Paolo Arrivabeni\u2019s conducting sometimes lacks urgency, but playing and singing are both excellent, Gregory Kunde and Yolanda Auyanet are particularly impressive as Carlos and \u00c9lisabeth. The outstanding performances, though, come from Ildebrando D\u2019Arcangelo\u2019s tragic Philippe II, Lionel Lhote\u2019s humane, reflective Rodrigue and Kate Aldrich\u2019s powerhouse Eboli. Tim Ashley New York Philharmonic/Masur/Fleming The NY Phil Plays On portal is a rapidly expanding treasure trove of the venerable orchestra\u2019s recorded appearances both recent and \u201chistorical\u201d. Among the newest additions is a glorious 1997 performance under Kurt Masur of Mozart\u2019s Exsultate, jubilate K165 and three Strauss orchestral songs with soprano Ren\u00e9e Fleming. In the best possible way, this is music-making from \u201canother lifetime\u201d (as Fleming describes it in her specially recorded introduction). She\u2019s at her vocal peak and in her ideal repertory: hold-your-breath lushness and gleaming ornamentation in Mozart; crushed-velvet low notes and unbeatable storytelling (with all the late-Romantic peaks and troughs you could want from the orchestra) in Strauss. The audience goes wild at the end \u2013 and no wonder. Flora Willson Gothenburg SO: Rouvali conducts Sibelius A vicarious escape from the confines of lockdown into the joyously uncluttered landscapes of Finland is provided by Santtu-Mathias Rouvali\u2019s performances of two of Sibelius\u2019s earliest tone poems. Rouvali, who next year becomes principal conductor of the Philharmonia in London, and has been the Gothenburg Symphony\u2019s chief since 2017, pairs the well-known En Saga with The Wood Nymph, based upon a poem by Viktor Rydberg, which was composed three years later, in 1895. Perhaps because it lacked the conciseness of En Saga, The Wood Nymph received only a handful of performances over the next century, until it was rehabilitated and recorded by Osmo V\u00e4nsk\u00e4 and the Lahti Symphony in 1996. Rouvali\u2019s parents were members of that Lahti orchestra: the young conductor must have grown up listening to V\u00e4nsk\u00e4\u2019s crisp, no-nonsense Sibelius interpretations. Something certainly seems to have rubbed off \u2013 Rouvali\u2019s approach to these works is equally unfussy, with nothing added unnecessarily, and textures that are clean and hard-edged; the playing of the GSO, too, is totally secure. Andrew Clements Korngold: Violanta (Teatro Regio, Turin) The 17-year-old Korngold\u2019s torrid thriller gets plush treatment in Pier Luigi Pizzi\u2019s Turin staging, filmed in January this year, which dispenses with the original Renaissance setting and reimagines the opera as a chic if lethal game of sex and death played out among the 1920s smart set. Indebted to Strauss and early Schoenberg, the score, handsomely conducted by Pinchas Steinberg, is gorgeous to the point of excess. Ultimately, though, this is a big dramatic soprano vehicle, and Annemarie Kremer is splendid as the eponymous heroine, determined to wreak vengeance on her sister\u2019s seducer Alfonso (Norman Reinhardt, suitably glamorous) only to find herself increasingly attracted to him. Michael Kupfer-Radecky, meanwhile, plays her uptight husband, Simone, who, we soon realise, has murder on his mind. It\u2019s way over the top, all of it, but utterly compulsive. Tim Ashley Lockdown listening: classical music and opera to stream at home",
+      "charCount": "5153",
       "shouldHideReaderRevenue": "false",
       "showAffiliateLinks": "true",
-      "bylineHtml": "<a href=\"profile/rianevans\">Rian Evans</a>, <a href=\"profile/andrewclements\">Andrew Clements</a>, <a href=\"profile/timashley\">Tim Ashley</a>, <a href=\"profile/flora-willson\">Flora Willson</a>"
+      "bylineHtml": "<a href=\"profile/rianevans\">Rian Evans</a>, <a href=\"profile/andrewclements\">Andrew Clements</a>, <a href=\"profile/timashley\">Tim Ashley</a> and <a href=\"profile/flora-willson\">Flora Willson</a>"
     },
     "tags": [
       {
@@ -21941,11 +22099,12 @@
         "webUrl": "https://www.theguardian.com/profile/paulmacinnes",
         "apiUrl": "https://content.guardianapis.com/profile/paulmacinnes",
         "references": [],
-        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture.&nbsp;</p>",
+        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture</p>",
         "bylineImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul-Macinnes.jpg",
         "bylineLargeImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul_MacInnes,_L.png",
         "firstName": "Paul",
-        "lastName": "MacInnes"
+        "lastName": "MacInnes",
+        "twitterHandle": "PaulMac"
       },
       {
         "id": "publication/theguardian",
@@ -22514,6 +22673,73 @@
         "webTitle": "Top stories",
         "webUrl": "https://www.theguardian.com/theguardian/mainsection/topstories",
         "apiUrl": "https://content.guardianapis.com/theguardian/mainsection/topstories",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
+    "id": "australia-news/2020/may/12/morning-mail-emissions-dip-minimal-frydenbergs-update-inside-an-animal-hospital",
+    "type": "article",
+    "sectionId": "australia-news",
+    "sectionName": "Australia news",
+    "webPublicationDate": "2020-05-11T21:03:46Z",
+    "webTitle": "Morning mail: emissions dip minimal, Frydenberg's update, inside an animal hospital",
+    "webUrl": "https://www.theguardian.com/australia-news/2020/may/12/morning-mail-emissions-dip-minimal-frydenbergs-update-inside-an-animal-hospital",
+    "apiUrl": "https://content.guardianapis.com/australia-news/2020/may/12/morning-mail-emissions-dip-minimal-frydenbergs-update-inside-an-animal-hospital",
+    "fields": {
+      "headline": "Morning mail: emissions dip minimal, Frydenberg's update, inside an animal hospital",
+      "standfirst": "<p><strong>Tuesday:</strong> Emissions from Australia\u2019s electricity grid dropped by only 1% during lockdown. Plus, how to stay \u2018four koalas apart\u2019</p>",
+      "trailText": "<strong>Tuesday:</strong> Emissions from Australia\u2019s electricity grid dropped by only 1% during lockdown. Plus, how to stay \u2018four koalas apart\u2019",
+      "main": "<figure class=\"element element-image\" data-media-id=\"de4256678158fbbda06a30caca095c8cf2e3d0f9\"> \n <img src=\"https://media.guim.co.uk/de4256678158fbbda06a30caca095c8cf2e3d0f9/0_186_5568_3341/1000.jpg\" alt=\"Emissions from Australia\u2019s electricity grid dropped by only 1% during lockdown. Photo: Darren England/AAP\" width=\"1000\" height=\"600\" class=\"gu-image\"> \n <figcaption> \n  <span class=\"element-image__caption\">Australia\u2019s electricity consumption 16 March to 21 April was 2.4% lower than last year, but more than half of the drop was likely attributable to it being warmer.</span> \n  <span class=\"element-image__credit\">Photograph: Darren England/AAP</span> \n </figcaption> \n</figure>",
+      "body": "<p>Good morning, this is James Murray bringing you the main stories and must-reads on Tuesday 12 May.</p> \n<h2>Top stories</h2> \n<p><strong>Global greenhouse emissions are expected to slump this year as shutdowns make their impact across the world, but Australia\u2019s own electricity grid appears unaffected. </strong>An analysis by Hugh Saddler, who writes a monthly national emissions audit for the Australia Institute, found the reduced economic activity over a five-week period was likely to have <a href=\"https://www.theguardian.com/environment/2020/may/12/global-carbon-emissions-to-slump-but-australias-electricity-grid-flatlines\">cut emissions from the country\u2019s coal-dominated power generation by only about 1%</a>. Australia can expect to see a significant fall in emissions from both road transport and aviation, though. Saddler said Australia differed from some of the worst-affected countries in that major energy users in Australia, such as mining, mineral processing and manufacturing operations, had mostly stayed open during lockdown.</p> \n<p><strong>Australians are increasingly comfortable with easing Covid-19 lockdown restrictions, the latest Guardian Essential Poll shows. </strong>The poll comes as Victoria announces an easing of restrictions, and the treasurer, Josh Frydenberg, prepares to update parliament on the gains to gross domestic product if governments roll out the full, three-stage agreement to end lockdowns signed off by the national cabinet last week. The treasurer says stage one \u2013 which involves reopening retail outlets and schools and permits cafes and restaurants to seat 10 patrons \u2013 will boost GDP by $3.1bn. <a href=\"https://www.theguardian.com/australia-news/2020/may/12/guardian-essential-poll-australians-more-comfortable-with-easing-of-coronavirus-rules\">Concern about the threat of the virus increased</a>, with 49% of respondents saying they are quite concerned, compared with 46% last week.</p> \n<p><strong>The Trump administration\u2019s inconsistent handling of the Covid-19 pandemic continues, with Mike Pence avoiding quarantine despite his own press secretary </strong><strong> testing positive</strong><strong>. </strong>Pence, who refused to wear a face mask during a visit to a hospital last week, plans to continue working at the White House and \u201ccontinues to test negative every single day\u201d, <a href=\"https://www.theguardian.com/us-news/2020/may/11/mike-pence-quarantine-coronavirus-white-house\">according to his </a><a href=\"https://www.theguardian.com/us-news/2020/may/11/mike-pence-quarantine-coronavirus-white-house\"> spokesperson</a>. Meanwhile, <a href=\"https://www.theguardian.com/us-news/live/2020/may/11/coronavirus-us-donald-trump-pence-fauci-isolation-cuomo-latest-news-updates?page=with:block-5eb9621e8f088809fbcd8be8#block-5eb9621e8f088809fbcd8be8\">Donald Trump has claimed coronavirus numbers </a> \u201care going down almost everywhere\u201d in the US, but in truth numbers are decreasing in just 14 states out of 50. In the UK, Boris Johnson is under attack for muddled messaging as he laid out plans to reopen parts of the British economy. MPs in the Commons <a href=\"https://www.theguardian.com/politics/2020/may/11/party-leaders-from-across-uk-attack-boris-johnson-over-muddled-messaging\">criticised the change of the government\u2019s message from \u201cstay at home\u201d to \u201cstay alert\u201d</a>.</p> \n<h2>Australia</h2> \n<p><strong>We have a long way to go to get Australia\u2019s economy back on track</strong>, writes Greg Jericho. Even with strong growth, the economy is not expected to be the size it was at the end of last year <a href=\"https://www.theguardian.com/business/grogonomics/2020/may/12/we-have-a-long-way-to-go-to-get-australias-economy-back-on-track\">until March 2022</a>.</p> \n<p><strong>Australia\u2019s tertiary sector has been hit especially hard by Covid-19, as overseas student numbers have plummeted.</strong> But moving course content online is only the beginning for universities, which expect to lose up to 21,000 jobs and will have to remodel their offerings <a href=\"https://www.theguardian.com/australia-news/2020/may/12/university-upheaval-if-people-feel-safe-well-see-the-students-come-back\">to provide new short courses and continue to attract international students.</a></p> \n<p><strong>The prime minister, Scott Morrison, says he will be disappointed if China\u2019s plan to impose tariffs on Australian barley imports was linked to the recent coronavirus stoush. </strong>The government has signalled it would take the dispute to the World Trade Organization <a href=\"https://www.theguardian.com/world/2020/may/11/australia-australia-pm-scott-morrison-disappointed-if-china-coronavirus-invesigation-tariff-plan-linked-covid-19-inquiry\">should China follow through with planned duties of around 80%.</a></p> \n<h2>The world</h2> \n<figure class=\"element element-image\" data-media-id=\"118e7440c6c6ea5246356b9831aa9641e102b971\"> \n <img src=\"https://media.guim.co.uk/118e7440c6c6ea5246356b9831aa9641e102b971/0_40_1440_864/1000.jpg\" alt=\"neanderthals\" width=\"1000\" height=\"600\" class=\"gu-image\"> \n <figcaption> \n  <span class=\"element-image__caption\">Stone artefacts found at Bacho Kiro cave in Bulgaria.</span> \n  <span class=\"element-image__credit\">Photograph: Tsenka Tsanova/PA</span> \n </figcaption> \n</figure> \n<p><strong>New research shows that Neanderthals and humans coexisted in Europe for much longer than previously thought. </strong>Researchers say remains and tools found in Bulgaria reveal modern humans and Neanderthals were present at the same time for several thousand years, <a href=\"https://www.theguardian.com/science/2020/may/11/humans-and-neanderthals-co-existed-in-europe-far-longer-than-thought\">giving them ample time for biological and cultural interaction.</a></p> \n<p><strong>Canadian police have launched a psychological analysis of the deceased Novia Scotia gunman, to try and understand what led him to kill 22 people over a 12-hour period. </strong>Gabriel Wortman <a href=\"https://www.theguardian.com/world/2020/may/11/nova-scotia-shooting-police-launch-psychological-autopsy-gunman\">carried out the worst shooting in Canada\u2019s history</a>.</p> \n<p><strong>Vulnerable people from refugee camps in Greece have been reunited with their families after a rescue flight to the UK. </strong>British refugees travelled to Heathrow to greet their family members after the flight <a href=\"https://www.theguardian.com/global-development/2020/may/11/refugee-families-reunited-in-uk-after-rescue-flight-from-greece\">brought 47 people from Syria, Somalia and Afghanistan</a><a href=\"https://www.theguardian.com/global-development/2020/may/11/refugee-families-reunited-in-uk-after-rescue-flight-from-greece\">.</a></p> \n<h2>Recommended reads</h2> \n<figure class=\"element element-image\" data-media-id=\"a147fe143a1a2ac2d562d59606c6fda23950e110\"> \n <img src=\"https://media.guim.co.uk/a147fe143a1a2ac2d562d59606c6fda23950e110/0_182_5472_3283/1000.jpg\" alt=\"vets\" width=\"1000\" height=\"600\" class=\"gu-image\"> \n <figcaption> \n  <span class=\"element-image__caption\">To maintain social distancing, the morning handover for interns and doctors at Sydney University\u2019s veterinary teaching hospital happens in the historic animal-inspection building.</span> \n  <span class=\"element-image__credit\">Photograph: Mike Bowers/The Guardian</span> \n </figcaption> \n</figure> \n<p><strong>\u201cStay four koalas apart\u201d is the catchy message promoting social distancing at Sydney University\u2019s veterinary teaching hospital. </strong>The beginning of a new shift involves interns at the hospital handing over notes in a historic animal inspection building where there is enough room for everyone to gather without getting too close. \u201cIt was a place where the students in my day used to celebrate the end of their faculty dinners with a keg into the wee hours, so it\u2019s got a lot of sentimental value,\u201d <a href=\"https://www.theguardian.com/lifeandstyle/2020/may/11/stay-four-koalas-apart-an-animal-hospitals-response-to-coronavirus-in-pictures\">says the hospital\u2019s CEO, Dr Mark Lawrie</a>. <strong>Alyx Gorman </strong>visits the hospital\u2019s staff members and furry patients to find out how the coronavirus pandemic has affected the veterinary world.</p> \n<p><strong>The Stream Team rewatch Bio-Dome, a 1996 gross-out comedy that Kylie Minogue describes as her worst career move. </strong>Starring Pauly Shore and a lesser Baldwin, the 1996 comedy is full of terrible jokes \u2013 <a href=\"https://www.theguardian.com/culture/2020/may/12/bio-dome-kylie-minogues-worst-career-move-is-a-blueprint-for-managing-isolation\">and surprisingly salient lessons that might apply to our current situation</a>.</p> \n<p><strong>And Josh Taylor looks at what\u2019s driving anti-lockdown protests in Australia. </strong>Mimicking the protests seen in America, small groups of Australians have gathered in major cities, blaming 5G and Bill Gates for the coronavirus. The protests are largely organised through Facebook groups focused on fringe conspiracy theories such as QAnon and anti-vaxx culture. Axel Bruns, a professor in digital media research at Queensland University of Technology, tells Guardian Australia <a href=\"https://www.theguardian.com/media/2020/may/12/vaccines-5g-bill-gates-why-are-australians-gathering-to-spread-coronavirus-conspiracy-theories\">the pandemic is bringing wildly differing conspiracy theory groups together</a>. \u201cAny group with pre-existing conspiracy theories has projected their conspiracy theories on to the corona crisis in some form as well,\u201d he said</p> \n<h2>Listen</h2> \n<p><strong>Guardian Australia\u2019s Full Story podcast looks at how Covid-19 is affecting women\u2019s experience of work and making gender inequality more visible. </strong>When it comes to unpaid housework and caring duties, Australian women are among the most overworked in the world. They\u2019re also overrepresented in low-paid jobs on the frontline of Covid-19 \u2013 <a href=\"https://www.theguardian.com/australia-news/audio/2020/may/12/how-the-coronavirus-is-affecting-womens-work-in-australia\">such as aged care, childcare and disability support work.</a></p> \n<figure class=\"element element-atom\"> \n <gu-atom data-atom-id=\"762c4fa6-076a-4f21-ba20-1c9074180853\" data-atom-type=\"audio\"> \n  <div>\n   <div class=\"atom-Audio\"></div>\n  </div>\n </gu-atom> \n</figure> \n<p><em>Full Story is Guardian Australia\u2019s news podcast. Subscribe for free on <a href=\"https://ablink.editorial.theguardian.com/mps2/c/-wA/AUR8AA/t.30c/4s-NI13WQeubM6CEmuVuWA/h34/nw-2B-2FgvTFHE0ilhHgr-2F7jg8oyvPuQIV2q3Q8RShDRDWnKXexkg8f8slDV-2BnW6BmjjVgvNgfIh-2Fz9aAo-2FuKdev-2FuJ1X3lcwRM6X7PA-2FSKTNtJ8C1VJ8FzIpl-2FfZw7EkWuM2ynFTnBo29nvWZrt2QdblatlFA7GslHJQQ6z1DVp7PZvaZhFzn-2BYb-2B80BjW2pUjs2FvRPXmSffYzqPDurSWXsBapgrNalBZFBQh-2FZUgm5unWVcDTHh3wvXE7mcZk9TSfW1-2F3hSZ6n-2Bvlw0M4C-2F8JMw-3D-3D/_a49\">Apple Podcasts</a>, <a href=\"https://ablink.editorial.theguardian.com/mps2/c/-wA/AUR8AA/t.30c/4s-NI13WQeubM6CEmuVuWA/h35/zfYKAs4AaOT6gkWW-2Fht0F2BobP-2FGdiaJ0KjNOYo9vKpI0e8xlRNPJf-2F6QwKtGFU6Y8X-2F5RKWoJDH5aV0OH1pIJ7NV7dp-2FYC4MqYYbxQqeCtU0NM18O9vGtFUtZ80HxqXACeKzGAE9CQasik3WROgRAGV72d-2FtvfSXyqmICkdUyyGwX6YoEGZbjrGFPxrVWv7K-2BtLFTfVJTGiTQCCLum-2BSn5-2FDswp7JFi6YAlw-2FOyS29ikwO6-2FqQTb-2BdD6NukLRjzOwAS9WW7RGaFJ4UF0mKI-2F8X-2FmOCfRgD3aNy1T02DJy4-3D/VpAX\">Spotify</a> or any other podcasting app.</em></p> \n<h2>Sport</h2> \n<p><strong>The death of Darby McCarthy last week saw the passing of one of the greats of Australian horse racing and a trailblazer of Aboriginal history. </strong>John Maynard takes a look at the life of a man who was a winner on the track, partied with Sinatra, <a href=\"https://www.theguardian.com/australia-news/2020/may/12/darby-mccarthy-genius-jockey-who-rode-for-princes-was-a-trailblazer-of-aboriginal-history\">and made it a mission to teach everyone about Aboriginal culture.</a></p> \n<h2>Media roundup</h2> \n<p>The ABC reports on the <a href=\"https://www.abc.net.au/news/2020-05-12/coronavirus-immunity-certificates-survivors-dangerous-experts/12233792\">danger of so-called \u201cimmunity certificates</a>\u201d for Covid-19. The <strong>Sydney Morning Herald </strong>reports that the NSW treasurer, Dominic Perrottet, wants to temporarily cease mandatory monthly updates of the state\u2019s finances, prompting accusations that <a href=\"https://www.smh.com.au/politics/nsw/nsw-treasurer-pushes-for-optional-monthly-updates-of-state-s-finances-during-pandemic-20200511-p54rs4.html\">he wants to conceal the full impact of the economic crisis caused by the Covid-19 pandemic</a>. And the <strong>Age </strong>reports on the Victorian branch of the Australian Medical Association pushing for testing to become a regular part of post-Covid-19 life<a href=\"https://www.theage.com.au/national/victoria/widespread-testing-needed-to-avert-second-wave-as-restrictions-eased-20200511-p54rxn.html\"> to avoid a second wave of infections as social restrictions are eased.</a></p> \n<h2>Coming up</h2> \n<p>The Morrison government will deliver an economic statement to parliament in lieu of the federal budget which has been postponed to October due to Covid-19.</p> \n<h2>Sign up</h2> \n<p>If you would like to receive the Guardian Australia morning mail to your email inbox every weekday, <a href=\"https://www.theguardian.com/world/guardian-australia-morning-mail/2014/jun/24/-sp-guardian-australias-morning-mail-subscribe-by-email\">sign up here</a>.</p>",
+      "wordcount": "1181",
+      "displayHint": "immersive",
+      "firstPublicationDate": "2020-05-11T21:03:46Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-05-21T04:41:23Z",
+      "productionOffice": "AUS",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dzpet",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/de4256678158fbbda06a30caca095c8cf2e3d0f9/0_186_5568_3341/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "Good morning, this is James Murray bringing you the main stories and must-reads on Tuesday 12 May. Top stories Global greenhouse emissions are expected to slump this year as shutdowns make their impact across the world, but Australia\u2019s own electricity grid appears unaffected. An analysis by Hugh Saddler, who writes a monthly national emissions audit for the Australia Institute, found the reduced economic activity over a five-week period was likely to have cut emissions from the country\u2019s coal-dominated power generation by only about 1%. Australia can expect to see a significant fall in emissions from both road transport and aviation, though. Saddler said Australia differed from some of the worst-affected countries in that major energy users in Australia, such as mining, mineral processing and manufacturing operations, had mostly stayed open during lockdown. Australians are increasingly comfortable with easing Covid-19 lockdown restrictions, the latest Guardian Essential Poll shows. The poll comes as Victoria announces an easing of restrictions, and the treasurer, Josh Frydenberg, prepares to update parliament on the gains to gross domestic product if governments roll out the full, three-stage agreement to end lockdowns signed off by the national cabinet last week. The treasurer says stage one \u2013 which involves reopening retail outlets and schools and permits cafes and restaurants to seat 10 patrons \u2013 will boost GDP by $3.1bn. Concern about the threat of the virus increased, with 49% of respondents saying they are quite concerned, compared with 46% last week. The Trump administration\u2019s inconsistent handling of the Covid-19 pandemic continues, with Mike Pence avoiding quarantine despite his own press secretary testing positive. Pence, who refused to wear a face mask during a visit to a hospital last week, plans to continue working at the White House and \u201ccontinues to test negative every single day\u201d, according to his spokesperson. Meanwhile, Donald Trump has claimed coronavirus numbers \u201care going down almost everywhere\u201d in the US, but in truth numbers are decreasing in just 14 states out of 50. In the UK, Boris Johnson is under attack for muddled messaging as he laid out plans to reopen parts of the British economy. MPs in the Commons criticised the change of the government\u2019s message from \u201cstay at home\u201d to \u201cstay alert\u201d. Australia We have a long way to go to get Australia\u2019s economy back on track, writes Greg Jericho. Even with strong growth, the economy is not expected to be the size it was at the end of last year until March 2022. Australia\u2019s tertiary sector has been hit especially hard by Covid-19, as overseas student numbers have plummeted. But moving course content online is only the beginning for universities, which expect to lose up to 21,000 jobs and will have to remodel their offerings to provide new short courses and continue to attract international students. The prime minister, Scott Morrison, says he will be disappointed if China\u2019s plan to impose tariffs on Australian barley imports was linked to the recent coronavirus stoush. The government has signalled it would take the dispute to the World Trade Organization should China follow through with planned duties of around 80%. The world New research shows that Neanderthals and humans coexisted in Europe for much longer than previously thought. Researchers say remains and tools found in Bulgaria reveal modern humans and Neanderthals were present at the same time for several thousand years, giving them ample time for biological and cultural interaction. Canadian police have launched a psychological analysis of the deceased Novia Scotia gunman, to try and understand what led him to kill 22 people over a 12-hour period. Gabriel Wortman carried out the worst shooting in Canada\u2019s history. Vulnerable people from refugee camps in Greece have been reunited with their families after a rescue flight to the UK. British refugees travelled to Heathrow to greet their family members after the flight brought 47 people from Syria, Somalia and Afghanistan. Recommended reads \u201cStay four koalas apart\u201d is the catchy message promoting social distancing at Sydney University\u2019s veterinary teaching hospital. The beginning of a new shift involves interns at the hospital handing over notes in a historic animal inspection building where there is enough room for everyone to gather without getting too close. \u201cIt was a place where the students in my day used to celebrate the end of their faculty dinners with a keg into the wee hours, so it\u2019s got a lot of sentimental value,\u201d says the hospital\u2019s CEO, Dr Mark Lawrie. Alyx Gorman visits the hospital\u2019s staff members and furry patients to find out how the coronavirus pandemic has affected the veterinary world. The Stream Team rewatch Bio-Dome, a 1996 gross-out comedy that Kylie Minogue describes as her worst career move. Starring Pauly Shore and a lesser Baldwin, the 1996 comedy is full of terrible jokes \u2013 and surprisingly salient lessons that might apply to our current situation. And Josh Taylor looks at what\u2019s driving anti-lockdown protests in Australia. Mimicking the protests seen in America, small groups of Australians have gathered in major cities, blaming 5G and Bill Gates for the coronavirus. The protests are largely organised through Facebook groups focused on fringe conspiracy theories such as QAnon and anti-vaxx culture. Axel Bruns, a professor in digital media research at Queensland University of Technology, tells Guardian Australia the pandemic is bringing wildly differing conspiracy theory groups together. \u201cAny group with pre-existing conspiracy theories has projected their conspiracy theories on to the corona crisis in some form as well,\u201d he said Listen Guardian Australia\u2019s Full Story podcast looks at how Covid-19 is affecting women\u2019s experience of work and making gender inequality more visible. When it comes to unpaid housework and caring duties, Australian women are among the most overworked in the world. They\u2019re also overrepresented in low-paid jobs on the frontline of Covid-19 \u2013 such as aged care, childcare and disability support work. Full Story is Guardian Australia\u2019s news podcast. Subscribe for free on Apple Podcasts, Spotify or any other podcasting app. Sport The death of Darby McCarthy last week saw the passing of one of the greats of Australian horse racing and a trailblazer of Aboriginal history. John Maynard takes a look at the life of a man who was a winner on the track, partied with Sinatra, and made it a mission to teach everyone about Aboriginal culture. Media roundup The ABC reports on the danger of so-called \u201cimmunity certificates\u201d for Covid-19. The Sydney Morning Herald reports that the NSW treasurer, Dominic Perrottet, wants to temporarily cease mandatory monthly updates of the state\u2019s finances, prompting accusations that he wants to conceal the full impact of the economic crisis caused by the Covid-19 pandemic. And the Age reports on the Victorian branch of the Australian Medical Association pushing for testing to become a regular part of post-Covid-19 life to avoid a second wave of infections as social restrictions are eased. Coming up The Morrison government will deliver an economic statement to parliament in lieu of the federal budget which has been postponed to October due to Covid-19. Sign up If you would like to receive the Guardian Australia morning mail to your email inbox every weekday, sign up here.",
+      "charCount": "7449",
+      "showAffiliateLinks": "false"
+    },
+    "tags": [
+      {
+        "id": "australia-news/series/guardian-australia-s-morning-mail",
+        "type": "series",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Guardian Australia's morning mail",
+        "webUrl": "https://www.theguardian.com/australia-news/series/guardian-australia-s-morning-mail",
+        "apiUrl": "https://content.guardianapis.com/australia-news/series/guardian-australia-s-morning-mail",
+        "references": [],
+        "description": "<p>All the news you need to start your day.&nbsp;<a href=\"https://www.theguardian.com/world/guardian-australia-morning-mail/2014/jun/24/-sp-guardian-australias-morning-mail-subscribe-by-email\">Sign up here</a>&nbsp;to get the morning mail emailed direct to you every weekday</p>"
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tracking/commissioningdesk/australia-news",
+        "type": "tracking",
+        "webTitle": "Australia News",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
         "references": []
       }
     ],
@@ -23602,11 +23828,12 @@
         "webUrl": "https://www.theguardian.com/profile/paulmacinnes",
         "apiUrl": "https://content.guardianapis.com/profile/paulmacinnes",
         "references": [],
-        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture.&nbsp;</p>",
+        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture</p>",
         "bylineImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul-Macinnes.jpg",
         "bylineLargeImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul_MacInnes,_L.png",
         "firstName": "Paul",
-        "lastName": "MacInnes"
+        "lastName": "MacInnes",
+        "twitterHandle": "PaulMac"
       },
       {
         "id": "profile/carolinedavies",

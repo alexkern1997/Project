@@ -13271,11 +13271,12 @@
         "webUrl": "https://www.theguardian.com/profile/paulmacinnes",
         "apiUrl": "https://content.guardianapis.com/profile/paulmacinnes",
         "references": [],
-        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture.&nbsp;</p>",
+        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture</p>",
         "bylineImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul-Macinnes.jpg",
         "bylineLargeImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul_MacInnes,_L.png",
         "firstName": "Paul",
-        "lastName": "MacInnes"
+        "lastName": "MacInnes",
+        "twitterHandle": "PaulMac"
       },
       {
         "id": "publication/theguardian",
@@ -18595,136 +18596,6 @@
     "pillarName": "News"
   },
   {
-    "id": "australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
-    "type": "article",
-    "sectionId": "australia-news",
-    "sectionName": "Australia news",
-    "webPublicationDate": "2020-04-12T20:00:53Z",
-    "webTitle": "Independent schools demand federal government withdraws threat and guarantees \u2018vital\u2019 funding",
-    "webUrl": "https://www.theguardian.com/australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
-    "apiUrl": "https://content.guardianapis.com/australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
-    "fields": {
-      "headline": "Independent schools demand federal government withdraws threat and guarantees \u2018vital\u2019 funding",
-      "standfirst": "<p>Education minister had said schools needed to offer in-person education or risk losing funding</p><ul><li><a href=\"https://www.theguardian.com/newsletters/2020/mar/28/sign-up-for-guardian-australias-daily-coronavirus-email?CMP=cvau_sfl\">Sign up for Guardian Australia\u2019s daily coronavirus email</a><br></li><li><a href=\"https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl\">Download the free Guardian app to get the most important news notifications</a></li></ul>",
-      "trailText": "Education minister had said schools needed to offer in-person education or risk losing funding",
-      "byline": "Paul Karp",
-      "main": "<figure class=\"element element-image\" data-media-id=\"ce8709ad737911dc490ddb4b24f11c4f4da379b2\"> <img src=\"https://media.guim.co.uk/ce8709ad737911dc490ddb4b24f11c4f4da379b2/0_237_3615_2169/1000.jpg\" alt=\"school students sitting together inside\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Christian Schools Australia wants federal government to guarantee funding even if enrolments drop off as a result of home-schooling due to coronavirus.</span> <span class=\"element-image__credit\">Photograph: Mick Tsikas/AAP</span> </figcaption> </figure>",
-      "body": "<p>Christian Schools Australia (CSA) has demanded the federal government withdraw a threat to independent schools and instead commit to guarantee funding even if enrolments drop off as a result of Covid-19.</p> <p>On Thursday the education minister, Dan Tehan, <a href=\"https://www.theguardian.com/education/2020/apr/09/federal-education-minister-orders-independent-schools-to-reopen-for-term-two\">wrote to all independent school associations</a> ordering them to provide in-person education to children from term two or risk losing their federal funding.</p> <p>The direction antagonised Independent Schools Victoria, which believes it clashes with health advice in that state, and CSA, which has been lobbying behind the scenes for a guarantee on 2020 schools funding.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/apr/12/australian-universities-warn-covid-19-relief-package-not-enough-to-stop-21000-jobs-losses\">Australian universities warn Covid-19 relief package not enough to stop 21,000 job losses</a> </p> </aside>  <p>Federal funding for non-government schools is based on enrolments at a census date, usually in August, but CSA wants funding to be guaranteed at the level of student enrolment at the start of term one.</p> <p>Throughout March the Morrison government <a href=\"https://www.theguardian.com/world/2020/mar/16/why-australia-is-not-shutting-schools-to-help-control-the-spread-of-coronavirus\">opposed school closures on the basis of medical advice</a>, but the issue was forced by Victoria bringing forward its school holidays and other states introducing pupil-free days, resulting in higher rates of parents keeping their children home and in some cases withdrawing them from independent schools.</p> <p>CSA director of public policy, Mark Spencer, said it had \u201cbeen asking the minister for a declaration to provide certainty on commonwealth funding for weeks\u201d.</p> <p>\u201cInstead we read in the media that our funding is being threatened,\u201d he said.</p> <p>\u201cChristian schools, along with other independent schools, have remained open to children of essential workers and vulnerable children and have strongly supported the government\u2019s position that schools remain safe.\u201d</p> <p>\u201cThe declaration was unnecessary and disheartening, following on the back of that announcement that schools could not access the lower threshold for jobkeeper payments that applies to other charities.\u201d</p> <p>Independent schools, like universities, were excluded from the lower threshold of 15% revenue decrease to qualify for jobkeeper extended to other charities. Instead, they must show a 30% revenue reduction.</p> <p>Spencer said commonwealth funding \u201cis vital for Christian schools across Australia\u201d.</p> <p>\u201cWe want to continue to support the government\u2019s position and provide a high-quality education and keep our students and staff safe in these very uncertain times.\u201d</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/apr/09/anu-to-base-admission-on-year-11-because-of-significant-disruption-from-coronavirus\">ANU to base admission on year 11 because of 'significant disruption' from coronavirus</a> </p> </aside>  <p>\u201cHowever, schools need funding certainty now to be able to plan for term two and beyond with any confidence.\u201d</p> <p>At national cabinet on Thursday federal, state and territory leaders discussed how to develop a consistent national approach to which students should attend schools after the Easter holidays although no decisions were made.</p> <p>Tehan defended his direction to independent schools, telling ABC TV that some \u201cweren\u2019t offering, for parents that had to work at all year levels, that opportunity for those students to be able to get that safe learning environment\u201d.</p> <p>On Sunday Tehan said the federal government \u201cwants all schools open\u201d.</p> <p>He noted states and territories had \u201cput in place different arrangements\u201d contrasting the Northern Territory, where students are required to attend school in person in term two, with Victoria and New South Wales which \u201care encouraging parents to, if they can, to have their students study at home\u201d.</p> <p>\u201cBut what the nationally consistent approach is, when it comes to parents who have to work and vulnerable children, schools have to be open and have to make sure that they provide a safe learning environment for those children.\u201d</p> <p>On Sunday Tehan <a href=\"https://www.theguardian.com/australia-news/2020/apr/12/australian-universities-warn-covid-19-relief-package-not-enough-to-stop-21000-jobs-losses\">announced a support package for the university sector</a>, promising their $18bn commonwealth grants scheme funding for 2020 will be paid even if enrolments fall.</p> <p>Universities Australia, which along with <a href=\"https://www.theguardian.com/australia-news/2020/apr/03/labor-warns-some-universities-face-collapse-as-international-enrolments-plummet\">Labor have called for a more generous support package</a>, welcomed the package as a good first step but warned it would not be enough to stop an estimated 21,000 job losses in the sector.</p>",
-      "wordcount": "597",
-      "firstPublicationDate": "2020-04-12T20:00:53Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-04-14T01:16:20Z",
-      "productionOffice": "AUS",
-      "publication": "theguardian.com",
-      "shortUrl": "https://gu.com/p/djm93",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/ce8709ad737911dc490ddb4b24f11c4f4da379b2/0_237_3615_2169/500.jpg",
-      "legallySensitive": "false",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "Christian Schools Australia (CSA) has demanded the federal government withdraw a threat to independent schools and instead commit to guarantee funding even if enrolments drop off as a result of Covid-19. On Thursday the education minister, Dan Tehan, wrote to all independent school associations ordering them to provide in-person education to children from term two or risk losing their federal funding. The direction antagonised Independent Schools Victoria, which believes it clashes with health advice in that state, and CSA, which has been lobbying behind the scenes for a guarantee on 2020 schools funding. Federal funding for non-government schools is based on enrolments at a census date, usually in August, but CSA wants funding to be guaranteed at the level of student enrolment at the start of term one. Throughout March the Morrison government opposed school closures on the basis of medical advice, but the issue was forced by Victoria bringing forward its school holidays and other states introducing pupil-free days, resulting in higher rates of parents keeping their children home and in some cases withdrawing them from independent schools. CSA director of public policy, Mark Spencer, said it had \u201cbeen asking the minister for a declaration to provide certainty on commonwealth funding for weeks\u201d. \u201cInstead we read in the media that our funding is being threatened,\u201d he said. \u201cChristian schools, along with other independent schools, have remained open to children of essential workers and vulnerable children and have strongly supported the government\u2019s position that schools remain safe.\u201d \u201cThe declaration was unnecessary and disheartening, following on the back of that announcement that schools could not access the lower threshold for jobkeeper payments that applies to other charities.\u201d Independent schools, like universities, were excluded from the lower threshold of 15% revenue decrease to qualify for jobkeeper extended to other charities. Instead, they must show a 30% revenue reduction. Spencer said commonwealth funding \u201cis vital for Christian schools across Australia\u201d. \u201cWe want to continue to support the government\u2019s position and provide a high-quality education and keep our students and staff safe in these very uncertain times.\u201d \u201cHowever, schools need funding certainty now to be able to plan for term two and beyond with any confidence.\u201d At national cabinet on Thursday federal, state and territory leaders discussed how to develop a consistent national approach to which students should attend schools after the Easter holidays although no decisions were made. Tehan defended his direction to independent schools, telling ABC TV that some \u201cweren\u2019t offering, for parents that had to work at all year levels, that opportunity for those students to be able to get that safe learning environment\u201d. On Sunday Tehan said the federal government \u201cwants all schools open\u201d. He noted states and territories had \u201cput in place different arrangements\u201d contrasting the Northern Territory, where students are required to attend school in person in term two, with Victoria and New South Wales which \u201care encouraging parents to, if they can, to have their students study at home\u201d. \u201cBut what the nationally consistent approach is, when it comes to parents who have to work and vulnerable children, schools have to be open and have to make sure that they provide a safe learning environment for those children.\u201d On Sunday Tehan announced a support package for the university sector, promising their $18bn commonwealth grants scheme funding for 2020 will be paid even if enrolments fall. Universities Australia, which along with Labor have called for a more generous support package, welcomed the package as a good first step but warned it would not be enough to stop an estimated 21,000 job losses in the sector.",
-      "charCount": "3831",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/paul-karp\">Paul Karp</a>"
-    },
-    "tags": [
-      {
-        "id": "australia-news/australian-education",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australian education",
-        "webUrl": "https://www.theguardian.com/australia-news/australian-education",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australian-education",
-        "references": []
-      },
-      {
-        "id": "education/schools",
-        "type": "keyword",
-        "sectionId": "education",
-        "sectionName": "Education",
-        "webTitle": "Schools",
-        "webUrl": "https://www.theguardian.com/education/schools",
-        "apiUrl": "https://content.guardianapis.com/education/schools",
-        "references": []
-      },
-      {
-        "id": "australia-news/australian-politics",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australian politics",
-        "webUrl": "https://www.theguardian.com/australia-news/australian-politics",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australian-politics",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "australia-news/australia-news",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australia news",
-        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
-        "references": []
-      },
-      {
-        "id": "tone/news",
-        "type": "tone",
-        "webTitle": "News",
-        "webUrl": "https://www.theguardian.com/tone/news",
-        "apiUrl": "https://content.guardianapis.com/tone/news",
-        "references": []
-      },
-      {
-        "id": "profile/paul-karp",
-        "type": "contributor",
-        "webTitle": "Paul Karp",
-        "webUrl": "https://www.theguardian.com/profile/paul-karp",
-        "apiUrl": "https://content.guardianapis.com/profile/paul-karp",
-        "references": [],
-        "bio": "<p>Paul Karp is a reporter for Guardian Australia. Email: paul.karp@theguardian.com</p>",
-        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2016/2/11/1455181696016/Paul-Karp.jpg",
-        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/09/Paul-Karp,-L.png",
-        "firstName": "Paul",
-        "lastName": "Karp",
-        "twitterHandle": "Paul_Karp"
-      },
-      {
-        "id": "tracking/commissioningdesk/australia-news",
-        "type": "tracking",
-        "webTitle": "Australia News",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
-        "references": []
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/news",
-    "pillarName": "News"
-  },
-  {
     "id": "lifeandstyle/2020/apr/13/streaming-the-flow-next-yoga-class-ill-turn-my-webcam-on",
     "type": "article",
     "sectionId": "lifeandstyle",
@@ -19011,6 +18882,136 @@
         "firstName": "Calla ",
         "lastName": "Wahlquist",
         "twitterHandle": "callapilla"
+      },
+      {
+        "id": "tracking/commissioningdesk/australia-news",
+        "type": "tracking",
+        "webTitle": "Australia News",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
+    "id": "australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
+    "type": "article",
+    "sectionId": "australia-news",
+    "sectionName": "Australia news",
+    "webPublicationDate": "2020-04-12T20:00:53Z",
+    "webTitle": "Independent schools demand federal government withdraws threat and guarantees \u2018vital\u2019 funding",
+    "webUrl": "https://www.theguardian.com/australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
+    "apiUrl": "https://content.guardianapis.com/australia-news/2020/apr/13/independent-schools-demand-federal-government-withdraws-threat-and-guarantees-vital-funding",
+    "fields": {
+      "headline": "Independent schools demand federal government withdraws threat and guarantees \u2018vital\u2019 funding",
+      "standfirst": "<p>Education minister had said schools needed to offer in-person education or risk losing funding</p><ul><li><a href=\"https://www.theguardian.com/newsletters/2020/mar/28/sign-up-for-guardian-australias-daily-coronavirus-email?CMP=cvau_sfl\">Sign up for Guardian Australia\u2019s daily coronavirus email</a><br></li><li><a href=\"https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl\">Download the free Guardian app to get the most important news notifications</a></li></ul>",
+      "trailText": "Education minister had said schools needed to offer in-person education or risk losing funding",
+      "byline": "Paul Karp",
+      "main": "<figure class=\"element element-image\" data-media-id=\"ce8709ad737911dc490ddb4b24f11c4f4da379b2\"> <img src=\"https://media.guim.co.uk/ce8709ad737911dc490ddb4b24f11c4f4da379b2/0_237_3615_2169/1000.jpg\" alt=\"school students sitting together inside\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Christian Schools Australia wants federal government to guarantee funding even if enrolments drop off as a result of home-schooling due to coronavirus.</span> <span class=\"element-image__credit\">Photograph: Mick Tsikas/AAP</span> </figcaption> </figure>",
+      "body": "<p>Christian Schools Australia (CSA) has demanded the federal government withdraw a threat to independent schools and instead commit to guarantee funding even if enrolments drop off as a result of Covid-19.</p> <p>On Thursday the education minister, Dan Tehan, <a href=\"https://www.theguardian.com/education/2020/apr/09/federal-education-minister-orders-independent-schools-to-reopen-for-term-two\">wrote to all independent school associations</a> ordering them to provide in-person education to children from term two or risk losing their federal funding.</p> <p>The direction antagonised Independent Schools Victoria, which believes it clashes with health advice in that state, and CSA, which has been lobbying behind the scenes for a guarantee on 2020 schools funding.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/apr/12/australian-universities-warn-covid-19-relief-package-not-enough-to-stop-21000-jobs-losses\">Australian universities warn Covid-19 relief package not enough to stop 21,000 job losses</a> </p> </aside>  <p>Federal funding for non-government schools is based on enrolments at a census date, usually in August, but CSA wants funding to be guaranteed at the level of student enrolment at the start of term one.</p> <p>Throughout March the Morrison government <a href=\"https://www.theguardian.com/world/2020/mar/16/why-australia-is-not-shutting-schools-to-help-control-the-spread-of-coronavirus\">opposed school closures on the basis of medical advice</a>, but the issue was forced by Victoria bringing forward its school holidays and other states introducing pupil-free days, resulting in higher rates of parents keeping their children home and in some cases withdrawing them from independent schools.</p> <p>CSA director of public policy, Mark Spencer, said it had \u201cbeen asking the minister for a declaration to provide certainty on commonwealth funding for weeks\u201d.</p> <p>\u201cInstead we read in the media that our funding is being threatened,\u201d he said.</p> <p>\u201cChristian schools, along with other independent schools, have remained open to children of essential workers and vulnerable children and have strongly supported the government\u2019s position that schools remain safe.\u201d</p> <p>\u201cThe declaration was unnecessary and disheartening, following on the back of that announcement that schools could not access the lower threshold for jobkeeper payments that applies to other charities.\u201d</p> <p>Independent schools, like universities, were excluded from the lower threshold of 15% revenue decrease to qualify for jobkeeper extended to other charities. Instead, they must show a 30% revenue reduction.</p> <p>Spencer said commonwealth funding \u201cis vital for Christian schools across Australia\u201d.</p> <p>\u201cWe want to continue to support the government\u2019s position and provide a high-quality education and keep our students and staff safe in these very uncertain times.\u201d</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2020/apr/09/anu-to-base-admission-on-year-11-because-of-significant-disruption-from-coronavirus\">ANU to base admission on year 11 because of 'significant disruption' from coronavirus</a> </p> </aside>  <p>\u201cHowever, schools need funding certainty now to be able to plan for term two and beyond with any confidence.\u201d</p> <p>At national cabinet on Thursday federal, state and territory leaders discussed how to develop a consistent national approach to which students should attend schools after the Easter holidays although no decisions were made.</p> <p>Tehan defended his direction to independent schools, telling ABC TV that some \u201cweren\u2019t offering, for parents that had to work at all year levels, that opportunity for those students to be able to get that safe learning environment\u201d.</p> <p>On Sunday Tehan said the federal government \u201cwants all schools open\u201d.</p> <p>He noted states and territories had \u201cput in place different arrangements\u201d contrasting the Northern Territory, where students are required to attend school in person in term two, with Victoria and New South Wales which \u201care encouraging parents to, if they can, to have their students study at home\u201d.</p> <p>\u201cBut what the nationally consistent approach is, when it comes to parents who have to work and vulnerable children, schools have to be open and have to make sure that they provide a safe learning environment for those children.\u201d</p> <p>On Sunday Tehan <a href=\"https://www.theguardian.com/australia-news/2020/apr/12/australian-universities-warn-covid-19-relief-package-not-enough-to-stop-21000-jobs-losses\">announced a support package for the university sector</a>, promising their $18bn commonwealth grants scheme funding for 2020 will be paid even if enrolments fall.</p> <p>Universities Australia, which along with <a href=\"https://www.theguardian.com/australia-news/2020/apr/03/labor-warns-some-universities-face-collapse-as-international-enrolments-plummet\">Labor have called for a more generous support package</a>, welcomed the package as a good first step but warned it would not be enough to stop an estimated 21,000 job losses in the sector.</p>",
+      "wordcount": "597",
+      "firstPublicationDate": "2020-04-12T20:00:53Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-04-14T01:16:20Z",
+      "productionOffice": "AUS",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/djm93",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/ce8709ad737911dc490ddb4b24f11c4f4da379b2/0_237_3615_2169/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "Christian Schools Australia (CSA) has demanded the federal government withdraw a threat to independent schools and instead commit to guarantee funding even if enrolments drop off as a result of Covid-19. On Thursday the education minister, Dan Tehan, wrote to all independent school associations ordering them to provide in-person education to children from term two or risk losing their federal funding. The direction antagonised Independent Schools Victoria, which believes it clashes with health advice in that state, and CSA, which has been lobbying behind the scenes for a guarantee on 2020 schools funding. Federal funding for non-government schools is based on enrolments at a census date, usually in August, but CSA wants funding to be guaranteed at the level of student enrolment at the start of term one. Throughout March the Morrison government opposed school closures on the basis of medical advice, but the issue was forced by Victoria bringing forward its school holidays and other states introducing pupil-free days, resulting in higher rates of parents keeping their children home and in some cases withdrawing them from independent schools. CSA director of public policy, Mark Spencer, said it had \u201cbeen asking the minister for a declaration to provide certainty on commonwealth funding for weeks\u201d. \u201cInstead we read in the media that our funding is being threatened,\u201d he said. \u201cChristian schools, along with other independent schools, have remained open to children of essential workers and vulnerable children and have strongly supported the government\u2019s position that schools remain safe.\u201d \u201cThe declaration was unnecessary and disheartening, following on the back of that announcement that schools could not access the lower threshold for jobkeeper payments that applies to other charities.\u201d Independent schools, like universities, were excluded from the lower threshold of 15% revenue decrease to qualify for jobkeeper extended to other charities. Instead, they must show a 30% revenue reduction. Spencer said commonwealth funding \u201cis vital for Christian schools across Australia\u201d. \u201cWe want to continue to support the government\u2019s position and provide a high-quality education and keep our students and staff safe in these very uncertain times.\u201d \u201cHowever, schools need funding certainty now to be able to plan for term two and beyond with any confidence.\u201d At national cabinet on Thursday federal, state and territory leaders discussed how to develop a consistent national approach to which students should attend schools after the Easter holidays although no decisions were made. Tehan defended his direction to independent schools, telling ABC TV that some \u201cweren\u2019t offering, for parents that had to work at all year levels, that opportunity for those students to be able to get that safe learning environment\u201d. On Sunday Tehan said the federal government \u201cwants all schools open\u201d. He noted states and territories had \u201cput in place different arrangements\u201d contrasting the Northern Territory, where students are required to attend school in person in term two, with Victoria and New South Wales which \u201care encouraging parents to, if they can, to have their students study at home\u201d. \u201cBut what the nationally consistent approach is, when it comes to parents who have to work and vulnerable children, schools have to be open and have to make sure that they provide a safe learning environment for those children.\u201d On Sunday Tehan announced a support package for the university sector, promising their $18bn commonwealth grants scheme funding for 2020 will be paid even if enrolments fall. Universities Australia, which along with Labor have called for a more generous support package, welcomed the package as a good first step but warned it would not be enough to stop an estimated 21,000 job losses in the sector.",
+      "charCount": "3831",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/paul-karp\">Paul Karp</a>"
+    },
+    "tags": [
+      {
+        "id": "australia-news/australian-education",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australian education",
+        "webUrl": "https://www.theguardian.com/australia-news/australian-education",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australian-education",
+        "references": []
+      },
+      {
+        "id": "education/schools",
+        "type": "keyword",
+        "sectionId": "education",
+        "sectionName": "Education",
+        "webTitle": "Schools",
+        "webUrl": "https://www.theguardian.com/education/schools",
+        "apiUrl": "https://content.guardianapis.com/education/schools",
+        "references": []
+      },
+      {
+        "id": "australia-news/australian-politics",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australian politics",
+        "webUrl": "https://www.theguardian.com/australia-news/australian-politics",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australian-politics",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "australia-news/australia-news",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australia news",
+        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
+        "references": []
+      },
+      {
+        "id": "tone/news",
+        "type": "tone",
+        "webTitle": "News",
+        "webUrl": "https://www.theguardian.com/tone/news",
+        "apiUrl": "https://content.guardianapis.com/tone/news",
+        "references": []
+      },
+      {
+        "id": "profile/paul-karp",
+        "type": "contributor",
+        "webTitle": "Paul Karp",
+        "webUrl": "https://www.theguardian.com/profile/paul-karp",
+        "apiUrl": "https://content.guardianapis.com/profile/paul-karp",
+        "references": [],
+        "bio": "<p>Paul Karp is a reporter for Guardian Australia. Email: paul.karp@theguardian.com</p>",
+        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2016/2/11/1455181696016/Paul-Karp.jpg",
+        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/09/Paul-Karp,-L.png",
+        "firstName": "Paul",
+        "lastName": "Karp",
+        "twitterHandle": "Paul_Karp"
       },
       {
         "id": "tracking/commissioningdesk/australia-news",

@@ -10,7 +10,7 @@ makedirs(ARTICLES_DIR, exist_ok=True)
 MY_API_KEY = open('apikey.txt', 'r').read()
 API_ENDPOINT = 'http://content.guardianapis.com/search'
 my_params = {
-    'q': "Coronavirus%20OR%20Covid%20OR%20Wuhan",
+    'q': "Coronavirus%20OR%20Covid19%20OR%20Wuhanvirus",
     'from-date': "",
     'to-date': "",
     'order-by': "oldest",

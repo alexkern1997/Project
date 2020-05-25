@@ -7435,11 +7435,12 @@
         "webUrl": "https://www.theguardian.com/profile/paulmacinnes",
         "apiUrl": "https://content.guardianapis.com/profile/paulmacinnes",
         "references": [],
-        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture.&nbsp;</p>",
+        "bio": "<p>Paul MacInnes is a writer for the Guardian, specialising in sport and popular culture</p>",
         "bylineImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul-Macinnes.jpg",
         "bylineLargeImageUrl": "https://uploads.guim.co.uk/2018/01/23/Paul_MacInnes,_L.png",
         "firstName": "Paul",
-        "lastName": "MacInnes"
+        "lastName": "MacInnes",
+        "twitterHandle": "PaulMac"
       },
       {
         "id": "publication/theguardian",

@@ -5637,203 +5637,6 @@
     "pillarName": "Opinion"
   },
   {
-    "id": "commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
-    "type": "article",
-    "sectionId": "commentisfree",
-    "sectionName": "Opinion",
-    "webPublicationDate": "2020-04-26T08:30:09Z",
-    "webTitle": "Nudge theory is a poor substitute for hard science in matters of life or death | Sonia Sodha",
-    "webUrl": "https://www.theguardian.com/commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
-    "apiUrl": "https://content.guardianapis.com/commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
-    "fields": {
-      "headline": "Nudge theory is a poor substitute for hard science in matters of life or death",
-      "standfirst": "<p>Behavioural economics is being abused by politicians as a justification for flawed policies over the coronavirus outbreak</p>",
-      "trailText": "Behavioural economics is being abused by politicians as a justification for flawed policies over the coronavirus outbreak",
-      "byline": "Sonia Sodha",
-      "main": "<figure class=\"element element-image element--showcase\" data-media-id=\"19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a\"> <img src=\"https://media.guim.co.uk/19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a/2_0_10663_6400/1000.jpg\" alt=\"Dom Mckenzie\" width=\"1000\" height=\"600\" class=\"gu-image\" /> </figure>",
-      "body": "<p>I first came across \u201cnudge\u201d \u2013 the concept many consider to be the pinnacle of behavioural economics \u2013 at a thinktank seminar a little over 10 years ago. We were all handed a mock wine menu and asked what we\u2019d order.</p> <p>This was supposed to illustrate that most price-aware diners order the second-cheapest bottle to avoid looking tight and that restaurateurs use this to nudge us towards the bottle with the highest markup. I remember thinking it an interesting insight, but that these sorts of nudges were nowhere near as likely to transform the world as their enthusiastic proponent claimed.</p> <p>Lots of far more eminent people disagreed with me. Behavioural economics looks at how people make decisions in the real world \u2013 warts, irrational biases and all \u2013 and applies this to public policy. Its signature policy is set out in the 2008 book <em>Nudge</em>, by Cass Sunstein and Richard Thaler. The central insight is that changing the way choices are presented to people can have a huge impact. Make saving for retirement or donating your organs an opt-out rather than opt-in and watch as people suddenly adopt more socially responsible behaviour. Coming just as the financial crisis hit, <em>Nudge</em> was perfectly timed to achieve maximum traction by offering politicians the chance to reap savings through low-cost policy. Sunstein was quickly appointed to a senior job in the Obama administration, while David Cameron set up the behavioural insights team, dubbed the \u201cnudge unit\u201d, led by psychologist turned policy wonk David Halpern.</p> <p>The nudge unit has since had a mixed track record: there have been some real successes on <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/867634/automatic-enrolment-evaluation-report-2019.pdf\">pensions</a> and <a href=\"https://blogs.worldbank.org/voices/ongoing-impact-nudging-people-pay-their-taxes\">tax payments</a> but in other areas it\u2019s been a bit of a damp squib. So I was surprised when Halpern popped up to talk about the government\u2019s pandemic strategy in the press in early March. It was he who first publicly mentioned the idea of <a href=\"https://www.theguardian.com/world/2020/apr/01/absolutely-wrong-how-uk-coronavirus-test-strategy-unravelled\">\u201cherd immunity\u201d</a> as part of an effective response to Covid-19 (the government has since denied this was ever the strategy). And it\u2019s clear from <a href=\"https://www.bloomberg.com/news/articles/2020-03-11/keep-calm-and-wash-your-hands-britain-s-strategy-to-beat-virus\">the briefing</a> he gave journalists that he favoured delaying a lockdown because of the risk of \u201cbehavioural fatigue\u201d, the idea that people will stick with restrictions for only so long, making it better to save social distancing for when more people are infected. \u201cIf you go too early and tell people to take a week off work when they are very unlikely to have coronavirus, and then a couple of weeks later they have another cough, it\u2019s likely they\u2019ll say \u2018come on already\u2019,\u201d he told one reporter.</p> <p>Halpern is reportedly on Sage, the government\u2019s scientific advisory committee for emergencies, and he is also the government\u2019s <a href=\"https://www.gov.uk/government/news/dr-david-halpern-reappointed-as-the-what-works-national-adviser\">What Works national adviser</a>, responsible for helping it apply evidence to public policy. So one might expect there to be something substantial behind the idea of behavioural fatigue.</p>  <aside class=\"element element-pullquote element--supporting\"> <blockquote> <p>A report on applying behavioural insights to domestic abuse included not one survivor's voice</p> </blockquote> </aside>  <p>But evidence presented to government by the Sage behavioural subcommittee on 4 March, representing the views of a wider group of experts, was non-committal on the behavioural impact of a lockdown, noting that <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873726/04-spi-b-insights-on-combined-behavioural-and-social-interventions.pdf\">the empirical evidence</a> on behavioural interventions in a pandemic is limited. Shortly after Halpern\u2019s interviews, more than 600 behavioural economists wrote <a href=\"https://behavioralscientist.org/why-a-group-of-behavioural-scientists-penned-an-open-letter-to-the-uk-government-questioning-its-coronavirus-response-covid-19-social-distancing/\">a letter</a> questioning the evidence base for behavioural fatigue.</p> <p>Rightly so: a rapid <a href=\"https://www.esri.ie/publications/using-behavioral-science-to-help-fight-the-coronavirus\">evidence review</a> of behavioural science as it relates to pandemics only fleetingly refers to evidence that extending a lockdown might increase non-compliance, but this turns out to be a study about <a href=\"https://www.bmj.com/content/335/7620/603\">extending deployment</a> in the armed forces. \u201cBehavioural fatigue is a nebulous concept,\u201d the review\u2019s authors <a href=\"https://www.irishtimes.com/opinion/no-signs-of-lock-down-fatigue-in-ireland-yet-1.4218932\">later concluded</a> in the <em>Irish Times</em>.</p> <p>This is a <a href=\"https://jasoncollins.blog/2016/05/11/bad-behavioural-science-failures-bias-and-fairy-tales/\">common critique</a> of behavioural economics: some (not all) members of the discipline have a tendency to overclaim and overgeneralise, based on small studies carried out in a very different context, often on university students in academic settings. It\u2019s extraordinary that Halpern was briefing on what essentially looks like his opinion as if it were science. We won\u2019t know how influential it was in the government\u2019s decision to <a href=\"https://www.theguardian.com/commentisfree/2020/apr/15/uk-government-coronavirus-science-who-advice\">delay lockdown</a> until a post-hoc inquiry, but there\u2019s no reason to suppose Boris Johnson wasn\u2019t listening to his \u201cwhat works\u201d adviser. \u201cThe behavioural psychologists say that if you don\u2019t shake somebody\u2019s hand, that sends an important message\u2026 [about] <a href=\"https://www.bloomberg.com/news/articles/2020-03-11/keep-calm-and-wash-your-hands-britain-s-strategy-to-beat-virus\">washing your hands</a>,\u201d he said on 9 March.</p> <p>It\u2019s less extraordinary, though, when you understand that the <a href=\"https://www.theguardian.com/politics/2018/nov/10/nudge-unit-pushed-way-private-sector-behavioural-insights-team\">Behavioural Insights Team</a> is a multimillion-pound profitable company, which pays Halpern, <a href=\"https://beta.companieshouse.gov.uk/company/08567792/filing-history/MzE1MjQwNjg4NWFkaXF6a2N4/document?format=pdf&amp;download=0\">who owns 7.5%</a> of its shares, <a href=\"https://www.ft.com/content/9d7ad4fa-3b82-11e5-8613-07d16aad2152\">a bigger salary than the prime minister</a>. Here lies the potential conflict of interest: someone who contributes to Sage also has a significant financial incentive to sell his wares. It perhaps explains BIT\u2019s bombastic claims \u2013 \u201cit\u2019s no longer a matter of supposition\u2026 we can now say with a high degree of confidence these models give you best policy,\u201d <a href=\"https://www.theguardian.com/politics/2018/nov/10/nudge-unit-pushed-way-private-sector-behavioural-insights-team\">Halpern claimed</a> in 2018. And: \u201cWe make much of the <a href=\"https://www.theguardian.com/commentisfree/2017/oct/10/behavioural-economics-richard-thaler-nudge-nobel-prize-winner\">simplicity of our interventions</a>\u2026 but if properly implemented, they can have a powerful impact on even our biggest societal challenges.\u201d (It is worth noting that Sir Patrick Vallance, the government\u2019s chief scientific adviser, says that one reason the composition of Sage has been kept private is to protect scientists from \u201c<a href=\"https://www.theguardian.com/world/2020/apr/24/revealed-dominic-cummings-on-secret-scientific-advisory-group-for-covid-19\">lobbying and other forms of unwanted influence</a> which may hinder their ability to give impartial advice\u201d.)</p> <p>This hubris has led some behavioural scientists to push their approach way beyond those realms such as consumer policy, where it has the potential to be most effective. My jaw dropped on reading a recent <a href=\"https://www.bi.team/wp-content/uploads/2019/11/Applying-Behavioral-Insights-to-Intimate-Partner-Violence-ENG-3.pdf\">70-page BIT report</a> on applying behavioural insights to domestic abuse that included not one survivor\u2019s voice and in which the word \u201ctrauma\u201d appeared only once. It describes domestic abuse as a \u201cphenomenon made up of multiple behaviours undertaken by different actors at different points in time\u201d. Its recommendations are that strange mix of common sense dressed up as behavioural revelation and jarring suggestions that tend to characterise behavioural science when it overreaches itself.</p> <p>Little wonder that a House of Lords committee was <a href=\"https://publications.parliament.uk/pa/ld201012/ldselect/ldsctech/179/179.pdf\">highly critical</a> of government tendencies to emphasise nudges at the expense of other effective policy solutions in 2011. Nudges undoubtedly have their place, but they\u2019re not going to eradicate domestic violence or end catastrophic climate change.</p> <p>The problem with all forms of expertise in public policy is that it is often the most formidable salespeople who claim greater certainty than the evidence allows who are invited to jet around the world advising governments. But the irony for behavioural scientists is that this is a product of them trading off, and falling prey to, the very biases they have made their names calling out.</p> <p>I can only imagine how easy it might have been for Johnson to succumb to confirmation bias in looking for reasons to delay a lockdown: what prime minister wants to shut down the economy? And it is the optimism bias of the behavioural tsars that has led them to place too much stock in their own judgment in a world of limited evidence. But this isn\u2019t some experiment in a university psychology department - it is a pandemic and lives are at stake.</p> <p>\u2022 Sonia Sodha is an Observer columnist</p>",
-      "newspaperPageNumber": "47",
-      "wordcount": "1173",
-      "commentCloseDate": "2020-04-26T19:00:00Z",
-      "commentable": "true",
-      "firstPublicationDate": "2020-04-26T08:30:09Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-04-26T18:32:51Z",
-      "newspaperEditionDate": "2020-04-26T00:00:00Z",
-      "productionOffice": "UK",
-      "publication": "The Observer",
-      "shortUrl": "https://gu.com/p/dmvv9",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a/2_0_10663_6400/500.jpg",
-      "legallySensitive": "false",
-      "sensitive": "true",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "I first came across \u201cnudge\u201d \u2013 the concept many consider to be the pinnacle of behavioural economics \u2013 at a thinktank seminar a little over 10 years ago. We were all handed a mock wine menu and asked what we\u2019d order. This was supposed to illustrate that most price-aware diners order the second-cheapest bottle to avoid looking tight and that restaurateurs use this to nudge us towards the bottle with the highest markup. I remember thinking it an interesting insight, but that these sorts of nudges were nowhere near as likely to transform the world as their enthusiastic proponent claimed. Lots of far more eminent people disagreed with me. Behavioural economics looks at how people make decisions in the real world \u2013 warts, irrational biases and all \u2013 and applies this to public policy. Its signature policy is set out in the 2008 book Nudge, by Cass Sunstein and Richard Thaler. The central insight is that changing the way choices are presented to people can have a huge impact. Make saving for retirement or donating your organs an opt-out rather than opt-in and watch as people suddenly adopt more socially responsible behaviour. Coming just as the financial crisis hit, Nudge was perfectly timed to achieve maximum traction by offering politicians the chance to reap savings through low-cost policy. Sunstein was quickly appointed to a senior job in the Obama administration, while David Cameron set up the behavioural insights team, dubbed the \u201cnudge unit\u201d, led by psychologist turned policy wonk David Halpern. The nudge unit has since had a mixed track record: there have been some real successes on pensions and tax payments but in other areas it\u2019s been a bit of a damp squib. So I was surprised when Halpern popped up to talk about the government\u2019s pandemic strategy in the press in early March. It was he who first publicly mentioned the idea of \u201cherd immunity\u201d as part of an effective response to Covid-19 (the government has since denied this was ever the strategy). And it\u2019s clear from the briefing he gave journalists that he favoured delaying a lockdown because of the risk of \u201cbehavioural fatigue\u201d, the idea that people will stick with restrictions for only so long, making it better to save social distancing for when more people are infected. \u201cIf you go too early and tell people to take a week off work when they are very unlikely to have coronavirus, and then a couple of weeks later they have another cough, it\u2019s likely they\u2019ll say \u2018come on already\u2019,\u201d he told one reporter. Halpern is reportedly on Sage, the government\u2019s scientific advisory committee for emergencies, and he is also the government\u2019s What Works national adviser, responsible for helping it apply evidence to public policy. So one might expect there to be something substantial behind the idea of behavioural fatigue. But evidence presented to government by the Sage behavioural subcommittee on 4 March, representing the views of a wider group of experts, was non-committal on the behavioural impact of a lockdown, noting that the empirical evidence on behavioural interventions in a pandemic is limited. Shortly after Halpern\u2019s interviews, more than 600 behavioural economists wrote a letter questioning the evidence base for behavioural fatigue. Rightly so: a rapid evidence review of behavioural science as it relates to pandemics only fleetingly refers to evidence that extending a lockdown might increase non-compliance, but this turns out to be a study about extending deployment in the armed forces. \u201cBehavioural fatigue is a nebulous concept,\u201d the review\u2019s authors later concluded in the Irish Times. This is a common critique of behavioural economics: some (not all) members of the discipline have a tendency to overclaim and overgeneralise, based on small studies carried out in a very different context, often on university students in academic settings. It\u2019s extraordinary that Halpern was briefing on what essentially looks like his opinion as if it were science. We won\u2019t know how influential it was in the government\u2019s decision to delay lockdown until a post-hoc inquiry, but there\u2019s no reason to suppose Boris Johnson wasn\u2019t listening to his \u201cwhat works\u201d adviser. \u201cThe behavioural psychologists say that if you don\u2019t shake somebody\u2019s hand, that sends an important message\u2026 [about] washing your hands,\u201d he said on 9 March. It\u2019s less extraordinary, though, when you understand that the Behavioural Insights Team is a multimillion-pound profitable company, which pays Halpern, who owns 7.5% of its shares, a bigger salary than the prime minister. Here lies the potential conflict of interest: someone who contributes to Sage also has a significant financial incentive to sell his wares. It perhaps explains BIT\u2019s bombastic claims \u2013 \u201cit\u2019s no longer a matter of supposition\u2026 we can now say with a high degree of confidence these models give you best policy,\u201d Halpern claimed in 2018. And: \u201cWe make much of the simplicity of our interventions\u2026 but if properly implemented, they can have a powerful impact on even our biggest societal challenges.\u201d (It is worth noting that Sir Patrick Vallance, the government\u2019s chief scientific adviser, says that one reason the composition of Sage has been kept private is to protect scientists from \u201clobbying and other forms of unwanted influence which may hinder their ability to give impartial advice\u201d.) This hubris has led some behavioural scientists to push their approach way beyond those realms such as consumer policy, where it has the potential to be most effective. My jaw dropped on reading a recent 70-page BIT report on applying behavioural insights to domestic abuse that included not one survivor\u2019s voice and in which the word \u201ctrauma\u201d appeared only once. It describes domestic abuse as a \u201cphenomenon made up of multiple behaviours undertaken by different actors at different points in time\u201d. Its recommendations are that strange mix of common sense dressed up as behavioural revelation and jarring suggestions that tend to characterise behavioural science when it overreaches itself. Little wonder that a House of Lords committee was highly critical of government tendencies to emphasise nudges at the expense of other effective policy solutions in 2011. Nudges undoubtedly have their place, but they\u2019re not going to eradicate domestic violence or end catastrophic climate change. The problem with all forms of expertise in public policy is that it is often the most formidable salespeople who claim greater certainty than the evidence allows who are invited to jet around the world advising governments. But the irony for behavioural scientists is that this is a product of them trading off, and falling prey to, the very biases they have made their names calling out. I can only imagine how easy it might have been for Johnson to succumb to confirmation bias in looking for reasons to delay a lockdown: what prime minister wants to shut down the economy? And it is the optimism bias of the behavioural tsars that has led them to place too much stock in their own judgment in a world of limited evidence. But this isn\u2019t some experiment in a university psychology department - it is a pandemic and lives are at stake. \u2022 Sonia Sodha is an Observer columnist",
-      "charCount": "7206",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/sonia-sodha\">Sonia Sodha</a>"
-    },
-    "tags": [
-      {
-        "id": "commentisfree/commentisfree",
-        "type": "blog",
-        "sectionId": "commentisfree",
-        "sectionName": "Opinion",
-        "webTitle": "Opinion",
-        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
-        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "business/economics",
-        "type": "keyword",
-        "sectionId": "business",
-        "sectionName": "Business",
-        "webTitle": "Economics",
-        "webUrl": "https://www.theguardian.com/business/economics",
-        "apiUrl": "https://content.guardianapis.com/business/economics",
-        "references": []
-      },
-      {
-        "id": "science/psychology",
-        "type": "keyword",
-        "sectionId": "science",
-        "sectionName": "Science",
-        "webTitle": "Psychology",
-        "webUrl": "https://www.theguardian.com/science/psychology",
-        "apiUrl": "https://content.guardianapis.com/science/psychology",
-        "references": []
-      },
-      {
-        "id": "uk/uk",
-        "type": "keyword",
-        "sectionId": "uk-news",
-        "sectionName": "UK news",
-        "webTitle": "UK news",
-        "webUrl": "https://www.theguardian.com/uk/uk",
-        "apiUrl": "https://content.guardianapis.com/uk/uk",
-        "references": []
-      },
-      {
-        "id": "politics/politics",
-        "type": "keyword",
-        "sectionId": "politics",
-        "sectionName": "Politics",
-        "webTitle": "Politics",
-        "webUrl": "https://www.theguardian.com/politics/politics",
-        "apiUrl": "https://content.guardianapis.com/politics/politics",
-        "references": [],
-        "description": "<p><br></p>"
-      },
-      {
-        "id": "politics/economy",
-        "type": "keyword",
-        "sectionId": "politics",
-        "sectionName": "Politics",
-        "webTitle": "Economic policy",
-        "webUrl": "https://www.theguardian.com/politics/economy",
-        "apiUrl": "https://content.guardianapis.com/politics/economy",
-        "references": []
-      },
-      {
-        "id": "campaign/callout/callout-coronavirus-testing",
-        "type": "campaign",
-        "webTitle": "callout-coronavirus-testing",
-        "webUrl": "https://www.theguardian.com/campaign/callout/callout-coronavirus-testing",
-        "apiUrl": "https://content.guardianapis.com/campaign/callout/callout-coronavirus-testing",
-        "references": [],
-        "campaignInformationType": "callout"
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/comment",
-        "type": "tone",
-        "webTitle": "Comment",
-        "webUrl": "https://www.theguardian.com/tone/comment",
-        "apiUrl": "https://content.guardianapis.com/tone/comment",
-        "references": []
-      },
-      {
-        "id": "profile/sonia-sodha",
-        "type": "contributor",
-        "webTitle": "Sonia Sodha",
-        "webUrl": "https://www.theguardian.com/profile/sonia-sodha",
-        "apiUrl": "https://content.guardianapis.com/profile/sonia-sodha",
-        "references": [],
-        "bio": "<p>Sonia Sodha is chief leader writer at the Observer and a Guardian/Observer columnist<br></p>",
-        "bylineImageUrl": "https://uploads.guim.co.uk/2017/04/23/Sonia-Sodha.jpg",
-        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/09/Sonia_Sodha,_L.png",
-        "firstName": "Sonia",
-        "lastName": "Sodha"
-      },
-      {
-        "id": "publication/theobserver",
-        "type": "publication",
-        "sectionId": "theobserver",
-        "sectionName": "From the Observer",
-        "webTitle": "The Observer",
-        "webUrl": "https://www.theguardian.com/theobserver/all",
-        "apiUrl": "https://content.guardianapis.com/publication/theobserver",
-        "references": [],
-        "description": "From the Observer, the Sunday newspaper and sister publication of the Guardian."
-      },
-      {
-        "id": "theobserver/news",
-        "type": "newspaper-book",
-        "sectionId": "theobserver",
-        "sectionName": "From the Observer",
-        "webTitle": "Main section",
-        "webUrl": "https://www.theguardian.com/theobserver/news",
-        "apiUrl": "https://content.guardianapis.com/theobserver/news",
-        "references": []
-      },
-      {
-        "id": "theobserver/news/comment",
-        "type": "newspaper-book-section",
-        "sectionId": "theobserver",
-        "sectionName": "From the Observer",
-        "webTitle": "Opinion",
-        "webUrl": "https://www.theguardian.com/theobserver/news/comment",
-        "apiUrl": "https://content.guardianapis.com/theobserver/news/comment",
-        "references": [],
-        "description": "<p>Comment from the Observer</p>"
-      },
-      {
-        "id": "tracking/commissioningdesk/observer-comment",
-        "type": "tracking",
-        "webTitle": "Observer Comment",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/observer-comment",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/observer-comment",
-        "references": [],
-        "description": "<p>Comment from the Observer.</p>"
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/opinion",
-    "pillarName": "Opinion"
-  },
-  {
     "id": "books/2020/apr/26/philippe-sands-when-the-virus-crisis-is-over-nationalism-could-be-rampant",
     "type": "article",
     "sectionId": "books",
@@ -6036,6 +5839,203 @@
     "isHosted": false,
     "pillarId": "pillar/arts",
     "pillarName": "Arts"
+  },
+  {
+    "id": "commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
+    "type": "article",
+    "sectionId": "commentisfree",
+    "sectionName": "Opinion",
+    "webPublicationDate": "2020-04-26T08:30:09Z",
+    "webTitle": "Nudge theory is a poor substitute for hard science in matters of life or death | Sonia Sodha",
+    "webUrl": "https://www.theguardian.com/commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
+    "apiUrl": "https://content.guardianapis.com/commentisfree/2020/apr/26/nudge-theory-is-a-poor-substitute-for-science-in-matters-of-life-or-death-coronavirus",
+    "fields": {
+      "headline": "Nudge theory is a poor substitute for hard science in matters of life or death",
+      "standfirst": "<p>Behavioural economics is being abused by politicians as a justification for flawed policies over the coronavirus outbreak</p>",
+      "trailText": "Behavioural economics is being abused by politicians as a justification for flawed policies over the coronavirus outbreak",
+      "byline": "Sonia Sodha",
+      "main": "<figure class=\"element element-image element--showcase\" data-media-id=\"19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a\"> <img src=\"https://media.guim.co.uk/19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a/2_0_10663_6400/1000.jpg\" alt=\"Dom Mckenzie\" width=\"1000\" height=\"600\" class=\"gu-image\" /> </figure>",
+      "body": "<p>I first came across \u201cnudge\u201d \u2013 the concept many consider to be the pinnacle of behavioural economics \u2013 at a thinktank seminar a little over 10 years ago. We were all handed a mock wine menu and asked what we\u2019d order.</p> <p>This was supposed to illustrate that most price-aware diners order the second-cheapest bottle to avoid looking tight and that restaurateurs use this to nudge us towards the bottle with the highest markup. I remember thinking it an interesting insight, but that these sorts of nudges were nowhere near as likely to transform the world as their enthusiastic proponent claimed.</p> <p>Lots of far more eminent people disagreed with me. Behavioural economics looks at how people make decisions in the real world \u2013 warts, irrational biases and all \u2013 and applies this to public policy. Its signature policy is set out in the 2008 book <em>Nudge</em>, by Cass Sunstein and Richard Thaler. The central insight is that changing the way choices are presented to people can have a huge impact. Make saving for retirement or donating your organs an opt-out rather than opt-in and watch as people suddenly adopt more socially responsible behaviour. Coming just as the financial crisis hit, <em>Nudge</em> was perfectly timed to achieve maximum traction by offering politicians the chance to reap savings through low-cost policy. Sunstein was quickly appointed to a senior job in the Obama administration, while David Cameron set up the behavioural insights team, dubbed the \u201cnudge unit\u201d, led by psychologist turned policy wonk David Halpern.</p> <p>The nudge unit has since had a mixed track record: there have been some real successes on <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/867634/automatic-enrolment-evaluation-report-2019.pdf\">pensions</a> and <a href=\"https://blogs.worldbank.org/voices/ongoing-impact-nudging-people-pay-their-taxes\">tax payments</a> but in other areas it\u2019s been a bit of a damp squib. So I was surprised when Halpern popped up to talk about the government\u2019s pandemic strategy in the press in early March. It was he who first publicly mentioned the idea of <a href=\"https://www.theguardian.com/world/2020/apr/01/absolutely-wrong-how-uk-coronavirus-test-strategy-unravelled\">\u201cherd immunity\u201d</a> as part of an effective response to Covid-19 (the government has since denied this was ever the strategy). And it\u2019s clear from <a href=\"https://www.bloomberg.com/news/articles/2020-03-11/keep-calm-and-wash-your-hands-britain-s-strategy-to-beat-virus\">the briefing</a> he gave journalists that he favoured delaying a lockdown because of the risk of \u201cbehavioural fatigue\u201d, the idea that people will stick with restrictions for only so long, making it better to save social distancing for when more people are infected. \u201cIf you go too early and tell people to take a week off work when they are very unlikely to have coronavirus, and then a couple of weeks later they have another cough, it\u2019s likely they\u2019ll say \u2018come on already\u2019,\u201d he told one reporter.</p> <p>Halpern is reportedly on Sage, the government\u2019s scientific advisory committee for emergencies, and he is also the government\u2019s <a href=\"https://www.gov.uk/government/news/dr-david-halpern-reappointed-as-the-what-works-national-adviser\">What Works national adviser</a>, responsible for helping it apply evidence to public policy. So one might expect there to be something substantial behind the idea of behavioural fatigue.</p>  <aside class=\"element element-pullquote element--supporting\"> <blockquote> <p>A report on applying behavioural insights to domestic abuse included not one survivor's voice</p> </blockquote> </aside>  <p>But evidence presented to government by the Sage behavioural subcommittee on 4 March, representing the views of a wider group of experts, was non-committal on the behavioural impact of a lockdown, noting that <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873726/04-spi-b-insights-on-combined-behavioural-and-social-interventions.pdf\">the empirical evidence</a> on behavioural interventions in a pandemic is limited. Shortly after Halpern\u2019s interviews, more than 600 behavioural economists wrote <a href=\"https://behavioralscientist.org/why-a-group-of-behavioural-scientists-penned-an-open-letter-to-the-uk-government-questioning-its-coronavirus-response-covid-19-social-distancing/\">a letter</a> questioning the evidence base for behavioural fatigue.</p> <p>Rightly so: a rapid <a href=\"https://www.esri.ie/publications/using-behavioral-science-to-help-fight-the-coronavirus\">evidence review</a> of behavioural science as it relates to pandemics only fleetingly refers to evidence that extending a lockdown might increase non-compliance, but this turns out to be a study about <a href=\"https://www.bmj.com/content/335/7620/603\">extending deployment</a> in the armed forces. \u201cBehavioural fatigue is a nebulous concept,\u201d the review\u2019s authors <a href=\"https://www.irishtimes.com/opinion/no-signs-of-lock-down-fatigue-in-ireland-yet-1.4218932\">later concluded</a> in the <em>Irish Times</em>.</p> <p>This is a <a href=\"https://jasoncollins.blog/2016/05/11/bad-behavioural-science-failures-bias-and-fairy-tales/\">common critique</a> of behavioural economics: some (not all) members of the discipline have a tendency to overclaim and overgeneralise, based on small studies carried out in a very different context, often on university students in academic settings. It\u2019s extraordinary that Halpern was briefing on what essentially looks like his opinion as if it were science. We won\u2019t know how influential it was in the government\u2019s decision to <a href=\"https://www.theguardian.com/commentisfree/2020/apr/15/uk-government-coronavirus-science-who-advice\">delay lockdown</a> until a post-hoc inquiry, but there\u2019s no reason to suppose Boris Johnson wasn\u2019t listening to his \u201cwhat works\u201d adviser. \u201cThe behavioural psychologists say that if you don\u2019t shake somebody\u2019s hand, that sends an important message\u2026 [about] <a href=\"https://www.bloomberg.com/news/articles/2020-03-11/keep-calm-and-wash-your-hands-britain-s-strategy-to-beat-virus\">washing your hands</a>,\u201d he said on 9 March.</p> <p>It\u2019s less extraordinary, though, when you understand that the <a href=\"https://www.theguardian.com/politics/2018/nov/10/nudge-unit-pushed-way-private-sector-behavioural-insights-team\">Behavioural Insights Team</a> is a multimillion-pound profitable company, which pays Halpern, <a href=\"https://beta.companieshouse.gov.uk/company/08567792/filing-history/MzE1MjQwNjg4NWFkaXF6a2N4/document?format=pdf&amp;download=0\">who owns 7.5%</a> of its shares, <a href=\"https://www.ft.com/content/9d7ad4fa-3b82-11e5-8613-07d16aad2152\">a bigger salary than the prime minister</a>. Here lies the potential conflict of interest: someone who contributes to Sage also has a significant financial incentive to sell his wares. It perhaps explains BIT\u2019s bombastic claims \u2013 \u201cit\u2019s no longer a matter of supposition\u2026 we can now say with a high degree of confidence these models give you best policy,\u201d <a href=\"https://www.theguardian.com/politics/2018/nov/10/nudge-unit-pushed-way-private-sector-behavioural-insights-team\">Halpern claimed</a> in 2018. And: \u201cWe make much of the <a href=\"https://www.theguardian.com/commentisfree/2017/oct/10/behavioural-economics-richard-thaler-nudge-nobel-prize-winner\">simplicity of our interventions</a>\u2026 but if properly implemented, they can have a powerful impact on even our biggest societal challenges.\u201d (It is worth noting that Sir Patrick Vallance, the government\u2019s chief scientific adviser, says that one reason the composition of Sage has been kept private is to protect scientists from \u201c<a href=\"https://www.theguardian.com/world/2020/apr/24/revealed-dominic-cummings-on-secret-scientific-advisory-group-for-covid-19\">lobbying and other forms of unwanted influence</a> which may hinder their ability to give impartial advice\u201d.)</p> <p>This hubris has led some behavioural scientists to push their approach way beyond those realms such as consumer policy, where it has the potential to be most effective. My jaw dropped on reading a recent <a href=\"https://www.bi.team/wp-content/uploads/2019/11/Applying-Behavioral-Insights-to-Intimate-Partner-Violence-ENG-3.pdf\">70-page BIT report</a> on applying behavioural insights to domestic abuse that included not one survivor\u2019s voice and in which the word \u201ctrauma\u201d appeared only once. It describes domestic abuse as a \u201cphenomenon made up of multiple behaviours undertaken by different actors at different points in time\u201d. Its recommendations are that strange mix of common sense dressed up as behavioural revelation and jarring suggestions that tend to characterise behavioural science when it overreaches itself.</p> <p>Little wonder that a House of Lords committee was <a href=\"https://publications.parliament.uk/pa/ld201012/ldselect/ldsctech/179/179.pdf\">highly critical</a> of government tendencies to emphasise nudges at the expense of other effective policy solutions in 2011. Nudges undoubtedly have their place, but they\u2019re not going to eradicate domestic violence or end catastrophic climate change.</p> <p>The problem with all forms of expertise in public policy is that it is often the most formidable salespeople who claim greater certainty than the evidence allows who are invited to jet around the world advising governments. But the irony for behavioural scientists is that this is a product of them trading off, and falling prey to, the very biases they have made their names calling out.</p> <p>I can only imagine how easy it might have been for Johnson to succumb to confirmation bias in looking for reasons to delay a lockdown: what prime minister wants to shut down the economy? And it is the optimism bias of the behavioural tsars that has led them to place too much stock in their own judgment in a world of limited evidence. But this isn\u2019t some experiment in a university psychology department - it is a pandemic and lives are at stake.</p> <p>\u2022 Sonia Sodha is an Observer columnist</p>",
+      "newspaperPageNumber": "47",
+      "wordcount": "1173",
+      "commentCloseDate": "2020-04-26T19:00:00Z",
+      "commentable": "true",
+      "firstPublicationDate": "2020-04-26T08:30:09Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-04-26T18:32:51Z",
+      "newspaperEditionDate": "2020-04-26T00:00:00Z",
+      "productionOffice": "UK",
+      "publication": "The Observer",
+      "shortUrl": "https://gu.com/p/dmvv9",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/19f3555dd00a0cda1a7bddbb97eeb8012acc4f5a/2_0_10663_6400/500.jpg",
+      "legallySensitive": "false",
+      "sensitive": "true",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "I first came across \u201cnudge\u201d \u2013 the concept many consider to be the pinnacle of behavioural economics \u2013 at a thinktank seminar a little over 10 years ago. We were all handed a mock wine menu and asked what we\u2019d order. This was supposed to illustrate that most price-aware diners order the second-cheapest bottle to avoid looking tight and that restaurateurs use this to nudge us towards the bottle with the highest markup. I remember thinking it an interesting insight, but that these sorts of nudges were nowhere near as likely to transform the world as their enthusiastic proponent claimed. Lots of far more eminent people disagreed with me. Behavioural economics looks at how people make decisions in the real world \u2013 warts, irrational biases and all \u2013 and applies this to public policy. Its signature policy is set out in the 2008 book Nudge, by Cass Sunstein and Richard Thaler. The central insight is that changing the way choices are presented to people can have a huge impact. Make saving for retirement or donating your organs an opt-out rather than opt-in and watch as people suddenly adopt more socially responsible behaviour. Coming just as the financial crisis hit, Nudge was perfectly timed to achieve maximum traction by offering politicians the chance to reap savings through low-cost policy. Sunstein was quickly appointed to a senior job in the Obama administration, while David Cameron set up the behavioural insights team, dubbed the \u201cnudge unit\u201d, led by psychologist turned policy wonk David Halpern. The nudge unit has since had a mixed track record: there have been some real successes on pensions and tax payments but in other areas it\u2019s been a bit of a damp squib. So I was surprised when Halpern popped up to talk about the government\u2019s pandemic strategy in the press in early March. It was he who first publicly mentioned the idea of \u201cherd immunity\u201d as part of an effective response to Covid-19 (the government has since denied this was ever the strategy). And it\u2019s clear from the briefing he gave journalists that he favoured delaying a lockdown because of the risk of \u201cbehavioural fatigue\u201d, the idea that people will stick with restrictions for only so long, making it better to save social distancing for when more people are infected. \u201cIf you go too early and tell people to take a week off work when they are very unlikely to have coronavirus, and then a couple of weeks later they have another cough, it\u2019s likely they\u2019ll say \u2018come on already\u2019,\u201d he told one reporter. Halpern is reportedly on Sage, the government\u2019s scientific advisory committee for emergencies, and he is also the government\u2019s What Works national adviser, responsible for helping it apply evidence to public policy. So one might expect there to be something substantial behind the idea of behavioural fatigue. But evidence presented to government by the Sage behavioural subcommittee on 4 March, representing the views of a wider group of experts, was non-committal on the behavioural impact of a lockdown, noting that the empirical evidence on behavioural interventions in a pandemic is limited. Shortly after Halpern\u2019s interviews, more than 600 behavioural economists wrote a letter questioning the evidence base for behavioural fatigue. Rightly so: a rapid evidence review of behavioural science as it relates to pandemics only fleetingly refers to evidence that extending a lockdown might increase non-compliance, but this turns out to be a study about extending deployment in the armed forces. \u201cBehavioural fatigue is a nebulous concept,\u201d the review\u2019s authors later concluded in the Irish Times. This is a common critique of behavioural economics: some (not all) members of the discipline have a tendency to overclaim and overgeneralise, based on small studies carried out in a very different context, often on university students in academic settings. It\u2019s extraordinary that Halpern was briefing on what essentially looks like his opinion as if it were science. We won\u2019t know how influential it was in the government\u2019s decision to delay lockdown until a post-hoc inquiry, but there\u2019s no reason to suppose Boris Johnson wasn\u2019t listening to his \u201cwhat works\u201d adviser. \u201cThe behavioural psychologists say that if you don\u2019t shake somebody\u2019s hand, that sends an important message\u2026 [about] washing your hands,\u201d he said on 9 March. It\u2019s less extraordinary, though, when you understand that the Behavioural Insights Team is a multimillion-pound profitable company, which pays Halpern, who owns 7.5% of its shares, a bigger salary than the prime minister. Here lies the potential conflict of interest: someone who contributes to Sage also has a significant financial incentive to sell his wares. It perhaps explains BIT\u2019s bombastic claims \u2013 \u201cit\u2019s no longer a matter of supposition\u2026 we can now say with a high degree of confidence these models give you best policy,\u201d Halpern claimed in 2018. And: \u201cWe make much of the simplicity of our interventions\u2026 but if properly implemented, they can have a powerful impact on even our biggest societal challenges.\u201d (It is worth noting that Sir Patrick Vallance, the government\u2019s chief scientific adviser, says that one reason the composition of Sage has been kept private is to protect scientists from \u201clobbying and other forms of unwanted influence which may hinder their ability to give impartial advice\u201d.) This hubris has led some behavioural scientists to push their approach way beyond those realms such as consumer policy, where it has the potential to be most effective. My jaw dropped on reading a recent 70-page BIT report on applying behavioural insights to domestic abuse that included not one survivor\u2019s voice and in which the word \u201ctrauma\u201d appeared only once. It describes domestic abuse as a \u201cphenomenon made up of multiple behaviours undertaken by different actors at different points in time\u201d. Its recommendations are that strange mix of common sense dressed up as behavioural revelation and jarring suggestions that tend to characterise behavioural science when it overreaches itself. Little wonder that a House of Lords committee was highly critical of government tendencies to emphasise nudges at the expense of other effective policy solutions in 2011. Nudges undoubtedly have their place, but they\u2019re not going to eradicate domestic violence or end catastrophic climate change. The problem with all forms of expertise in public policy is that it is often the most formidable salespeople who claim greater certainty than the evidence allows who are invited to jet around the world advising governments. But the irony for behavioural scientists is that this is a product of them trading off, and falling prey to, the very biases they have made their names calling out. I can only imagine how easy it might have been for Johnson to succumb to confirmation bias in looking for reasons to delay a lockdown: what prime minister wants to shut down the economy? And it is the optimism bias of the behavioural tsars that has led them to place too much stock in their own judgment in a world of limited evidence. But this isn\u2019t some experiment in a university psychology department - it is a pandemic and lives are at stake. \u2022 Sonia Sodha is an Observer columnist",
+      "charCount": "7206",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/sonia-sodha\">Sonia Sodha</a>"
+    },
+    "tags": [
+      {
+        "id": "commentisfree/commentisfree",
+        "type": "blog",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webTitle": "Opinion",
+        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "business/economics",
+        "type": "keyword",
+        "sectionId": "business",
+        "sectionName": "Business",
+        "webTitle": "Economics",
+        "webUrl": "https://www.theguardian.com/business/economics",
+        "apiUrl": "https://content.guardianapis.com/business/economics",
+        "references": []
+      },
+      {
+        "id": "science/psychology",
+        "type": "keyword",
+        "sectionId": "science",
+        "sectionName": "Science",
+        "webTitle": "Psychology",
+        "webUrl": "https://www.theguardian.com/science/psychology",
+        "apiUrl": "https://content.guardianapis.com/science/psychology",
+        "references": []
+      },
+      {
+        "id": "uk/uk",
+        "type": "keyword",
+        "sectionId": "uk-news",
+        "sectionName": "UK news",
+        "webTitle": "UK news",
+        "webUrl": "https://www.theguardian.com/uk/uk",
+        "apiUrl": "https://content.guardianapis.com/uk/uk",
+        "references": []
+      },
+      {
+        "id": "politics/politics",
+        "type": "keyword",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webTitle": "Politics",
+        "webUrl": "https://www.theguardian.com/politics/politics",
+        "apiUrl": "https://content.guardianapis.com/politics/politics",
+        "references": [],
+        "description": "<p><br></p>"
+      },
+      {
+        "id": "politics/economy",
+        "type": "keyword",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webTitle": "Economic policy",
+        "webUrl": "https://www.theguardian.com/politics/economy",
+        "apiUrl": "https://content.guardianapis.com/politics/economy",
+        "references": []
+      },
+      {
+        "id": "campaign/callout/callout-coronavirus-testing",
+        "type": "campaign",
+        "webTitle": "callout-coronavirus-testing",
+        "webUrl": "https://www.theguardian.com/campaign/callout/callout-coronavirus-testing",
+        "apiUrl": "https://content.guardianapis.com/campaign/callout/callout-coronavirus-testing",
+        "references": [],
+        "campaignInformationType": "callout"
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/comment",
+        "type": "tone",
+        "webTitle": "Comment",
+        "webUrl": "https://www.theguardian.com/tone/comment",
+        "apiUrl": "https://content.guardianapis.com/tone/comment",
+        "references": []
+      },
+      {
+        "id": "profile/sonia-sodha",
+        "type": "contributor",
+        "webTitle": "Sonia Sodha",
+        "webUrl": "https://www.theguardian.com/profile/sonia-sodha",
+        "apiUrl": "https://content.guardianapis.com/profile/sonia-sodha",
+        "references": [],
+        "bio": "<p>Sonia Sodha is chief leader writer at the Observer and a Guardian/Observer columnist<br></p>",
+        "bylineImageUrl": "https://uploads.guim.co.uk/2017/04/23/Sonia-Sodha.jpg",
+        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2017/10/09/Sonia_Sodha,_L.png",
+        "firstName": "Sonia",
+        "lastName": "Sodha"
+      },
+      {
+        "id": "publication/theobserver",
+        "type": "publication",
+        "sectionId": "theobserver",
+        "sectionName": "From the Observer",
+        "webTitle": "The Observer",
+        "webUrl": "https://www.theguardian.com/theobserver/all",
+        "apiUrl": "https://content.guardianapis.com/publication/theobserver",
+        "references": [],
+        "description": "From the Observer, the Sunday newspaper and sister publication of the Guardian."
+      },
+      {
+        "id": "theobserver/news",
+        "type": "newspaper-book",
+        "sectionId": "theobserver",
+        "sectionName": "From the Observer",
+        "webTitle": "Main section",
+        "webUrl": "https://www.theguardian.com/theobserver/news",
+        "apiUrl": "https://content.guardianapis.com/theobserver/news",
+        "references": []
+      },
+      {
+        "id": "theobserver/news/comment",
+        "type": "newspaper-book-section",
+        "sectionId": "theobserver",
+        "sectionName": "From the Observer",
+        "webTitle": "Opinion",
+        "webUrl": "https://www.theguardian.com/theobserver/news/comment",
+        "apiUrl": "https://content.guardianapis.com/theobserver/news/comment",
+        "references": [],
+        "description": "<p>Comment from the Observer</p>"
+      },
+      {
+        "id": "tracking/commissioningdesk/observer-comment",
+        "type": "tracking",
+        "webTitle": "Observer Comment",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/observer-comment",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/observer-comment",
+        "references": [],
+        "description": "<p>Comment from the Observer.</p>"
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/opinion",
+    "pillarName": "Opinion"
   },
   {
     "id": "australia-news/live/2020/apr/26/australia-coronavirus-update-latest-scott-morrison-economy-health-nsw-victoria-queensland-schools-live-news",
@@ -9289,136 +9289,6 @@
     "pillarName": "News"
   },
   {
-    "id": "world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
-    "type": "article",
-    "sectionId": "world",
-    "sectionName": "World news",
-    "webPublicationDate": "2020-04-26T12:00:13Z",
-    "webTitle": "No 10 advisers at Sage meetings: key questions that need answering",
-    "webUrl": "https://www.theguardian.com/world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
-    "apiUrl": "https://content.guardianapis.com/world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
-    "fields": {
-      "headline": "No 10 advisers at Sage meetings: key questions that need answering",
-      "standfirst": "<p>How and why Ben Warner and Dominic Cummings contributed to Covid-19 meetings is unclear</p><ul><li><a href=\"https://www.theguardian.com/world/2020/apr/26/attendees-of-sage-coronavirus-meetings-worried-by-presence-of-dominic-cummings\">Sage attendees worried by Cummings\u2019 presence</a></li><li><a href=\"https://www.theguardian.com/world/2020/apr/26/no-evidence-no-10-advisers-attended-sage-during-previous-crises-coronavirus-dominic-cummings\">No evidence No 10 advisers attended Sage in previous crises</a></li><li><a href=\"https://www.theguardian.com/world/coronavirus-outbreak\">See all our coronavirus coverage</a></li></ul>",
-      "trailText": "How and why Ben Warner and Dominic Cummings contributed to Covid-19 meetings is unclear",
-      "byline": "Severin Carrell",
-      "main": "<figure class=\"element element-image\" data-media-id=\"7c884e0f01c4cc33edbd1eea1289a625dd040c74\"> <img src=\"https://media.guim.co.uk/7c884e0f01c4cc33edbd1eea1289a625dd040c74/0_202_4954_2975/1000.jpg\" alt=\"Dominic Cummings\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">One of the concerns about the attendance of someone as influential as Dominic Cummings is that his presence and questions may have swayed scientific advisers.</span> <span class=\"element-image__credit\">Photograph: Alberto Pezzali/AP</span> </figcaption> </figure>",
-      "body": "<h2><strong>1) Who </strong><strong>decided Dominic Cummings and Ben Warner should attend Sage meetings and why?</strong></h2> <p>The government has not disputed that this is the first time Downing Street political advisers <a href=\"https://www.theguardian.com/world/2020/apr/24/revealed-dominic-cummings-on-secret-scientific-advisory-group-for-covid-19\">have attended Sage meetings</a> and asked questions at them. No 10 argues that the unprecedented scale of the coronavirus pandemic made it necessary. However, the government\u2019s policies say scientific committees such as Sage should be politically neutral. Sage meetings are chaired by the government\u2019s chief scientific adviser, Sir Patrick Vallance. However, a government spokesperson said Vallance \u201cwould not have to sign off\u201d on observers or representatives from government departments. So who decided they should attend, and why and when was the decision made?</p> <h2><strong>2) Which Sage meetings did Cummings and Warner attend, and what did they say?</strong></h2> <p>In <a href=\"https://publications.parliament.uk/pa/cm5801/cmselect/cmsctech/correspondence/Patrick-Vallance-to-Greg-Clark-re-SAGE-composition.pdf\">a letter to parliament</a>, Vallance said Sage was meeting about twice a week to provide scientific advice to the Cabinet Office about Covid-19. It met twice in January, nine times in February and 10 times in March. The dates of more recent meetings have not been disclosed. Downing Street has said Cummings and Warner attended \u201csome\u201d meetings, but has not specified which. It has also played down their contributions, saying they \u201coccasionally\u201d ask questions or \u201coffer help when scientists mention problems in Whitehall\u201d. That contrasts with the accounts of Sage committee members, who told the Guardian they were active participants in meetings as far back as February. So what, exactly, were their contributions?</p> <h2>3) <strong>Why was Ben Warner attending meetings?</strong></h2> <p>While much attention has focused on the attendance of Cummings, there have been fewer questions about Warner, a data scientist who was reportedly recruited to Downing Street late last year after running the Conservative party\u2019s general election campaign model. Warner previously worked with Cummings on the Vote Leave campaign for Brexit. Warner\u2019s brother, Marc Warner, runs Faculty, an artificial intelligence company involved in an \u201cunprecedented\u201d data-mining operation as part of the government\u2019s response to the coronavirus outbreak. Ben Warner also used to work at his brother\u2019s AI company.</p> <h2>4) If political advisers can attend and ask questions, why not chief scientists and chief medical officers from the devolved governments?</h2> <p>If this emergency is so severe it requires political appointees from Downing Street to attend and ask questions, why does it appear that chief scientists and chief medical officers \u2013 or their equivalents from the devolved governments in Edinburgh, Cardiff and Stormont \u2013 were not given the same influence? The Guardian understands that these officials had observer status at Sage meetings and, unlike Cummings and Warner, could only ask questions in advance, in writing.</p>  <figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&amp;opinion-tint=false&amp;title=Covid-19%3A%20help%20us%20investigate&amp;description=The%20Guardian%20is%20investigating%20how%20the%20UK%20government%20prepared%20for%20%E2%80%93%20and%20is%20responding%20to%20%E2%80%93%20the%20coronavirus%20pandemic.%20We%20want%20to%20learn%20more%20about%20recent%20decisions%20taken%20at%20the%20heart%20of%20government.%20If%20you%E2%80%99re%20a%20whistleblower%20or%20source%20and%20with%20new%20information%2C%20you%20can%20email%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22mailto%3Acovid19.investigations%40theguardian.com%22%3Ecovid19.investigations%40theguardian.com%3C%2Fa%3E%2C%20or%20(using%20a%20non-work%20phone)%20use%20Signal%20or%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D447584640566%22%3EWhatsApp%3C%2Fa%3E%20to%20message%20(UK)%20%2B44%207584%20640566.%20(The%20number%20does%20not%20take%20calls.)%20For%20the%20most%20secure%20communications%2C%20use%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fsecuredrop%22%20style%3D%22color%3A%23ab0613%22%3ESecureDrop%3C%2Fa%3E.%20For%20general%20advice%20on%20confidentially%20contacting%20the%20Guardian%2C%20see%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fng-interactive%2F2017%2Fmar%2F17%2Fcontact-the-guardian-securely%22%20style%3D%22color%3A%23ab0613%22%3Eour%20guide%3C%2Fa%3E.%20&amp;link=false\" data-alt=\"The Guardian is investigating how the UK government prepared for \u2013 and is responding to \u2013 the coronavirus pandemic. We want to learn more about recent decisions taken at the heart of government. If you're a whistleblower or source and with new information, you can email investigations@theguardian.com, or (using a non-work phone) use Signal or WhatsApp to message (UK) +44 7584 640566.\"> <a href=\"https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&opinion-tint=false&title=Covid-19%3A%20help%20us%20investigate&description=The%20Guardian%20is%20investigating%20how%20the%20UK%20government%20prepared%20for%20%E2%80%93%20and%20is%20responding%20to%20%E2%80%93%20the%20coronavirus%20pandemic.%20We%20want%20to%20learn%20more%20about%20recent%20decisions%20taken%20at%20the%20heart%20of%20government.%20If%20you%E2%80%99re%20a%20whistleblower%20or%20source%20and%20with%20new%20information%2C%20you%20can%20email%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22mailto%3Acovid19.investigations%40theguardian.com%22%3Ecovid19.investigations%40theguardian.com%3C%2Fa%3E%2C%20or%20(using%20a%20non-work%20phone)%20use%20Signal%20or%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D447584640566%22%3EWhatsApp%3C%2Fa%3E%20to%20message%20(UK)%20%2B44%207584%20640566.%20(The%20number%20does%20not%20take%20calls.)%20For%20the%20most%20secure%20communications%2C%20use%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fsecuredrop%22%20style%3D%22color%3A%23ab0613%22%3ESecureDrop%3C%2Fa%3E.%20For%20general%20advice%20on%20confidentially%20contacting%20the%20Guardian%2C%20see%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fng-interactive%2F2017%2Fmar%2F17%2Fcontact-the-guardian-securely%22%20style%3D%22color%3A%23ab0613%22%3Eour%20guide%3C%2Fa%3E.%20&link=false\">The Guardian is investigating how the UK government prepared for \u2013 and is responding to \u2013 the coronavirus pandemic. We want to learn more about recent decisions taken at the heart of government. If you're a whistleblower or source and with new information, you can email investigations@theguardian.com, or (using a non-work phone) use Signal or WhatsApp to message (UK) +44 7584 640566.</a> </figure>  <h2><strong>5) Will the government now publish a full list of attendees at all Sage meetings?</strong></h2> <p>Critics of the secret decision to allow Cummings and Warner to take part argue this has greatly undermined public confidence in the role and independence of Sage. Many scientists, including past and present members of Sage, already believed the names of those who take part in Sage should be published. Vallance has said the \u201cdecision not to disclose\u201d membership of the committee was based on advice from the Centre for the Protection of National Infrastructure. \u201cThis contributes towards safeguarding individual members\u2019 personal security and protects them from lobbying and other forms of unwanted influence, which may hinder their ability to give impartial advice,\u201d he said. Dominic Raab has said the government <a href=\"https://www.theguardian.com/world/2020/apr/26/raab-warns-britons-of-risk-of-second-spike-in-coronavirus-outbreak\">has no plans to publish the list of participants</a>.</p> <h2>6) Did any participants in Sage feel swayed by questions from Cummings or Warner?</h2> <p>One of the main concerns about the attendance of someone as influential as Cummings is that his presence and questions may have swayed scientific advisers. As the prime minister\u2019s famously influential chief adviser, a contribution from Cummings, even in the form of a question, is likely to have carried significant weight in Sage meetings. As the former Brexit secretary David Davis told Sky News: \u201cThere\u2019s a thing called the Heisenberg principle, which says you can\u2019t observe something without influencing it.\u201d</p> <h2>7) What did Cummings tell the prime minister after each Sage meeting?</h2> <p>The former chief scientific adviser Sir David King, one of the most outspoken critics of the decision to include Cummings in Sage meetings, said that the political adviser, who is not a scientist, could report back to the prime minister his own interpretation of the scientific meeting. \u201cThose discussions would be quite complex in terms of the science. Wrong person to be briefing the prime minister, absolutely\u201d. Has Cummings been giving Boris Johnson his own interpretation of science around the coronavirus? And if so, how has that differed from Sage\u2019s official advice?</p>",
-      "wordcount": "761",
-      "firstPublicationDate": "2020-04-26T12:00:13Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-04-26T12:11:55Z",
-      "productionOffice": "UK",
-      "publication": "theguardian.com",
-      "shortUrl": "https://gu.com/p/dm7cz",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/7c884e0f01c4cc33edbd1eea1289a625dd040c74/0_202_4954_2975/500.jpg",
-      "legallySensitive": "false",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "1) Who decided Dominic Cummings and Ben Warner should attend Sage meetings and why? The government has not disputed that this is the first time Downing Street political advisers have attended Sage meetings and asked questions at them. No 10 argues that the unprecedented scale of the coronavirus pandemic made it necessary. However, the government\u2019s policies say scientific committees such as Sage should be politically neutral. Sage meetings are chaired by the government\u2019s chief scientific adviser, Sir Patrick Vallance. However, a government spokesperson said Vallance \u201cwould not have to sign off\u201d on observers or representatives from government departments. So who decided they should attend, and why and when was the decision made? 2) Which Sage meetings did Cummings and Warner attend, and what did they say? In a letter to parliament, Vallance said Sage was meeting about twice a week to provide scientific advice to the Cabinet Office about Covid-19. It met twice in January, nine times in February and 10 times in March. The dates of more recent meetings have not been disclosed. Downing Street has said Cummings and Warner attended \u201csome\u201d meetings, but has not specified which. It has also played down their contributions, saying they \u201coccasionally\u201d ask questions or \u201coffer help when scientists mention problems in Whitehall\u201d. That contrasts with the accounts of Sage committee members, who told the Guardian they were active participants in meetings as far back as February. So what, exactly, were their contributions? 3) Why was Ben Warner attending meetings? While much attention has focused on the attendance of Cummings, there have been fewer questions about Warner, a data scientist who was reportedly recruited to Downing Street late last year after running the Conservative party\u2019s general election campaign model. Warner previously worked with Cummings on the Vote Leave campaign for Brexit. Warner\u2019s brother, Marc Warner, runs Faculty, an artificial intelligence company involved in an \u201cunprecedented\u201d data-mining operation as part of the government\u2019s response to the coronavirus outbreak. Ben Warner also used to work at his brother\u2019s AI company. 4) If political advisers can attend and ask questions, why not chief scientists and chief medical officers from the devolved governments? If this emergency is so severe it requires political appointees from Downing Street to attend and ask questions, why does it appear that chief scientists and chief medical officers \u2013 or their equivalents from the devolved governments in Edinburgh, Cardiff and Stormont \u2013 were not given the same influence? The Guardian understands that these officials had observer status at Sage meetings and, unlike Cummings and Warner, could only ask questions in advance, in writing. 5) Will the government now publish a full list of attendees at all Sage meetings? Critics of the secret decision to allow Cummings and Warner to take part argue this has greatly undermined public confidence in the role and independence of Sage. Many scientists, including past and present members of Sage, already believed the names of those who take part in Sage should be published. Vallance has said the \u201cdecision not to disclose\u201d membership of the committee was based on advice from the Centre for the Protection of National Infrastructure. \u201cThis contributes towards safeguarding individual members\u2019 personal security and protects them from lobbying and other forms of unwanted influence, which may hinder their ability to give impartial advice,\u201d he said. Dominic Raab has said the government has no plans to publish the list of participants. 6) Did any participants in Sage feel swayed by questions from Cummings or Warner? One of the main concerns about the attendance of someone as influential as Cummings is that his presence and questions may have swayed scientific advisers. As the prime minister\u2019s famously influential chief adviser, a contribution from Cummings, even in the form of a question, is likely to have carried significant weight in Sage meetings. As the former Brexit secretary David Davis told Sky News: \u201cThere\u2019s a thing called the Heisenberg principle, which says you can\u2019t observe something without influencing it.\u201d 7) What did Cummings tell the prime minister after each Sage meeting? The former chief scientific adviser Sir David King, one of the most outspoken critics of the decision to include Cummings in Sage meetings, said that the political adviser, who is not a scientist, could report back to the prime minister his own interpretation of the scientific meeting. \u201cThose discussions would be quite complex in terms of the science. Wrong person to be briefing the prime minister, absolutely\u201d. Has Cummings been giving Boris Johnson his own interpretation of science around the coronavirus? And if so, how has that differed from Sage\u2019s official advice?",
-      "charCount": "4862",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/severincarrell\">Severin Carrell</a>"
-    },
-    "tags": [
-      {
-        "id": "world/series/covid-19-investigations",
-        "type": "series",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Covid-19 investigations",
-        "webUrl": "https://www.theguardian.com/world/series/covid-19-investigations",
-        "apiUrl": "https://content.guardianapis.com/world/series/covid-19-investigations",
-        "references": []
-      },
-      {
-        "id": "politics/dominic-cummings",
-        "type": "keyword",
-        "sectionId": "politics",
-        "sectionName": "Politics",
-        "webTitle": "Dominic Cummings",
-        "webUrl": "https://www.theguardian.com/politics/dominic-cummings",
-        "apiUrl": "https://content.guardianapis.com/politics/dominic-cummings",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "politics/politics",
-        "type": "keyword",
-        "sectionId": "politics",
-        "sectionName": "Politics",
-        "webTitle": "Politics",
-        "webUrl": "https://www.theguardian.com/politics/politics",
-        "apiUrl": "https://content.guardianapis.com/politics/politics",
-        "references": [],
-        "description": "<p><br></p>"
-      },
-      {
-        "id": "uk/uk",
-        "type": "keyword",
-        "sectionId": "uk-news",
-        "sectionName": "UK news",
-        "webTitle": "UK news",
-        "webUrl": "https://www.theguardian.com/uk/uk",
-        "apiUrl": "https://content.guardianapis.com/uk/uk",
-        "references": []
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/analysis",
-        "type": "tone",
-        "webTitle": "Analysis",
-        "webUrl": "https://www.theguardian.com/tone/analysis",
-        "apiUrl": "https://content.guardianapis.com/tone/analysis",
-        "references": []
-      },
-      {
-        "id": "profile/severincarrell",
-        "type": "contributor",
-        "webTitle": "Severin Carrell",
-        "webUrl": "https://www.theguardian.com/profile/severincarrell",
-        "apiUrl": "https://content.guardianapis.com/profile/severincarrell",
-        "references": [],
-        "bio": "<p>Severin Carrell is the Guardian's Scotland editor. Twitter <a href=\"https://twitter.com/severincarrell\">@severincarrell</a>. Click <a href=\"https://static.guim.co.uk/ni/1418406968273/Severin-Carrell-PGP-key.txt\">here</a> for Severin's public key</p>",
-        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2007/09/28/severin_carrell_140x140.jpg",
-        "firstName": "Severin",
-        "lastName": "Carrell",
-        "twitterHandle": "severincarrell"
-      },
-      {
-        "id": "tracking/commissioningdesk/uk-home-news",
-        "type": "tracking",
-        "webTitle": "UK Home News",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/uk-home-news",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/uk-home-news",
-        "references": []
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/news",
-    "pillarName": "News"
-  },
-  {
     "id": "world/2020/apr/26/attendees-of-sage-coronavirus-meetings-worried-by-presence-of-dominic-cummings",
     "type": "article",
     "sectionId": "world",
@@ -9723,6 +9593,136 @@
         "webUrl": "https://www.theguardian.com/theguardian/mainsection/topstories",
         "apiUrl": "https://content.guardianapis.com/theguardian/mainsection/topstories",
         "references": []
+      },
+      {
+        "id": "tracking/commissioningdesk/uk-home-news",
+        "type": "tracking",
+        "webTitle": "UK Home News",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/uk-home-news",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/uk-home-news",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
+    "id": "world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
+    "type": "article",
+    "sectionId": "world",
+    "sectionName": "World news",
+    "webPublicationDate": "2020-04-26T12:00:13Z",
+    "webTitle": "No 10 advisers at Sage meetings: key questions that need answering",
+    "webUrl": "https://www.theguardian.com/world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
+    "apiUrl": "https://content.guardianapis.com/world/2020/apr/26/no-10-advisers-at-sage-meetings-dominic-cummings-ben-warner-key-questions-that-need-answering",
+    "fields": {
+      "headline": "No 10 advisers at Sage meetings: key questions that need answering",
+      "standfirst": "<p>How and why Ben Warner and Dominic Cummings contributed to Covid-19 meetings is unclear</p><ul><li><a href=\"https://www.theguardian.com/world/2020/apr/26/attendees-of-sage-coronavirus-meetings-worried-by-presence-of-dominic-cummings\">Sage attendees worried by Cummings\u2019 presence</a></li><li><a href=\"https://www.theguardian.com/world/2020/apr/26/no-evidence-no-10-advisers-attended-sage-during-previous-crises-coronavirus-dominic-cummings\">No evidence No 10 advisers attended Sage in previous crises</a></li><li><a href=\"https://www.theguardian.com/world/coronavirus-outbreak\">See all our coronavirus coverage</a></li></ul>",
+      "trailText": "How and why Ben Warner and Dominic Cummings contributed to Covid-19 meetings is unclear",
+      "byline": "Severin Carrell",
+      "main": "<figure class=\"element element-image\" data-media-id=\"7c884e0f01c4cc33edbd1eea1289a625dd040c74\"> <img src=\"https://media.guim.co.uk/7c884e0f01c4cc33edbd1eea1289a625dd040c74/0_202_4954_2975/1000.jpg\" alt=\"Dominic Cummings\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">One of the concerns about the attendance of someone as influential as Dominic Cummings is that his presence and questions may have swayed scientific advisers.</span> <span class=\"element-image__credit\">Photograph: Alberto Pezzali/AP</span> </figcaption> </figure>",
+      "body": "<h2><strong>1) Who </strong><strong>decided Dominic Cummings and Ben Warner should attend Sage meetings and why?</strong></h2> <p>The government has not disputed that this is the first time Downing Street political advisers <a href=\"https://www.theguardian.com/world/2020/apr/24/revealed-dominic-cummings-on-secret-scientific-advisory-group-for-covid-19\">have attended Sage meetings</a> and asked questions at them. No 10 argues that the unprecedented scale of the coronavirus pandemic made it necessary. However, the government\u2019s policies say scientific committees such as Sage should be politically neutral. Sage meetings are chaired by the government\u2019s chief scientific adviser, Sir Patrick Vallance. However, a government spokesperson said Vallance \u201cwould not have to sign off\u201d on observers or representatives from government departments. So who decided they should attend, and why and when was the decision made?</p> <h2><strong>2) Which Sage meetings did Cummings and Warner attend, and what did they say?</strong></h2> <p>In <a href=\"https://publications.parliament.uk/pa/cm5801/cmselect/cmsctech/correspondence/Patrick-Vallance-to-Greg-Clark-re-SAGE-composition.pdf\">a letter to parliament</a>, Vallance said Sage was meeting about twice a week to provide scientific advice to the Cabinet Office about Covid-19. It met twice in January, nine times in February and 10 times in March. The dates of more recent meetings have not been disclosed. Downing Street has said Cummings and Warner attended \u201csome\u201d meetings, but has not specified which. It has also played down their contributions, saying they \u201coccasionally\u201d ask questions or \u201coffer help when scientists mention problems in Whitehall\u201d. That contrasts with the accounts of Sage committee members, who told the Guardian they were active participants in meetings as far back as February. So what, exactly, were their contributions?</p> <h2>3) <strong>Why was Ben Warner attending meetings?</strong></h2> <p>While much attention has focused on the attendance of Cummings, there have been fewer questions about Warner, a data scientist who was reportedly recruited to Downing Street late last year after running the Conservative party\u2019s general election campaign model. Warner previously worked with Cummings on the Vote Leave campaign for Brexit. Warner\u2019s brother, Marc Warner, runs Faculty, an artificial intelligence company involved in an \u201cunprecedented\u201d data-mining operation as part of the government\u2019s response to the coronavirus outbreak. Ben Warner also used to work at his brother\u2019s AI company.</p> <h2>4) If political advisers can attend and ask questions, why not chief scientists and chief medical officers from the devolved governments?</h2> <p>If this emergency is so severe it requires political appointees from Downing Street to attend and ask questions, why does it appear that chief scientists and chief medical officers \u2013 or their equivalents from the devolved governments in Edinburgh, Cardiff and Stormont \u2013 were not given the same influence? The Guardian understands that these officials had observer status at Sage meetings and, unlike Cummings and Warner, could only ask questions in advance, in writing.</p>  <figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&amp;opinion-tint=false&amp;title=Covid-19%3A%20help%20us%20investigate&amp;description=The%20Guardian%20is%20investigating%20how%20the%20UK%20government%20prepared%20for%20%E2%80%93%20and%20is%20responding%20to%20%E2%80%93%20the%20coronavirus%20pandemic.%20We%20want%20to%20learn%20more%20about%20recent%20decisions%20taken%20at%20the%20heart%20of%20government.%20If%20you%E2%80%99re%20a%20whistleblower%20or%20source%20and%20with%20new%20information%2C%20you%20can%20email%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22mailto%3Acovid19.investigations%40theguardian.com%22%3Ecovid19.investigations%40theguardian.com%3C%2Fa%3E%2C%20or%20(using%20a%20non-work%20phone)%20use%20Signal%20or%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D447584640566%22%3EWhatsApp%3C%2Fa%3E%20to%20message%20(UK)%20%2B44%207584%20640566.%20(The%20number%20does%20not%20take%20calls.)%20For%20the%20most%20secure%20communications%2C%20use%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fsecuredrop%22%20style%3D%22color%3A%23ab0613%22%3ESecureDrop%3C%2Fa%3E.%20For%20general%20advice%20on%20confidentially%20contacting%20the%20Guardian%2C%20see%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fng-interactive%2F2017%2Fmar%2F17%2Fcontact-the-guardian-securely%22%20style%3D%22color%3A%23ab0613%22%3Eour%20guide%3C%2Fa%3E.%20&amp;link=false\" data-alt=\"The Guardian is investigating how the UK government prepared for \u2013 and is responding to \u2013 the coronavirus pandemic. We want to learn more about recent decisions taken at the heart of government. If you're a whistleblower or source and with new information, you can email investigations@theguardian.com, or (using a non-work phone) use Signal or WhatsApp to message (UK) +44 7584 640566.\"> <a href=\"https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&opinion-tint=false&title=Covid-19%3A%20help%20us%20investigate&description=The%20Guardian%20is%20investigating%20how%20the%20UK%20government%20prepared%20for%20%E2%80%93%20and%20is%20responding%20to%20%E2%80%93%20the%20coronavirus%20pandemic.%20We%20want%20to%20learn%20more%20about%20recent%20decisions%20taken%20at%20the%20heart%20of%20government.%20If%20you%E2%80%99re%20a%20whistleblower%20or%20source%20and%20with%20new%20information%2C%20you%20can%20email%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22mailto%3Acovid19.investigations%40theguardian.com%22%3Ecovid19.investigations%40theguardian.com%3C%2Fa%3E%2C%20or%20(using%20a%20non-work%20phone)%20use%20Signal%20or%20%3Ca%20style%3D%22color%3A%23ab0613%22%20href%3D%22https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D447584640566%22%3EWhatsApp%3C%2Fa%3E%20to%20message%20(UK)%20%2B44%207584%20640566.%20(The%20number%20does%20not%20take%20calls.)%20For%20the%20most%20secure%20communications%2C%20use%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fsecuredrop%22%20style%3D%22color%3A%23ab0613%22%3ESecureDrop%3C%2Fa%3E.%20For%20general%20advice%20on%20confidentially%20contacting%20the%20Guardian%2C%20see%20%3Ca%20href%3D%22https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fng-interactive%2F2017%2Fmar%2F17%2Fcontact-the-guardian-securely%22%20style%3D%22color%3A%23ab0613%22%3Eour%20guide%3C%2Fa%3E.%20&link=false\">The Guardian is investigating how the UK government prepared for \u2013 and is responding to \u2013 the coronavirus pandemic. We want to learn more about recent decisions taken at the heart of government. If you're a whistleblower or source and with new information, you can email investigations@theguardian.com, or (using a non-work phone) use Signal or WhatsApp to message (UK) +44 7584 640566.</a> </figure>  <h2><strong>5) Will the government now publish a full list of attendees at all Sage meetings?</strong></h2> <p>Critics of the secret decision to allow Cummings and Warner to take part argue this has greatly undermined public confidence in the role and independence of Sage. Many scientists, including past and present members of Sage, already believed the names of those who take part in Sage should be published. Vallance has said the \u201cdecision not to disclose\u201d membership of the committee was based on advice from the Centre for the Protection of National Infrastructure. \u201cThis contributes towards safeguarding individual members\u2019 personal security and protects them from lobbying and other forms of unwanted influence, which may hinder their ability to give impartial advice,\u201d he said. Dominic Raab has said the government <a href=\"https://www.theguardian.com/world/2020/apr/26/raab-warns-britons-of-risk-of-second-spike-in-coronavirus-outbreak\">has no plans to publish the list of participants</a>.</p> <h2>6) Did any participants in Sage feel swayed by questions from Cummings or Warner?</h2> <p>One of the main concerns about the attendance of someone as influential as Cummings is that his presence and questions may have swayed scientific advisers. As the prime minister\u2019s famously influential chief adviser, a contribution from Cummings, even in the form of a question, is likely to have carried significant weight in Sage meetings. As the former Brexit secretary David Davis told Sky News: \u201cThere\u2019s a thing called the Heisenberg principle, which says you can\u2019t observe something without influencing it.\u201d</p> <h2>7) What did Cummings tell the prime minister after each Sage meeting?</h2> <p>The former chief scientific adviser Sir David King, one of the most outspoken critics of the decision to include Cummings in Sage meetings, said that the political adviser, who is not a scientist, could report back to the prime minister his own interpretation of the scientific meeting. \u201cThose discussions would be quite complex in terms of the science. Wrong person to be briefing the prime minister, absolutely\u201d. Has Cummings been giving Boris Johnson his own interpretation of science around the coronavirus? And if so, how has that differed from Sage\u2019s official advice?</p>",
+      "wordcount": "761",
+      "firstPublicationDate": "2020-04-26T12:00:13Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-04-26T12:11:55Z",
+      "productionOffice": "UK",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dm7cz",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/7c884e0f01c4cc33edbd1eea1289a625dd040c74/0_202_4954_2975/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "1) Who decided Dominic Cummings and Ben Warner should attend Sage meetings and why? The government has not disputed that this is the first time Downing Street political advisers have attended Sage meetings and asked questions at them. No 10 argues that the unprecedented scale of the coronavirus pandemic made it necessary. However, the government\u2019s policies say scientific committees such as Sage should be politically neutral. Sage meetings are chaired by the government\u2019s chief scientific adviser, Sir Patrick Vallance. However, a government spokesperson said Vallance \u201cwould not have to sign off\u201d on observers or representatives from government departments. So who decided they should attend, and why and when was the decision made? 2) Which Sage meetings did Cummings and Warner attend, and what did they say? In a letter to parliament, Vallance said Sage was meeting about twice a week to provide scientific advice to the Cabinet Office about Covid-19. It met twice in January, nine times in February and 10 times in March. The dates of more recent meetings have not been disclosed. Downing Street has said Cummings and Warner attended \u201csome\u201d meetings, but has not specified which. It has also played down their contributions, saying they \u201coccasionally\u201d ask questions or \u201coffer help when scientists mention problems in Whitehall\u201d. That contrasts with the accounts of Sage committee members, who told the Guardian they were active participants in meetings as far back as February. So what, exactly, were their contributions? 3) Why was Ben Warner attending meetings? While much attention has focused on the attendance of Cummings, there have been fewer questions about Warner, a data scientist who was reportedly recruited to Downing Street late last year after running the Conservative party\u2019s general election campaign model. Warner previously worked with Cummings on the Vote Leave campaign for Brexit. Warner\u2019s brother, Marc Warner, runs Faculty, an artificial intelligence company involved in an \u201cunprecedented\u201d data-mining operation as part of the government\u2019s response to the coronavirus outbreak. Ben Warner also used to work at his brother\u2019s AI company. 4) If political advisers can attend and ask questions, why not chief scientists and chief medical officers from the devolved governments? If this emergency is so severe it requires political appointees from Downing Street to attend and ask questions, why does it appear that chief scientists and chief medical officers \u2013 or their equivalents from the devolved governments in Edinburgh, Cardiff and Stormont \u2013 were not given the same influence? The Guardian understands that these officials had observer status at Sage meetings and, unlike Cummings and Warner, could only ask questions in advance, in writing. 5) Will the government now publish a full list of attendees at all Sage meetings? Critics of the secret decision to allow Cummings and Warner to take part argue this has greatly undermined public confidence in the role and independence of Sage. Many scientists, including past and present members of Sage, already believed the names of those who take part in Sage should be published. Vallance has said the \u201cdecision not to disclose\u201d membership of the committee was based on advice from the Centre for the Protection of National Infrastructure. \u201cThis contributes towards safeguarding individual members\u2019 personal security and protects them from lobbying and other forms of unwanted influence, which may hinder their ability to give impartial advice,\u201d he said. Dominic Raab has said the government has no plans to publish the list of participants. 6) Did any participants in Sage feel swayed by questions from Cummings or Warner? One of the main concerns about the attendance of someone as influential as Cummings is that his presence and questions may have swayed scientific advisers. As the prime minister\u2019s famously influential chief adviser, a contribution from Cummings, even in the form of a question, is likely to have carried significant weight in Sage meetings. As the former Brexit secretary David Davis told Sky News: \u201cThere\u2019s a thing called the Heisenberg principle, which says you can\u2019t observe something without influencing it.\u201d 7) What did Cummings tell the prime minister after each Sage meeting? The former chief scientific adviser Sir David King, one of the most outspoken critics of the decision to include Cummings in Sage meetings, said that the political adviser, who is not a scientist, could report back to the prime minister his own interpretation of the scientific meeting. \u201cThose discussions would be quite complex in terms of the science. Wrong person to be briefing the prime minister, absolutely\u201d. Has Cummings been giving Boris Johnson his own interpretation of science around the coronavirus? And if so, how has that differed from Sage\u2019s official advice?",
+      "charCount": "4862",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/severincarrell\">Severin Carrell</a>"
+    },
+    "tags": [
+      {
+        "id": "world/series/covid-19-investigations",
+        "type": "series",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Covid-19 investigations",
+        "webUrl": "https://www.theguardian.com/world/series/covid-19-investigations",
+        "apiUrl": "https://content.guardianapis.com/world/series/covid-19-investigations",
+        "references": []
+      },
+      {
+        "id": "politics/dominic-cummings",
+        "type": "keyword",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webTitle": "Dominic Cummings",
+        "webUrl": "https://www.theguardian.com/politics/dominic-cummings",
+        "apiUrl": "https://content.guardianapis.com/politics/dominic-cummings",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "politics/politics",
+        "type": "keyword",
+        "sectionId": "politics",
+        "sectionName": "Politics",
+        "webTitle": "Politics",
+        "webUrl": "https://www.theguardian.com/politics/politics",
+        "apiUrl": "https://content.guardianapis.com/politics/politics",
+        "references": [],
+        "description": "<p><br></p>"
+      },
+      {
+        "id": "uk/uk",
+        "type": "keyword",
+        "sectionId": "uk-news",
+        "sectionName": "UK news",
+        "webTitle": "UK news",
+        "webUrl": "https://www.theguardian.com/uk/uk",
+        "apiUrl": "https://content.guardianapis.com/uk/uk",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/analysis",
+        "type": "tone",
+        "webTitle": "Analysis",
+        "webUrl": "https://www.theguardian.com/tone/analysis",
+        "apiUrl": "https://content.guardianapis.com/tone/analysis",
+        "references": []
+      },
+      {
+        "id": "profile/severincarrell",
+        "type": "contributor",
+        "webTitle": "Severin Carrell",
+        "webUrl": "https://www.theguardian.com/profile/severincarrell",
+        "apiUrl": "https://content.guardianapis.com/profile/severincarrell",
+        "references": [],
+        "bio": "<p>Severin Carrell is the Guardian's Scotland editor. Twitter <a href=\"https://twitter.com/severincarrell\">@severincarrell</a>. Click <a href=\"https://static.guim.co.uk/ni/1418406968273/Severin-Carrell-PGP-key.txt\">here</a> for Severin's public key</p>",
+        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/contributor/2007/09/28/severin_carrell_140x140.jpg",
+        "firstName": "Severin",
+        "lastName": "Carrell",
+        "twitterHandle": "severincarrell"
       },
       {
         "id": "tracking/commissioningdesk/uk-home-news",
@@ -10823,6 +10823,134 @@
     "pillarName": "News"
   },
   {
+    "id": "commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
+    "type": "article",
+    "sectionId": "commentisfree",
+    "sectionName": "Opinion",
+    "webPublicationDate": "2020-04-26T13:00:14Z",
+    "webTitle": "Coronavirus has stopped trials by jury, and that's not necessarily a bad thing | Geoffrey Robertson",
+    "webUrl": "https://www.theguardian.com/commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
+    "apiUrl": "https://content.guardianapis.com/commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
+    "fields": {
+      "headline": "Coronavirus has stopped trials by jury, and that's not necessarily a bad thing",
+      "standfirst": "<p>In some cases justice would be better served, and defendants would be better off, if they could choose trial by judge alone<br><br></p><ul><li><a href=\"https://www.theguardian.com/law/2020/apr/26/non-jury-trials-could-help-clear-coronavirus-backlog-says-geoffrey-robertson-qc\">Non-jury trials could help clear coronavirus backlog, says QC</a></li><li><a href=\"https://www.theguardian.com/world/series/coronavirus-live/latest\">Coronavirus \u2013 latest updates</a></li><li><a href=\"https://www.theguardian.com/world/coronavirus-outbreak\">See all our coronavirus coverage</a></li></ul>",
+      "trailText": "There are cases where justice would be better served if defendants could choose trial by judge alone, says human rights barrister Geoffrey Robertson",
+      "byline": "Geoffrey Robertson",
+      "main": "<figure class=\"element element-image\" data-media-id=\"ae13ae808d53cb4abf3930315bfddd1a0c3f0466\"> <img src=\"https://media.guim.co.uk/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_17_1714_1028/1000.jpg\" alt=\"\u2018Trial by judge alone could be preferable in cases involving defendants demonised either in person or because of their racial or religious group.\u2019\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">\u2018Trial by judge alone could be preferable in cases involving defendants demonised either in person or because of their racial or religious group.\u2019</span> <span class=\"element-image__credit\">Photograph: Alamy</span> </figcaption> </figure>",
+      "body": "<p>Jury trials for serious crimes have <a href=\"https://www.theguardian.com/law/2020/mar/23/jury-trials-put-on-hold-in-england-and-wales-coronavirus\">come to a halt</a>. Twelve good men and women and true cannot be permitted to sit cheek by jowl in jury boxes, or expectorate in each other\u2019s presence in cramped jury rooms, while Covid-19 remains a threat \u2013 as it will for months or even years until the <a href=\"https://www.theguardian.com/world/video/2020/apr/21/hancock-uk-human-trials-for-coronavirus-vaccine-to-begin-on-thursday-video\">longed-for vaccine</a>.</p> <p>We believe sentimentally that trial by jury is a defendant\u2019s fundamental right \u2013 but why not give them the additional right to choose instead a reasoned verdict from a judge, as they have, for example, in most Australian states? That would get courts back up and running, even if barristers and judges have to argue through their face masks, and it would be a boon to defendants with good cases who do not want justice delayed.</p> <p>It is, of course, an Englishperson\u2019s enduring right not to be sent to prison for more than a year without the option of having his or her guilt determined by a jury of peers. But the right to jury trial was left out of the Human Rights Act, which merely adopted the European convention. Juries, as we know them, are not available in most continental countries, where first instance judges do an acceptable job of detailing rational reasons for findings of guilt that can then be scrutinised on appeal. There are cases in the UK where justice would be better served, and defendants would be better off, if they could choose trial by judge alone.</p> <p>Trial by judge alone operates in all international criminal courts and was introduced in Northern Ireland at the height of the Troubles by the judge-only Diplock courts. There were civil liberty concerns at first but the Northern Ireland judges were generally astute and rejected some high profile RUC prosecutions. There is a rarely used power for prosecutors to apply for trial by judge alone, but only if they can show that the defendant is bent on jury tampering.</p> <p>Cases where defendants may prefer trial by judge alone are those where the prosecution does not have the evidence to exclude a reasonable doubt, and trial by judge would predictably produce a speedy acquittal. This could also be preferable in cases involving defendants demonised either in person or because of their racial or religious group. When I defended Irish terrorist suspects and black activists in earlier days, juror prejudice was inevitable due to oppressive police security arrangements in court precincts and sensational media coverage, and it resulted in some notoriously wrongful convictions. In such cases, a defendant\u2019s right to a fair trial would have been more secure had they been entitled to opt for trial by judge alone.</p> <p>The most powerful argument against this was encapsulated by <a href=\"https://www.theguardian.com/law/2017/nov/13/lord-hutchinson-of-lullington-obituary\">Lord Hutchinson</a>\u2019s response to my proposal: \u201cIt sounds fine in principle, but it will be the thin end of the wedge.\u201d He was afraid, like many great criminal lawyers, that it would be the first step to abolishing a trial system that they knew instinctively was worth keeping. They thought it vulnerable to politicians\u2019 attraction to cheaper, speedier and more rational justice.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/society/2020/apr/19/uk-courts-told-not-to-overreact-during-coronavirus-crisis\">UK courts told not to 'overreact' during coronavirus crisis</a> </p> </aside>  <p>But provision of a jury waiver option will not lead to the demise of a form of trial that has so much public acceptance, in particular because it involves the public in the delivery of justice. None of the Australian states that allow defendants (but not prosecutors) to waive jury trials have moved on to abolish jurors. One state that does not allow waiver \u2013 Victoria \u2013 was recently faced with the trial of a cardinal (George Pell) accused of child sexual abuse. It had to be held in secret \u2013 the worst of all alternatives \u2013 because of fear that <a href=\"https://www.theguardian.com/media/2020/apr/15/andrew-bolt-and-the-abc-did-the-reporting-on-george-pell-step-over-a-line\">publicity</a> could prejudice a follow-on trial (although in the event prosecutors withdrew those charges). His conviction has just been <a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">overturned by the </a><a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">high </a><a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">court</a> because the jury failed to recognise a reasonable doubt. Had he been entitled to a trial by judge alone, this objectionable secrecy would never have been necessary.</p> <p>Jury waiver would help the justice system to handle some problems caused by Covid-19. But it should not be regarded either as a short-term expedient or as harbinger of the demise of jury trial. It should rather be accepted as the right of any person facing a substantial prison sentence to opt for trial by judge alone \u2013 or by three judges \u2013 in order to know the reasons why he or she is losing their liberty.</p> <p>\u2022 Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice</p> <p><br></p>",
+      "wordcount": "761",
+      "firstPublicationDate": "2020-04-26T13:00:14Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-04-26T13:31:45Z",
+      "productionOffice": "UK",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dypme",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_17_1714_1028/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "Jury trials for serious crimes have come to a halt. Twelve good men and women and true cannot be permitted to sit cheek by jowl in jury boxes, or expectorate in each other\u2019s presence in cramped jury rooms, while Covid-19 remains a threat \u2013 as it will for months or even years until the longed-for vaccine. We believe sentimentally that trial by jury is a defendant\u2019s fundamental right \u2013 but why not give them the additional right to choose instead a reasoned verdict from a judge, as they have, for example, in most Australian states? That would get courts back up and running, even if barristers and judges have to argue through their face masks, and it would be a boon to defendants with good cases who do not want justice delayed. It is, of course, an Englishperson\u2019s enduring right not to be sent to prison for more than a year without the option of having his or her guilt determined by a jury of peers. But the right to jury trial was left out of the Human Rights Act, which merely adopted the European convention. Juries, as we know them, are not available in most continental countries, where first instance judges do an acceptable job of detailing rational reasons for findings of guilt that can then be scrutinised on appeal. There are cases in the UK where justice would be better served, and defendants would be better off, if they could choose trial by judge alone. Trial by judge alone operates in all international criminal courts and was introduced in Northern Ireland at the height of the Troubles by the judge-only Diplock courts. There were civil liberty concerns at first but the Northern Ireland judges were generally astute and rejected some high profile RUC prosecutions. There is a rarely used power for prosecutors to apply for trial by judge alone, but only if they can show that the defendant is bent on jury tampering. Cases where defendants may prefer trial by judge alone are those where the prosecution does not have the evidence to exclude a reasonable doubt, and trial by judge would predictably produce a speedy acquittal. This could also be preferable in cases involving defendants demonised either in person or because of their racial or religious group. When I defended Irish terrorist suspects and black activists in earlier days, juror prejudice was inevitable due to oppressive police security arrangements in court precincts and sensational media coverage, and it resulted in some notoriously wrongful convictions. In such cases, a defendant\u2019s right to a fair trial would have been more secure had they been entitled to opt for trial by judge alone. The most powerful argument against this was encapsulated by Lord Hutchinson\u2019s response to my proposal: \u201cIt sounds fine in principle, but it will be the thin end of the wedge.\u201d He was afraid, like many great criminal lawyers, that it would be the first step to abolishing a trial system that they knew instinctively was worth keeping. They thought it vulnerable to politicians\u2019 attraction to cheaper, speedier and more rational justice. But provision of a jury waiver option will not lead to the demise of a form of trial that has so much public acceptance, in particular because it involves the public in the delivery of justice. None of the Australian states that allow defendants (but not prosecutors) to waive jury trials have moved on to abolish jurors. One state that does not allow waiver \u2013 Victoria \u2013 was recently faced with the trial of a cardinal (George Pell) accused of child sexual abuse. It had to be held in secret \u2013 the worst of all alternatives \u2013 because of fear that publicity could prejudice a follow-on trial (although in the event prosecutors withdrew those charges). His conviction has just been overturned by the high court because the jury failed to recognise a reasonable doubt. Had he been entitled to a trial by judge alone, this objectionable secrecy would never have been necessary. Jury waiver would help the justice system to handle some problems caused by Covid-19. But it should not be regarded either as a short-term expedient or as harbinger of the demise of jury trial. It should rather be accepted as the right of any person facing a substantial prison sentence to opt for trial by judge alone \u2013 or by three judges \u2013 in order to know the reasons why he or she is losing their liberty. \u2022 Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice",
+      "charCount": "4478",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/geoffreyrobertson\">Geoffrey Robertson</a>"
+    },
+    "tags": [
+      {
+        "id": "commentisfree/commentisfree",
+        "type": "blog",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webTitle": "Opinion",
+        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
+        "references": []
+      },
+      {
+        "id": "world/coronavirus-outbreak",
+        "type": "keyword",
+        "sectionId": "world",
+        "sectionName": "World news",
+        "webTitle": "Coronavirus outbreak",
+        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
+        "references": []
+      },
+      {
+        "id": "law/law",
+        "type": "keyword",
+        "sectionId": "law",
+        "sectionName": "Law",
+        "webTitle": "Law",
+        "webUrl": "https://www.theguardian.com/law/law",
+        "apiUrl": "https://content.guardianapis.com/law/law",
+        "references": []
+      },
+      {
+        "id": "law/human-rights",
+        "type": "keyword",
+        "sectionId": "law",
+        "sectionName": "Law",
+        "webTitle": "Human rights",
+        "webUrl": "https://www.theguardian.com/law/human-rights",
+        "apiUrl": "https://content.guardianapis.com/law/human-rights",
+        "references": []
+      },
+      {
+        "id": "uk/uk",
+        "type": "keyword",
+        "sectionId": "uk-news",
+        "sectionName": "UK news",
+        "webTitle": "UK news",
+        "webUrl": "https://www.theguardian.com/uk/uk",
+        "apiUrl": "https://content.guardianapis.com/uk/uk",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/comment",
+        "type": "tone",
+        "webTitle": "Comment",
+        "webUrl": "https://www.theguardian.com/tone/comment",
+        "apiUrl": "https://content.guardianapis.com/tone/comment",
+        "references": []
+      },
+      {
+        "id": "profile/geoffreyrobertson",
+        "type": "contributor",
+        "webTitle": "Geoffrey Robertson",
+        "webUrl": "https://www.theguardian.com/profile/geoffreyrobertson",
+        "apiUrl": "https://content.guardianapis.com/profile/geoffreyrobertson",
+        "references": [],
+        "bio": "<p>Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice</p>",
+        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/21/1398088029367/Geoffrey-Robertson.jpg",
+        "firstName": "Geoffrey ",
+        "lastName": "Robertson"
+      },
+      {
+        "id": "tracking/commissioningdesk/uk-opinion",
+        "type": "tracking",
+        "webTitle": "UK Opinion",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/uk-opinion",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/uk-opinion",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/opinion",
+    "pillarName": "Opinion"
+  },
+  {
     "id": "law/2020/apr/26/non-jury-trials-could-help-clear-coronavirus-backlog-says-geoffrey-robertson-qc",
     "type": "article",
     "sectionId": "law",
@@ -11015,134 +11143,6 @@
     "isHosted": false,
     "pillarId": "pillar/news",
     "pillarName": "News"
-  },
-  {
-    "id": "commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
-    "type": "article",
-    "sectionId": "commentisfree",
-    "sectionName": "Opinion",
-    "webPublicationDate": "2020-04-26T13:00:14Z",
-    "webTitle": "Coronavirus has stopped trials by jury, and that's not necessarily a bad thing | Geoffrey Robertson",
-    "webUrl": "https://www.theguardian.com/commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
-    "apiUrl": "https://content.guardianapis.com/commentisfree/2020/apr/26/coronavirus-judges-trial-by-jury-justice",
-    "fields": {
-      "headline": "Coronavirus has stopped trials by jury, and that's not necessarily a bad thing",
-      "standfirst": "<p>In some cases justice would be better served, and defendants would be better off, if they could choose trial by judge alone<br><br></p><ul><li><a href=\"https://www.theguardian.com/law/2020/apr/26/non-jury-trials-could-help-clear-coronavirus-backlog-says-geoffrey-robertson-qc\">Non-jury trials could help clear coronavirus backlog, says QC</a></li><li><a href=\"https://www.theguardian.com/world/series/coronavirus-live/latest\">Coronavirus \u2013 latest updates</a></li><li><a href=\"https://www.theguardian.com/world/coronavirus-outbreak\">See all our coronavirus coverage</a></li></ul>",
-      "trailText": "There are cases where justice would be better served if defendants could choose trial by judge alone, says human rights barrister Geoffrey Robertson",
-      "byline": "Geoffrey Robertson",
-      "main": "<figure class=\"element element-image\" data-media-id=\"ae13ae808d53cb4abf3930315bfddd1a0c3f0466\"> <img src=\"https://media.guim.co.uk/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_17_1714_1028/1000.jpg\" alt=\"\u2018Trial by judge alone could be preferable in cases involving defendants demonised either in person or because of their racial or religious group.\u2019\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">\u2018Trial by judge alone could be preferable in cases involving defendants demonised either in person or because of their racial or religious group.\u2019</span> <span class=\"element-image__credit\">Photograph: Alamy</span> </figcaption> </figure>",
-      "body": "<p>Jury trials for serious crimes have <a href=\"https://www.theguardian.com/law/2020/mar/23/jury-trials-put-on-hold-in-england-and-wales-coronavirus\">come to a halt</a>. Twelve good men and women and true cannot be permitted to sit cheek by jowl in jury boxes, or expectorate in each other\u2019s presence in cramped jury rooms, while Covid-19 remains a threat \u2013 as it will for months or even years until the <a href=\"https://www.theguardian.com/world/video/2020/apr/21/hancock-uk-human-trials-for-coronavirus-vaccine-to-begin-on-thursday-video\">longed-for vaccine</a>.</p> <p>We believe sentimentally that trial by jury is a defendant\u2019s fundamental right \u2013 but why not give them the additional right to choose instead a reasoned verdict from a judge, as they have, for example, in most Australian states? That would get courts back up and running, even if barristers and judges have to argue through their face masks, and it would be a boon to defendants with good cases who do not want justice delayed.</p> <p>It is, of course, an Englishperson\u2019s enduring right not to be sent to prison for more than a year without the option of having his or her guilt determined by a jury of peers. But the right to jury trial was left out of the Human Rights Act, which merely adopted the European convention. Juries, as we know them, are not available in most continental countries, where first instance judges do an acceptable job of detailing rational reasons for findings of guilt that can then be scrutinised on appeal. There are cases in the UK where justice would be better served, and defendants would be better off, if they could choose trial by judge alone.</p> <p>Trial by judge alone operates in all international criminal courts and was introduced in Northern Ireland at the height of the Troubles by the judge-only Diplock courts. There were civil liberty concerns at first but the Northern Ireland judges were generally astute and rejected some high profile RUC prosecutions. There is a rarely used power for prosecutors to apply for trial by judge alone, but only if they can show that the defendant is bent on jury tampering.</p> <p>Cases where defendants may prefer trial by judge alone are those where the prosecution does not have the evidence to exclude a reasonable doubt, and trial by judge would predictably produce a speedy acquittal. This could also be preferable in cases involving defendants demonised either in person or because of their racial or religious group. When I defended Irish terrorist suspects and black activists in earlier days, juror prejudice was inevitable due to oppressive police security arrangements in court precincts and sensational media coverage, and it resulted in some notoriously wrongful convictions. In such cases, a defendant\u2019s right to a fair trial would have been more secure had they been entitled to opt for trial by judge alone.</p> <p>The most powerful argument against this was encapsulated by <a href=\"https://www.theguardian.com/law/2017/nov/13/lord-hutchinson-of-lullington-obituary\">Lord Hutchinson</a>\u2019s response to my proposal: \u201cIt sounds fine in principle, but it will be the thin end of the wedge.\u201d He was afraid, like many great criminal lawyers, that it would be the first step to abolishing a trial system that they knew instinctively was worth keeping. They thought it vulnerable to politicians\u2019 attraction to cheaper, speedier and more rational justice.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/society/2020/apr/19/uk-courts-told-not-to-overreact-during-coronavirus-crisis\">UK courts told not to 'overreact' during coronavirus crisis</a> </p> </aside>  <p>But provision of a jury waiver option will not lead to the demise of a form of trial that has so much public acceptance, in particular because it involves the public in the delivery of justice. None of the Australian states that allow defendants (but not prosecutors) to waive jury trials have moved on to abolish jurors. One state that does not allow waiver \u2013 Victoria \u2013 was recently faced with the trial of a cardinal (George Pell) accused of child sexual abuse. It had to be held in secret \u2013 the worst of all alternatives \u2013 because of fear that <a href=\"https://www.theguardian.com/media/2020/apr/15/andrew-bolt-and-the-abc-did-the-reporting-on-george-pell-step-over-a-line\">publicity</a> could prejudice a follow-on trial (although in the event prosecutors withdrew those charges). His conviction has just been <a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">overturned by the </a><a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">high </a><a href=\"https://www.theguardian.com/australia-news/live/2020/apr/07/cardinal-george-pell-high-court-decision-appeal-latest-verdict-live-news\">court</a> because the jury failed to recognise a reasonable doubt. Had he been entitled to a trial by judge alone, this objectionable secrecy would never have been necessary.</p> <p>Jury waiver would help the justice system to handle some problems caused by Covid-19. But it should not be regarded either as a short-term expedient or as harbinger of the demise of jury trial. It should rather be accepted as the right of any person facing a substantial prison sentence to opt for trial by judge alone \u2013 or by three judges \u2013 in order to know the reasons why he or she is losing their liberty.</p> <p>\u2022 Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice</p> <p><br></p>",
-      "wordcount": "761",
-      "firstPublicationDate": "2020-04-26T13:00:14Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-04-26T13:31:45Z",
-      "productionOffice": "UK",
-      "publication": "theguardian.com",
-      "shortUrl": "https://gu.com/p/dypme",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/ae13ae808d53cb4abf3930315bfddd1a0c3f0466/0_17_1714_1028/500.jpg",
-      "legallySensitive": "false",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "Jury trials for serious crimes have come to a halt. Twelve good men and women and true cannot be permitted to sit cheek by jowl in jury boxes, or expectorate in each other\u2019s presence in cramped jury rooms, while Covid-19 remains a threat \u2013 as it will for months or even years until the longed-for vaccine. We believe sentimentally that trial by jury is a defendant\u2019s fundamental right \u2013 but why not give them the additional right to choose instead a reasoned verdict from a judge, as they have, for example, in most Australian states? That would get courts back up and running, even if barristers and judges have to argue through their face masks, and it would be a boon to defendants with good cases who do not want justice delayed. It is, of course, an Englishperson\u2019s enduring right not to be sent to prison for more than a year without the option of having his or her guilt determined by a jury of peers. But the right to jury trial was left out of the Human Rights Act, which merely adopted the European convention. Juries, as we know them, are not available in most continental countries, where first instance judges do an acceptable job of detailing rational reasons for findings of guilt that can then be scrutinised on appeal. There are cases in the UK where justice would be better served, and defendants would be better off, if they could choose trial by judge alone. Trial by judge alone operates in all international criminal courts and was introduced in Northern Ireland at the height of the Troubles by the judge-only Diplock courts. There were civil liberty concerns at first but the Northern Ireland judges were generally astute and rejected some high profile RUC prosecutions. There is a rarely used power for prosecutors to apply for trial by judge alone, but only if they can show that the defendant is bent on jury tampering. Cases where defendants may prefer trial by judge alone are those where the prosecution does not have the evidence to exclude a reasonable doubt, and trial by judge would predictably produce a speedy acquittal. This could also be preferable in cases involving defendants demonised either in person or because of their racial or religious group. When I defended Irish terrorist suspects and black activists in earlier days, juror prejudice was inevitable due to oppressive police security arrangements in court precincts and sensational media coverage, and it resulted in some notoriously wrongful convictions. In such cases, a defendant\u2019s right to a fair trial would have been more secure had they been entitled to opt for trial by judge alone. The most powerful argument against this was encapsulated by Lord Hutchinson\u2019s response to my proposal: \u201cIt sounds fine in principle, but it will be the thin end of the wedge.\u201d He was afraid, like many great criminal lawyers, that it would be the first step to abolishing a trial system that they knew instinctively was worth keeping. They thought it vulnerable to politicians\u2019 attraction to cheaper, speedier and more rational justice. But provision of a jury waiver option will not lead to the demise of a form of trial that has so much public acceptance, in particular because it involves the public in the delivery of justice. None of the Australian states that allow defendants (but not prosecutors) to waive jury trials have moved on to abolish jurors. One state that does not allow waiver \u2013 Victoria \u2013 was recently faced with the trial of a cardinal (George Pell) accused of child sexual abuse. It had to be held in secret \u2013 the worst of all alternatives \u2013 because of fear that publicity could prejudice a follow-on trial (although in the event prosecutors withdrew those charges). His conviction has just been overturned by the high court because the jury failed to recognise a reasonable doubt. Had he been entitled to a trial by judge alone, this objectionable secrecy would never have been necessary. Jury waiver would help the justice system to handle some problems caused by Covid-19. But it should not be regarded either as a short-term expedient or as harbinger of the demise of jury trial. It should rather be accepted as the right of any person facing a substantial prison sentence to opt for trial by judge alone \u2013 or by three judges \u2013 in order to know the reasons why he or she is losing their liberty. \u2022 Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice",
-      "charCount": "4478",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/geoffreyrobertson\">Geoffrey Robertson</a>"
-    },
-    "tags": [
-      {
-        "id": "commentisfree/commentisfree",
-        "type": "blog",
-        "sectionId": "commentisfree",
-        "sectionName": "Opinion",
-        "webTitle": "Opinion",
-        "webUrl": "https://www.theguardian.com/commentisfree/commentisfree",
-        "apiUrl": "https://content.guardianapis.com/commentisfree/commentisfree",
-        "references": []
-      },
-      {
-        "id": "world/coronavirus-outbreak",
-        "type": "keyword",
-        "sectionId": "world",
-        "sectionName": "World news",
-        "webTitle": "Coronavirus outbreak",
-        "webUrl": "https://www.theguardian.com/world/coronavirus-outbreak",
-        "apiUrl": "https://content.guardianapis.com/world/coronavirus-outbreak",
-        "references": []
-      },
-      {
-        "id": "law/law",
-        "type": "keyword",
-        "sectionId": "law",
-        "sectionName": "Law",
-        "webTitle": "Law",
-        "webUrl": "https://www.theguardian.com/law/law",
-        "apiUrl": "https://content.guardianapis.com/law/law",
-        "references": []
-      },
-      {
-        "id": "law/human-rights",
-        "type": "keyword",
-        "sectionId": "law",
-        "sectionName": "Law",
-        "webTitle": "Human rights",
-        "webUrl": "https://www.theguardian.com/law/human-rights",
-        "apiUrl": "https://content.guardianapis.com/law/human-rights",
-        "references": []
-      },
-      {
-        "id": "uk/uk",
-        "type": "keyword",
-        "sectionId": "uk-news",
-        "sectionName": "UK news",
-        "webTitle": "UK news",
-        "webUrl": "https://www.theguardian.com/uk/uk",
-        "apiUrl": "https://content.guardianapis.com/uk/uk",
-        "references": []
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/comment",
-        "type": "tone",
-        "webTitle": "Comment",
-        "webUrl": "https://www.theguardian.com/tone/comment",
-        "apiUrl": "https://content.guardianapis.com/tone/comment",
-        "references": []
-      },
-      {
-        "id": "profile/geoffreyrobertson",
-        "type": "contributor",
-        "webTitle": "Geoffrey Robertson",
-        "webUrl": "https://www.theguardian.com/profile/geoffreyrobertson",
-        "apiUrl": "https://content.guardianapis.com/profile/geoffreyrobertson",
-        "references": [],
-        "bio": "<p>Geoffrey Robertson is a human rights barrister and founder of Doughty Street Chambers. His books include Crimes Against Humanity and The Struggle for Global Justice</p>",
-        "bylineImageUrl": "https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/21/1398088029367/Geoffrey-Robertson.jpg",
-        "firstName": "Geoffrey ",
-        "lastName": "Robertson"
-      },
-      {
-        "id": "tracking/commissioningdesk/uk-opinion",
-        "type": "tracking",
-        "webTitle": "UK Opinion",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/uk-opinion",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/uk-opinion",
-        "references": []
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/opinion",
-    "pillarName": "Opinion"
   },
   {
     "id": "sport/2020/apr/26/hull-kr-owner-rugby-league-could-cease-to-exist-full-time-sport-coronavirus-outbreak",
@@ -15650,203 +15650,6 @@
     "pillarName": "News"
   },
   {
-    "id": "australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
-    "type": "article",
-    "sectionId": "environment",
-    "sectionName": "Environment",
-    "webPublicationDate": "2020-04-26T17:30:20Z",
-    "webTitle": "Zali Steggall calls for investigation of Coalition plan to underwrite gas, hydro and coal power",
-    "webUrl": "https://www.theguardian.com/australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
-    "apiUrl": "https://content.guardianapis.com/australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
-    "fields": {
-      "headline": "Zali Steggall calls for investigation of Coalition plan to underwrite gas, hydro and coal power",
-      "standfirst": "<p>Independent MP says scheme lacks transparency and government has no authority to introduce it</p>",
-      "trailText": "Independent MP says scheme lacks transparency and government has no authority to introduce it",
-      "byline": "Adam Morton Environment editor",
-      "main": "<figure class=\"element element-image\" data-media-id=\"08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552\"> <img src=\"https://media.guim.co.uk/08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552/0_319_5121_3073/1000.jpg\" alt=\"Independent MP Zali Steggall\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Independent MP Zali Steggall has written to the auditor general, asking him to consider investigating the power underwriting program.</span> <span class=\"element-image__credit\">Photograph: Mick Tsikas/EPA</span> </figcaption> </figure>",
-      "body": "<p>Independent MP Zali Steggall has asked the auditor general to investigate a Morrison government scheme to underwrite gas, hydro and coal power, saying it lacks transparency and citing legal advice that the Coalition had no constitutional or legislative authority to introduce it.</p> <p>Announced in late 2018 after the government abandoned Malcolm Turnbull\u2019s proposed <a href=\"https://www.theguardian.com/australia-news/national-energy-guarantee--neg-\">national energy guarantee</a>, the <a href=\"https://www.theguardian.com/australia-news/2019/aug/29/energy-companies-frustrated-at-slow-progress-on-taxpayer-underwriting-deals\">underwriting new generation investment</a> (Ungi) scheme promises public support for new dispatchable power generation projects to increase competition in the electricity grid. <a href=\"https://www.theguardian.com/australia-news/2019/mar/26/one-very-small-coal-plant-scott-morrison-list-12-energy-projects\">Twelve projects have been shortlisted</a>, including six pumped hydro plants, five gas generators and an upgrade to the Vales Point coal-fired power plant.</p> <p>Steggall has written to the auditor general, Grant Hehir, asking him to consider investigating the program \u201cas a matter of priority\u201d. Her letter refers to research by The Australia Institute, a progressive thinktank, suggesting the program has no constitutional or legislative standing, no guidelines or criteria to assess projects, and its development and implementation did not follow a clear process.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/environment/2020/jan/21/scott-morrison-says-the-government-is-acting-on-emissions-is-it-true\">Scott Morrison says the government is acting on emissions. Is it true?</a> </p> </aside>  <p>She said despite these apparent flaws the government had shortlisted projects, started <a href=\"https://parlinfo.aph.gov.au/parlInfo/download/committees/estimate/49226b7b-2438-49b8-8f8a-94857366c5de/toc_pdf/Environment%20and%20Communications%20Legislation%20Committee_2020_03_02_7594.pdf;fileType=application%2Fpdf#search=%22committees/estimate/49226b7b-2438-49b8-8f8a-94857366c5de/0000%22\">\u201cadvanced negotiations\u201d</a> to support gas-fired plants in Victoria and Queensland and entered a <a href=\"https://energy.nsw.gov.au/media/2001/download\">memorandum-of-understanding</a> with the New South Wales government to support three projects in the state.</p> <p>The federal government is increasingly emphasising the need for <a href=\"https://www.smh.com.au/politics/federal/gas-revival-key-to-renewables-push-energy-minister-says-20200424-p54n2n.html\">greater investment in \u201cfast-start\u201d gas power</a>. In media interviews over the past week, the energy and emissions reduction minister, Angus Taylor, has called for a <a href=\"https://www.smh.com.au/politics/federal/gas-to-fire-economic-recovery-and-capitalise-on-cheap-oil-prices-20200421-p54lw8.html\">\u201cgas-fired recovery\u201d</a> from the Covid-19 pandemic after the <a href=\"https://www.theguardian.com/environment/2020/apr/13/australias-booming-lng-industry-stalls-after-fall-in-oil-prices-amid-coronavirus\">collapse of oil and gas prices</a>. The federal-NSW MOU says the state will set a target to increase the<a href=\"https://www.theguardian.com/australia-news/2020/jan/31/narrabri-farmers-feel-sold-out-by-federal-nsw-energy-deal-that-boosts-gas-supply\"> amount of gas available each year by 70 petajoules</a>, a more than 50% increase.</p> <p>Steggall, who entered parliament last year <a href=\"https://www.theguardian.com/global/2019/may/18/australian-election-tony-abbott-loses-his-warringah-seat-to-zali-steggall\">on a climate action platform</a>, said the focus on fossil fuels was questionable and there was little visibility of how and why the projects shortlisted for underwriting had been chosen.</p> <p>She said her concern about the program was heightened by the <a href=\"https://www.theguardian.com/australia-news/2020/mar/07/sports-rorts-changes-everything-its-time-for-a-federal-icac\">controversy over the $100m sports grant program</a> that led to the resignation of former minister Bridget McKenzie. The Australian National Audit Office <a href=\"https://www.theguardian.com/australia-news/2020/feb/13/sports-rorts-almost-half-projects-funded-ineligible-audit-office-says\">found 43% of projects funded under that program</a> were ineligible when agreements were signed.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2019/mar/25/morrison-government-set-to-offer-taxpayer-backing-for-queensland-power\">Morrison government set to offer taxpayer backing for Queensland power</a> </p> </aside>  <p>\u201cThere\u2019s just no transparency or accountability around this,\u201d Steggall told Guardian Australia. \u201cWe\u2019ve seen what happened with sport rorts. We\u2019re talking about commonwealth money at a time when we know the economy has taken a hit due to coronavirus, and I think it should be properly investigated.\u201d</p> <p>The Australia Institute analysis is based in part on <a href=\"https://www.tai.org.au/content/legal-advice-energy-generation-program-unconstitutional\">a legal opinion by barristers Fiona McLeod SC and Lindy Barrett</a>, which said Taylor does not have constitutional authority over electricity or legislative authority to fund projects as proposed under the Ungi scheme.</p> <p>A spokesman for Taylor rejected this opinion. He said the then Department of Environment and Energy commissioned legal advice and \u201cundertook all necessary legal steps, including publishing clear merit criteria\u201d in December 2018.</p> <p>The spokesman said the Ungi scheme was introduced after the Australian Competition and Consumer Commission identified the need for new \u201cfirm\u201d generation in the electricity grid to improve reliability, promote competition and drive down prices, particularly for commercial and industrial customers.</p> <p>\u201cThe Ungi program, which is the most cost-effective way to bring firm generation into the market, is a direct response to this recommendation of the ACCC,\u201d Taylor\u2019s spokesman said.</p> <p>Tony Wood, the energy program director at the Grattan Institute, <a href=\"https://www.theguardian.com/australia-news/2019/aug/29/energy-companies-frustrated-at-slow-progress-on-taxpayer-underwriting-deals\">last year warned</a> the scheme was quite different to <a href=\"https://www.accc.gov.au/media-release/more-work-needed-to-make-electricity-prices-affordable\">the ACCC recommendation that sparked it</a> and could could work against the government\u2019s goals of helping cut power bills and ensuring there was enough firm electricity that could be called on at any time as it would make energy companies without government support less likely to invest in new generation.</p>",
-      "wordcount": "620",
-      "commentCloseDate": "2020-04-27T05:15:00Z",
-      "commentable": "true",
-      "firstPublicationDate": "2020-04-26T17:30:20Z",
-      "isInappropriateForSponsorship": "false",
-      "isPremoderated": "false",
-      "lastModified": "2020-05-01T05:52:44Z",
-      "productionOffice": "AUS",
-      "publication": "theguardian.com",
-      "shortUrl": "https://gu.com/p/dm6n4",
-      "shouldHideAdverts": "false",
-      "showInRelatedContent": "true",
-      "thumbnail": "https://media.guim.co.uk/08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552/0_319_5121_3073/500.jpg",
-      "legallySensitive": "false",
-      "lang": "en",
-      "isLive": "true",
-      "bodyText": "Independent MP Zali Steggall has asked the auditor general to investigate a Morrison government scheme to underwrite gas, hydro and coal power, saying it lacks transparency and citing legal advice that the Coalition had no constitutional or legislative authority to introduce it. Announced in late 2018 after the government abandoned Malcolm Turnbull\u2019s proposed national energy guarantee, the underwriting new generation investment (Ungi) scheme promises public support for new dispatchable power generation projects to increase competition in the electricity grid. Twelve projects have been shortlisted, including six pumped hydro plants, five gas generators and an upgrade to the Vales Point coal-fired power plant. Steggall has written to the auditor general, Grant Hehir, asking him to consider investigating the program \u201cas a matter of priority\u201d. Her letter refers to research by The Australia Institute, a progressive thinktank, suggesting the program has no constitutional or legislative standing, no guidelines or criteria to assess projects, and its development and implementation did not follow a clear process. She said despite these apparent flaws the government had shortlisted projects, started \u201cadvanced negotiations\u201d to support gas-fired plants in Victoria and Queensland and entered a memorandum-of-understanding with the New South Wales government to support three projects in the state. The federal government is increasingly emphasising the need for greater investment in \u201cfast-start\u201d gas power. In media interviews over the past week, the energy and emissions reduction minister, Angus Taylor, has called for a \u201cgas-fired recovery\u201d from the Covid-19 pandemic after the collapse of oil and gas prices. The federal-NSW MOU says the state will set a target to increase the amount of gas available each year by 70 petajoules, a more than 50% increase. Steggall, who entered parliament last year on a climate action platform, said the focus on fossil fuels was questionable and there was little visibility of how and why the projects shortlisted for underwriting had been chosen. She said her concern about the program was heightened by the controversy over the $100m sports grant program that led to the resignation of former minister Bridget McKenzie. The Australian National Audit Office found 43% of projects funded under that program were ineligible when agreements were signed. \u201cThere\u2019s just no transparency or accountability around this,\u201d Steggall told Guardian Australia. \u201cWe\u2019ve seen what happened with sport rorts. We\u2019re talking about commonwealth money at a time when we know the economy has taken a hit due to coronavirus, and I think it should be properly investigated.\u201d The Australia Institute analysis is based in part on a legal opinion by barristers Fiona McLeod SC and Lindy Barrett, which said Taylor does not have constitutional authority over electricity or legislative authority to fund projects as proposed under the Ungi scheme. A spokesman for Taylor rejected this opinion. He said the then Department of Environment and Energy commissioned legal advice and \u201cundertook all necessary legal steps, including publishing clear merit criteria\u201d in December 2018. The spokesman said the Ungi scheme was introduced after the Australian Competition and Consumer Commission identified the need for new \u201cfirm\u201d generation in the electricity grid to improve reliability, promote competition and drive down prices, particularly for commercial and industrial customers. \u201cThe Ungi program, which is the most cost-effective way to bring firm generation into the market, is a direct response to this recommendation of the ACCC,\u201d Taylor\u2019s spokesman said. Tony Wood, the energy program director at the Grattan Institute, last year warned the scheme was quite different to the ACCC recommendation that sparked it and could could work against the government\u2019s goals of helping cut power bills and ensuring there was enough firm electricity that could be called on at any time as it would make energy companies without government support less likely to invest in new generation.",
-      "charCount": "4095",
-      "shouldHideReaderRevenue": "false",
-      "showAffiliateLinks": "false",
-      "bylineHtml": "<a href=\"profile/adam-morton\">Adam Morton</a> Environment editor"
-    },
-    "tags": [
-      {
-        "id": "environment/series/environmental-investigations",
-        "type": "series",
-        "sectionId": "environment",
-        "sectionName": "Environment",
-        "webTitle": "Environmental investigations",
-        "webUrl": "https://www.theguardian.com/environment/series/environmental-investigations",
-        "apiUrl": "https://content.guardianapis.com/environment/series/environmental-investigations",
-        "references": [],
-        "description": "<p>Environmental investigations reporting supported by the Limb Family Foundation</p>",
-        "activeSponsorships": [
-          {
-            "sponsorshipType": "sponsored",
-            "sponsorName": "Limb Family Foundation",
-            "sponsorLogo": "https://static.theguardian.com/commercial/sponsor/28/Oct/2019/29705ef9-2b13-4601-a762-8b5cc2140437-LFF high resolution logo (1).png",
-            "sponsorLink": "https://www.aegn.org.au/about/board/julia-limb/",
-            "sponsorLogoDimensions": {
-              "width": 180,
-              "height": 123
-            },
-            "validFrom": "2019-10-28T23:55:41Z",
-            "validTo": "2021-10-28T13:00:00Z"
-          }
-        ]
-      },
-      {
-        "id": "australia-news/energy-australia",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Energy",
-        "webUrl": "https://www.theguardian.com/australia-news/energy-australia",
-        "apiUrl": "https://content.guardianapis.com/australia-news/energy-australia",
-        "references": []
-      },
-      {
-        "id": "australia-news/zali-steggall",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Zali Steggall",
-        "webUrl": "https://www.theguardian.com/australia-news/zali-steggall",
-        "apiUrl": "https://content.guardianapis.com/australia-news/zali-steggall",
-        "references": []
-      },
-      {
-        "id": "australia-news/australian-politics",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australian politics",
-        "webUrl": "https://www.theguardian.com/australia-news/australian-politics",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australian-politics",
-        "references": []
-      },
-      {
-        "id": "environment/environment",
-        "type": "keyword",
-        "sectionId": "environment",
-        "sectionName": "Environment",
-        "webTitle": "Environment",
-        "webUrl": "https://www.theguardian.com/environment/environment",
-        "apiUrl": "https://content.guardianapis.com/environment/environment",
-        "references": []
-      },
-      {
-        "id": "australia-news/australia-news",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "Australia news",
-        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
-        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
-        "references": []
-      },
-      {
-        "id": "environment/energy",
-        "type": "keyword",
-        "sectionId": "environment",
-        "sectionName": "Environment",
-        "webTitle": "Energy",
-        "webUrl": "https://www.theguardian.com/environment/energy",
-        "apiUrl": "https://content.guardianapis.com/environment/energy",
-        "references": []
-      },
-      {
-        "id": "environment/coal",
-        "type": "keyword",
-        "sectionId": "environment",
-        "sectionName": "Environment",
-        "webTitle": "Coal",
-        "webUrl": "https://www.theguardian.com/environment/coal",
-        "apiUrl": "https://content.guardianapis.com/environment/coal",
-        "references": []
-      },
-      {
-        "id": "environment/fossil-fuels",
-        "type": "keyword",
-        "sectionId": "environment",
-        "sectionName": "Environment",
-        "webTitle": "Fossil fuels",
-        "webUrl": "https://www.theguardian.com/environment/fossil-fuels",
-        "apiUrl": "https://content.guardianapis.com/environment/fossil-fuels",
-        "references": []
-      },
-      {
-        "id": "australia-news/icymi-australia",
-        "type": "keyword",
-        "sectionId": "australia-news",
-        "sectionName": "Australia news",
-        "webTitle": "ICYMI",
-        "webUrl": "https://www.theguardian.com/australia-news/icymi-australia",
-        "apiUrl": "https://content.guardianapis.com/australia-news/icymi-australia",
-        "references": []
-      },
-      {
-        "id": "type/article",
-        "type": "type",
-        "webTitle": "Article",
-        "webUrl": "https://www.theguardian.com/articles",
-        "apiUrl": "https://content.guardianapis.com/type/article",
-        "references": []
-      },
-      {
-        "id": "tone/news",
-        "type": "tone",
-        "webTitle": "News",
-        "webUrl": "https://www.theguardian.com/tone/news",
-        "apiUrl": "https://content.guardianapis.com/tone/news",
-        "references": []
-      },
-      {
-        "id": "profile/adam-morton",
-        "type": "contributor",
-        "webTitle": "Adam Morton",
-        "webUrl": "https://www.theguardian.com/profile/adam-morton",
-        "apiUrl": "https://content.guardianapis.com/profile/adam-morton",
-        "references": [],
-        "bio": "<p>Adam Morton is Guardian Australia's environment editor. Email: adam.morton@theguardian.com</p>",
-        "bylineImageUrl": "https://uploads.guim.co.uk/2019/07/25/Adam_Morton.jpg",
-        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2019/07/25/Adam_Morton.png",
-        "firstName": "Adam",
-        "lastName": "Morton",
-        "twitterHandle": "adamlmorton"
-      },
-      {
-        "id": "tracking/commissioningdesk/australia-news",
-        "type": "tracking",
-        "webTitle": "Australia News",
-        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
-        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
-        "references": []
-      }
-    ],
-    "isHosted": false,
-    "pillarId": "pillar/news",
-    "pillarName": "News"
-  },
-  {
     "id": "lifeandstyle/2020/apr/27/its-like-a-sexy-story-just-for-me-how-lockdown-has-triggered-a-wave-of-sexting",
     "type": "article",
     "sectionId": "lifeandstyle",
@@ -16110,6 +15913,203 @@
         "firstName": "Michael",
         "lastName": "McGowan",
         "twitterHandle": "mmcgowan"
+      },
+      {
+        "id": "tracking/commissioningdesk/australia-news",
+        "type": "tracking",
+        "webTitle": "Australia News",
+        "webUrl": "https://www.theguardian.com/tracking/commissioningdesk/australia-news",
+        "apiUrl": "https://content.guardianapis.com/tracking/commissioningdesk/australia-news",
+        "references": []
+      }
+    ],
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News"
+  },
+  {
+    "id": "australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
+    "type": "article",
+    "sectionId": "environment",
+    "sectionName": "Environment",
+    "webPublicationDate": "2020-04-26T17:30:20Z",
+    "webTitle": "Zali Steggall calls for investigation of Coalition plan to underwrite gas, hydro and coal power",
+    "webUrl": "https://www.theguardian.com/australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
+    "apiUrl": "https://content.guardianapis.com/australia-news/2020/apr/27/zali-steggall-calls-for-probe-of-coalition-plan-to-underwrite-gas-hydro-and-coal-power",
+    "fields": {
+      "headline": "Zali Steggall calls for investigation of Coalition plan to underwrite gas, hydro and coal power",
+      "standfirst": "<p>Independent MP says scheme lacks transparency and government has no authority to introduce it</p>",
+      "trailText": "Independent MP says scheme lacks transparency and government has no authority to introduce it",
+      "byline": "Adam Morton Environment editor",
+      "main": "<figure class=\"element element-image\" data-media-id=\"08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552\"> <img src=\"https://media.guim.co.uk/08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552/0_319_5121_3073/1000.jpg\" alt=\"Independent MP Zali Steggall\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">Independent MP Zali Steggall has written to the auditor general, asking him to consider investigating the power underwriting program.</span> <span class=\"element-image__credit\">Photograph: Mick Tsikas/EPA</span> </figcaption> </figure>",
+      "body": "<p>Independent MP Zali Steggall has asked the auditor general to investigate a Morrison government scheme to underwrite gas, hydro and coal power, saying it lacks transparency and citing legal advice that the Coalition had no constitutional or legislative authority to introduce it.</p> <p>Announced in late 2018 after the government abandoned Malcolm Turnbull\u2019s proposed <a href=\"https://www.theguardian.com/australia-news/national-energy-guarantee--neg-\">national energy guarantee</a>, the <a href=\"https://www.theguardian.com/australia-news/2019/aug/29/energy-companies-frustrated-at-slow-progress-on-taxpayer-underwriting-deals\">underwriting new generation investment</a> (Ungi) scheme promises public support for new dispatchable power generation projects to increase competition in the electricity grid. <a href=\"https://www.theguardian.com/australia-news/2019/mar/26/one-very-small-coal-plant-scott-morrison-list-12-energy-projects\">Twelve projects have been shortlisted</a>, including six pumped hydro plants, five gas generators and an upgrade to the Vales Point coal-fired power plant.</p> <p>Steggall has written to the auditor general, Grant Hehir, asking him to consider investigating the program \u201cas a matter of priority\u201d. Her letter refers to research by The Australia Institute, a progressive thinktank, suggesting the program has no constitutional or legislative standing, no guidelines or criteria to assess projects, and its development and implementation did not follow a clear process.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/environment/2020/jan/21/scott-morrison-says-the-government-is-acting-on-emissions-is-it-true\">Scott Morrison says the government is acting on emissions. Is it true?</a> </p> </aside>  <p>She said despite these apparent flaws the government had shortlisted projects, started <a href=\"https://parlinfo.aph.gov.au/parlInfo/download/committees/estimate/49226b7b-2438-49b8-8f8a-94857366c5de/toc_pdf/Environment%20and%20Communications%20Legislation%20Committee_2020_03_02_7594.pdf;fileType=application%2Fpdf#search=%22committees/estimate/49226b7b-2438-49b8-8f8a-94857366c5de/0000%22\">\u201cadvanced negotiations\u201d</a> to support gas-fired plants in Victoria and Queensland and entered a <a href=\"https://energy.nsw.gov.au/media/2001/download\">memorandum-of-understanding</a> with the New South Wales government to support three projects in the state.</p> <p>The federal government is increasingly emphasising the need for <a href=\"https://www.smh.com.au/politics/federal/gas-revival-key-to-renewables-push-energy-minister-says-20200424-p54n2n.html\">greater investment in \u201cfast-start\u201d gas power</a>. In media interviews over the past week, the energy and emissions reduction minister, Angus Taylor, has called for a <a href=\"https://www.smh.com.au/politics/federal/gas-to-fire-economic-recovery-and-capitalise-on-cheap-oil-prices-20200421-p54lw8.html\">\u201cgas-fired recovery\u201d</a> from the Covid-19 pandemic after the <a href=\"https://www.theguardian.com/environment/2020/apr/13/australias-booming-lng-industry-stalls-after-fall-in-oil-prices-amid-coronavirus\">collapse of oil and gas prices</a>. The federal-NSW MOU says the state will set a target to increase the<a href=\"https://www.theguardian.com/australia-news/2020/jan/31/narrabri-farmers-feel-sold-out-by-federal-nsw-energy-deal-that-boosts-gas-supply\"> amount of gas available each year by 70 petajoules</a>, a more than 50% increase.</p> <p>Steggall, who entered parliament last year <a href=\"https://www.theguardian.com/global/2019/may/18/australian-election-tony-abbott-loses-his-warringah-seat-to-zali-steggall\">on a climate action platform</a>, said the focus on fossil fuels was questionable and there was little visibility of how and why the projects shortlisted for underwriting had been chosen.</p> <p>She said her concern about the program was heightened by the <a href=\"https://www.theguardian.com/australia-news/2020/mar/07/sports-rorts-changes-everything-its-time-for-a-federal-icac\">controversy over the $100m sports grant program</a> that led to the resignation of former minister Bridget McKenzie. The Australian National Audit Office <a href=\"https://www.theguardian.com/australia-news/2020/feb/13/sports-rorts-almost-half-projects-funded-ineligible-audit-office-says\">found 43% of projects funded under that program</a> were ineligible when agreements were signed.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/australia-news/2019/mar/25/morrison-government-set-to-offer-taxpayer-backing-for-queensland-power\">Morrison government set to offer taxpayer backing for Queensland power</a> </p> </aside>  <p>\u201cThere\u2019s just no transparency or accountability around this,\u201d Steggall told Guardian Australia. \u201cWe\u2019ve seen what happened with sport rorts. We\u2019re talking about commonwealth money at a time when we know the economy has taken a hit due to coronavirus, and I think it should be properly investigated.\u201d</p> <p>The Australia Institute analysis is based in part on <a href=\"https://www.tai.org.au/content/legal-advice-energy-generation-program-unconstitutional\">a legal opinion by barristers Fiona McLeod SC and Lindy Barrett</a>, which said Taylor does not have constitutional authority over electricity or legislative authority to fund projects as proposed under the Ungi scheme.</p> <p>A spokesman for Taylor rejected this opinion. He said the then Department of Environment and Energy commissioned legal advice and \u201cundertook all necessary legal steps, including publishing clear merit criteria\u201d in December 2018.</p> <p>The spokesman said the Ungi scheme was introduced after the Australian Competition and Consumer Commission identified the need for new \u201cfirm\u201d generation in the electricity grid to improve reliability, promote competition and drive down prices, particularly for commercial and industrial customers.</p> <p>\u201cThe Ungi program, which is the most cost-effective way to bring firm generation into the market, is a direct response to this recommendation of the ACCC,\u201d Taylor\u2019s spokesman said.</p> <p>Tony Wood, the energy program director at the Grattan Institute, <a href=\"https://www.theguardian.com/australia-news/2019/aug/29/energy-companies-frustrated-at-slow-progress-on-taxpayer-underwriting-deals\">last year warned</a> the scheme was quite different to <a href=\"https://www.accc.gov.au/media-release/more-work-needed-to-make-electricity-prices-affordable\">the ACCC recommendation that sparked it</a> and could could work against the government\u2019s goals of helping cut power bills and ensuring there was enough firm electricity that could be called on at any time as it would make energy companies without government support less likely to invest in new generation.</p>",
+      "wordcount": "620",
+      "commentCloseDate": "2020-04-27T05:15:00Z",
+      "commentable": "true",
+      "firstPublicationDate": "2020-04-26T17:30:20Z",
+      "isInappropriateForSponsorship": "false",
+      "isPremoderated": "false",
+      "lastModified": "2020-05-01T05:52:44Z",
+      "productionOffice": "AUS",
+      "publication": "theguardian.com",
+      "shortUrl": "https://gu.com/p/dm6n4",
+      "shouldHideAdverts": "false",
+      "showInRelatedContent": "true",
+      "thumbnail": "https://media.guim.co.uk/08bc133d5cd0f6e8fad8fb1ee690f0ccc58e3552/0_319_5121_3073/500.jpg",
+      "legallySensitive": "false",
+      "lang": "en",
+      "isLive": "true",
+      "bodyText": "Independent MP Zali Steggall has asked the auditor general to investigate a Morrison government scheme to underwrite gas, hydro and coal power, saying it lacks transparency and citing legal advice that the Coalition had no constitutional or legislative authority to introduce it. Announced in late 2018 after the government abandoned Malcolm Turnbull\u2019s proposed national energy guarantee, the underwriting new generation investment (Ungi) scheme promises public support for new dispatchable power generation projects to increase competition in the electricity grid. Twelve projects have been shortlisted, including six pumped hydro plants, five gas generators and an upgrade to the Vales Point coal-fired power plant. Steggall has written to the auditor general, Grant Hehir, asking him to consider investigating the program \u201cas a matter of priority\u201d. Her letter refers to research by The Australia Institute, a progressive thinktank, suggesting the program has no constitutional or legislative standing, no guidelines or criteria to assess projects, and its development and implementation did not follow a clear process. She said despite these apparent flaws the government had shortlisted projects, started \u201cadvanced negotiations\u201d to support gas-fired plants in Victoria and Queensland and entered a memorandum-of-understanding with the New South Wales government to support three projects in the state. The federal government is increasingly emphasising the need for greater investment in \u201cfast-start\u201d gas power. In media interviews over the past week, the energy and emissions reduction minister, Angus Taylor, has called for a \u201cgas-fired recovery\u201d from the Covid-19 pandemic after the collapse of oil and gas prices. The federal-NSW MOU says the state will set a target to increase the amount of gas available each year by 70 petajoules, a more than 50% increase. Steggall, who entered parliament last year on a climate action platform, said the focus on fossil fuels was questionable and there was little visibility of how and why the projects shortlisted for underwriting had been chosen. She said her concern about the program was heightened by the controversy over the $100m sports grant program that led to the resignation of former minister Bridget McKenzie. The Australian National Audit Office found 43% of projects funded under that program were ineligible when agreements were signed. \u201cThere\u2019s just no transparency or accountability around this,\u201d Steggall told Guardian Australia. \u201cWe\u2019ve seen what happened with sport rorts. We\u2019re talking about commonwealth money at a time when we know the economy has taken a hit due to coronavirus, and I think it should be properly investigated.\u201d The Australia Institute analysis is based in part on a legal opinion by barristers Fiona McLeod SC and Lindy Barrett, which said Taylor does not have constitutional authority over electricity or legislative authority to fund projects as proposed under the Ungi scheme. A spokesman for Taylor rejected this opinion. He said the then Department of Environment and Energy commissioned legal advice and \u201cundertook all necessary legal steps, including publishing clear merit criteria\u201d in December 2018. The spokesman said the Ungi scheme was introduced after the Australian Competition and Consumer Commission identified the need for new \u201cfirm\u201d generation in the electricity grid to improve reliability, promote competition and drive down prices, particularly for commercial and industrial customers. \u201cThe Ungi program, which is the most cost-effective way to bring firm generation into the market, is a direct response to this recommendation of the ACCC,\u201d Taylor\u2019s spokesman said. Tony Wood, the energy program director at the Grattan Institute, last year warned the scheme was quite different to the ACCC recommendation that sparked it and could could work against the government\u2019s goals of helping cut power bills and ensuring there was enough firm electricity that could be called on at any time as it would make energy companies without government support less likely to invest in new generation.",
+      "charCount": "4095",
+      "shouldHideReaderRevenue": "false",
+      "showAffiliateLinks": "false",
+      "bylineHtml": "<a href=\"profile/adam-morton\">Adam Morton</a> Environment editor"
+    },
+    "tags": [
+      {
+        "id": "environment/series/environmental-investigations",
+        "type": "series",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webTitle": "Environmental investigations",
+        "webUrl": "https://www.theguardian.com/environment/series/environmental-investigations",
+        "apiUrl": "https://content.guardianapis.com/environment/series/environmental-investigations",
+        "references": [],
+        "description": "<p>Environmental investigations reporting supported by the Limb Family Foundation</p>",
+        "activeSponsorships": [
+          {
+            "sponsorshipType": "sponsored",
+            "sponsorName": "Limb Family Foundation",
+            "sponsorLogo": "https://static.theguardian.com/commercial/sponsor/28/Oct/2019/29705ef9-2b13-4601-a762-8b5cc2140437-LFF high resolution logo (1).png",
+            "sponsorLink": "https://www.aegn.org.au/about/board/julia-limb/",
+            "sponsorLogoDimensions": {
+              "width": 180,
+              "height": 123
+            },
+            "validFrom": "2019-10-28T23:55:41Z",
+            "validTo": "2021-10-28T13:00:00Z"
+          }
+        ]
+      },
+      {
+        "id": "australia-news/energy-australia",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Energy",
+        "webUrl": "https://www.theguardian.com/australia-news/energy-australia",
+        "apiUrl": "https://content.guardianapis.com/australia-news/energy-australia",
+        "references": []
+      },
+      {
+        "id": "australia-news/zali-steggall",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Zali Steggall",
+        "webUrl": "https://www.theguardian.com/australia-news/zali-steggall",
+        "apiUrl": "https://content.guardianapis.com/australia-news/zali-steggall",
+        "references": []
+      },
+      {
+        "id": "australia-news/australian-politics",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australian politics",
+        "webUrl": "https://www.theguardian.com/australia-news/australian-politics",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australian-politics",
+        "references": []
+      },
+      {
+        "id": "environment/environment",
+        "type": "keyword",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webTitle": "Environment",
+        "webUrl": "https://www.theguardian.com/environment/environment",
+        "apiUrl": "https://content.guardianapis.com/environment/environment",
+        "references": []
+      },
+      {
+        "id": "australia-news/australia-news",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "Australia news",
+        "webUrl": "https://www.theguardian.com/australia-news/australia-news",
+        "apiUrl": "https://content.guardianapis.com/australia-news/australia-news",
+        "references": []
+      },
+      {
+        "id": "environment/energy",
+        "type": "keyword",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webTitle": "Energy",
+        "webUrl": "https://www.theguardian.com/environment/energy",
+        "apiUrl": "https://content.guardianapis.com/environment/energy",
+        "references": []
+      },
+      {
+        "id": "environment/coal",
+        "type": "keyword",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webTitle": "Coal",
+        "webUrl": "https://www.theguardian.com/environment/coal",
+        "apiUrl": "https://content.guardianapis.com/environment/coal",
+        "references": []
+      },
+      {
+        "id": "environment/fossil-fuels",
+        "type": "keyword",
+        "sectionId": "environment",
+        "sectionName": "Environment",
+        "webTitle": "Fossil fuels",
+        "webUrl": "https://www.theguardian.com/environment/fossil-fuels",
+        "apiUrl": "https://content.guardianapis.com/environment/fossil-fuels",
+        "references": []
+      },
+      {
+        "id": "australia-news/icymi-australia",
+        "type": "keyword",
+        "sectionId": "australia-news",
+        "sectionName": "Australia news",
+        "webTitle": "ICYMI",
+        "webUrl": "https://www.theguardian.com/australia-news/icymi-australia",
+        "apiUrl": "https://content.guardianapis.com/australia-news/icymi-australia",
+        "references": []
+      },
+      {
+        "id": "type/article",
+        "type": "type",
+        "webTitle": "Article",
+        "webUrl": "https://www.theguardian.com/articles",
+        "apiUrl": "https://content.guardianapis.com/type/article",
+        "references": []
+      },
+      {
+        "id": "tone/news",
+        "type": "tone",
+        "webTitle": "News",
+        "webUrl": "https://www.theguardian.com/tone/news",
+        "apiUrl": "https://content.guardianapis.com/tone/news",
+        "references": []
+      },
+      {
+        "id": "profile/adam-morton",
+        "type": "contributor",
+        "webTitle": "Adam Morton",
+        "webUrl": "https://www.theguardian.com/profile/adam-morton",
+        "apiUrl": "https://content.guardianapis.com/profile/adam-morton",
+        "references": [],
+        "bio": "<p>Adam Morton is Guardian Australia's environment editor. Email: adam.morton@theguardian.com</p>",
+        "bylineImageUrl": "https://uploads.guim.co.uk/2019/07/25/Adam_Morton.jpg",
+        "bylineLargeImageUrl": "https://uploads.guim.co.uk/2019/07/25/Adam_Morton.png",
+        "firstName": "Adam",
+        "lastName": "Morton",
+        "twitterHandle": "adamlmorton"
       },
       {
         "id": "tracking/commissioningdesk/australia-news",
